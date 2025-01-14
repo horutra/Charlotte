@@ -1,0 +1,420 @@
+Term,Section Name,Requisites,Description,Available Seats,Enrolled,Capacity,Waitlisted,Instructor Method,Modality 1 Schedule,Modality 1 Instructor,Modality 1 Times,Modality 1 Location,Modality 1 Days,Modality 2 Times,Modality 2 Days,Modality 2 Instructor,Modality 2 Location
+2025 Spring Semester,AAT-101-7072,None,Engine Repair,0,25,25,18,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Kramer, B",8:00 AM - 9:05 AM,None,M/W,9:05 AM - 12:15 PM,M/W,None,None,None
+2025 Spring Semester,AAT-120-7002,None,Electrical & Electronic System,0,25,25,10,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Kramer, B",1:00 PM - 2:05 PM,None,M/W,2:05 PM - 5:15 PM,M/W,None,None,None
+2025 Spring Semester,AAT-140-7073,None,Brake Systems,0,25,25,20,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Kramer, B",1:00 PM - 2:05 PM,None,T/Th,2:05 PM - 5:15 PM,T/Th,None,None,None
+2025 Spring Semester,AAT-141-0718,None,Steering & Suspension Systems,0,25,25,10,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Teraji, J",8:00 AM - 9:05 AM,None,T/Th,9:05 AM - 12:15 PM,T/Th,None,None,None
+2025 Spring Semester,AAT-151-0733,None,Automatic Transmission,0,25,25,3,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Musselman, W",5:45 PM - 6:50 PM,None,M/W,6:50 PM - 10:00 PM,M/W,None,None,None
+2025 Spring Semester,ABT-104-7011,None,Ag Bus Dev for New Organic,8,26,34,3,"Lab - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 3/22/2025,"Harkleroad, N",1:00 PM - 4:10 PM,None,Sa, - ,,None,None,None
+2025 Spring Semester,ABT-105-7012,None,Marketing Opportunities,11,23,34,0,"Lab - in Person, Internet - Async Hybrid (lec)",4/1/2025 - 5/24/2025,"Harkleroad, N",1:00 PM - 4:10 PM,None,Sa, - ,,None,None,None
+2025 Spring Semester,ABT-131-7013,None,Ag Practices for Food Safety,4,28,32,0,Lecture - in Person,4/1/2025 - 5/24/2025,"Carlson, C",6:00 PM - 9:35 PM,None,M,None,None,None,None,None
+2025 Spring Semester,ABT-132-7014,None,Food Safety Management,9,23,32,0,Lecture - in Person,4/1/2025 - 5/24/2025,"Mills, R",6:00 PM - 9:10 PM,None,T,None,None,None,None,None
+2025 Spring Semester,ABT-49-0887,None,Intro to Ag Bus,0,27,0,0,Lecture - in Person,2/7/2025 - 5/24/2025,"Villasenor, D",9:54 AM - 10:44 AM,None,M/T/Th/F,None,None,None,None,None
+2025 Spring Semester,ABT-52-8017,None,Sales & Serv in Agribusiness,1,33,34,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Pasculli, N", - ,None,,None,None,None,None,None
+2025 Spring Semester,ABT-53-7005,None,Agribusiness Economics,12,22,34,5,Lecture - in Person,1/27/2025 - 5/24/2025,"Pasculli, N",6:00 PM - 9:10 PM,None,M,None,None,None,None,None
+2025 Spring Semester,ABT-57-0727,None,Agric Computer Applications,19,15,34,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Triano, S",11:20 AM - 1:25 PM,None,M,1:25 PM - 4:40 PM,M,None,None,None
+2025 Spring Semester,ABT-58-7006,None,Agric Laws & Regulations,1,33,34,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Triano, S", - ,None,,None,None,None,None,None
+2025 Spring Semester,ABT-80-7007,None,Intro to Sustainable Ag & Food,16,18,34,10,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Rustad, E", - ,None,, - ,,None,None,None
+2025 Spring Semester,ABT-90-0725,None,Soil Science,20,14,34,10,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Rustad, E", - ,None,, - ,,None,None,None
+2025 Spring Semester,ABT-92-0726,None,Plant Science,21,13,34,10,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Rustad, E", - ,None,, - ,,None,None,None
+2025 Spring Semester,ABT-98-8014,None,Fertilizers & Plant Nutrition,20,14,34,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Triano, S",8:00 AM - 10:05 AM,None,W,11:20 AM - 2:30 PM,W,None,None,None
+2025 Spring Semester,ABT-99-0749,None,Occ Co-op Wk Exper Educ,9,25,34,0,Work Experience,1/27/2025 - 5/24/2025,"Harkleroad, N", - ,None,,None,None,None,None,None
+2025 Spring Semester,ADJ-1-0723,None,Intro to Admin of Justice,0,45,45,0,Internet - Async (lec),1/27/2025 - 5/24/2025,"Bertomen, L", - ,None,,None,None,None,None,None
+2025 Spring Semester,ADJ-10-5800,None,Juvenile Procedures,13,32,45,3,Lecture - in Person,1/27/2025 - 5/24/2025,"Filice, R",6:00 PM - 9:10 PM,None,M,None,None,None,None,None
+2025 Spring Semester,ADJ-102-5803,None,PC 832 Arrest and Firearms,3,22,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Hija, W",6:00 PM - 8:50 PM,None,T, - ,,None,None,None
+2025 Spring Semester,ADJ-11-0738,None,Law Enforcement Report Writing,34,11,45,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Bertomen, L", - ,None,,None,None,None,None,None
+2025 Spring Semester,ADJ-2-5801,None,Comm Rel and the Justice Syste,11,31,42,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Haworth, D",6:00 PM - 9:10 PM,None,W,None,None,None,None,None
+2025 Spring Semester,ADJ-21A-7020,None,Narcotics & Dangerous Drugs,30,15,45,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Bertomen, L", - ,None,,None,None,None,None,None
+2025 Spring Semester,ADJ-3-0739,None,Concepts of Criminal Law,20,25,45,6,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Parker, M",2:40 PM - 4:45 PM,None,M, - ,,None,None,None
+2025 Spring Semester,ADJ-33-0714,None,Const Law for Crim Just Profes,40,5,45,16,Internet - Async (lec),4/1/2025 - 5/24/2025,"Storm, L", - ,None,,None,None,None,None,None
+2025 Spring Semester,ADJ-34-7021,None,Civil Litigation,39,6,45,10,Internet - Async (lec),4/1/2025 - 5/24/2025,"Lewis, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,ADJ-4-0720,None,Criminal Evidence,0,45,45,0,Internet - Async (lec),1/27/2025 - 5/24/2025,"Storm, L", - ,None,,None,None,None,None,None
+2025 Spring Semester,ADJ-5-5822,None,Criminal Court Process,17,28,45,6,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Lavorato, S",6:00 PM - 7:25 PM,None,Th, - ,,None,None,None
+2025 Spring Semester,ADJ-51-9905,None,Criminology,0,0,0,0,"Lecture - in Person, D.E. - Passive Text 1-WAY",1/27/2025 - 5/24/2025,"Nyunt, J",5:00 PM - 8:00 PM,None,W, - ,,None,None,None
+2025 Spring Semester,ADJ-76-7023,None,Introduction to Forensics,24,21,45,0,"Lab - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Doglietto, D",6:00 PM - 9:10 PM,None,Th, - ,,None,None,None
+2025 Spring Semester,ADJ-8-5802,None,Criminal Investigation,3,39,42,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Doglietto, D",6:00 PM - 9:10 PM,None,T,None,None,None,None,None
+2025 Spring Semester,ADT-100-7024,None,Diesel Engine Technology,0,25,25,17,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Graham, S",5:45 PM - 6:50 PM,None,M/W,6:50 PM - 10:00 PM,M/W,None,None,None
+2025 Spring Semester,ADT-111-7074,None,Electrical Systems & Controls,0,25,25,16,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Graham, S",8:00 AM - 9:05 AM,None,M/W,9:05 AM - 12:15 PM,M/W,None,None,None
+2025 Spring Semester,ADT-121-7026,None,Preventive Maintenance,0,25,25,5,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Graham, S",1:00 PM - 2:05 PM,None,M/W,2:05 PM - 5:15 PM,M/W,None,None,None
+2025 Spring Semester,ADT-140-7075,None,Power Drive Train,0,25,25,2,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Graham, S",1:00 PM - 2:05 PM,None,T/Th,2:05 PM - 5:15 PM,T/Th,None,None,None
+2025 Spring Semester,ANT-1-0883,None,Intro to Biological Anthro,0,15,0,0,Lecture - in Person,2/4/2025 - 5/24/2025,"Lee, B",10:05 AM - 10:55 AM,None,M/T/Th/F,None,None,None,None,None
+2025 Spring Semester,ANT-10-6000,None,Indigenous Cultures of CA,43,10,53,20,Internet - Async (lec),1/27/2025 - 3/22/2025,"Sanchez, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,ANT-2-2003,None,Intro to Cultural Anthropology,0,53,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Merville, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,ANT-20-6001,None,Mesoamerica: Cultures and Civi,40,13,53,15,Internet - Async (lec),4/1/2025 - 5/24/2025,"Merville, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,AOD-1-2222,None,Fund of Chemical Dependency,38,15,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Marciel, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,AOD-10-2214,None,Chem Dep Practicum Seminar,37,5,42,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Marciel, J",6:00 PM - 7:25 PM,None,Th, - ,,None,None,None
+2025 Spring Semester,AOD-11-2219,None,"Individual, Group and Family",33,20,53,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Marciel, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,AOD-3-9946,None,Intro to Treatment & Planning,0,0,0,0,"Lecture - in Person, D.E. - Passive Text 1-WAY",1/27/2025 - 5/24/2025,"Corpus, D",4:30 PM - 7:30 PM,None,M, - ,,None,None,None
+2025 Spring Semester,AOD-6-2223,None,"Prev, Educ, & Relapse Preven",33,20,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Marciel, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,AOD-9-2220,None,Co-Occurring Disorders,29,13,42,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Marciel, J",7:40 PM - 9:05 PM,None,Th, - ,,None,None,None
+2025 Spring Semester,AOD-99-2221,None,Practicum in Chem Dependency,45,5,50,0,Work Experience,1/27/2025 - 5/24/2025,"Marciel, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,ART-10-2007,None,Art Appreciation,0,45,45,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Torvik-Staffen, D", - ,None,,None,None,None,None,None
+2025 Spring Semester,ART-100-0713,None,Ceramics: European Folk Trad,0,24,24,3,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Keefe, J",6:00 PM - 7:05 PM,None,T/Th,7:05 PM - 9:10 PM,T/Th,None,None,None
+2025 Spring Semester,ART-12A-2062,None,Design,0,24,24,7,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Gomez, G",8:00 AM - 9:05 AM,None,T/Th,9:05 AM - 11:10 AM,T/Th,None,None,None
+2025 Spring Semester,ART-15A-7713,None,Ceramics A,0,24,24,5,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Keefe, J",6:00 PM - 7:05 PM,None,T/Th,7:05 PM - 9:10 PM,T/Th,None,None,None
+2025 Spring Semester,ART-15B-7714,None,Ceramics B,0,24,24,1,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Keefe, J",6:00 PM - 7:05 PM,None,T/Th,7:05 PM - 9:10 PM,T/Th,None,None,None
+2025 Spring Semester,ART-1A-0721,None,Art History Survey I,25,20,45,8,Internet - Async (lec),4/1/2025 - 5/24/2025,"Kramer, L", - ,None,,None,None,None,None,None
+2025 Spring Semester,ART-1B-0722,None,Art History Survey II,30,15,45,8,Internet - Async (lec),4/1/2025 - 5/24/2025,"Kramer, L", - ,None,,None,None,None,None,None
+2025 Spring Semester,ART-3-2088,None,Drawing and Composition,1,23,24,7,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Gomez, G",11:20 AM - 12:25 PM,None,T/Th,12:25 PM - 2:30 PM,T/Th,None,None,None
+2025 Spring Semester,ART-6A-2090,None,Watercolors and Gouache,0,31,48,3,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Sullivan, P",11:20 AM - 12:25 PM,None,M/W,12:25 PM - 2:30 PM,M/W,None,None,None
+2025 Spring Semester,ART-6B-2091,None,Oils,7,31,48,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Sullivan, P",11:20 AM - 12:25 PM,None,M/W,12:25 PM - 2:30 PM,M/W,None,None,None
+2025 Spring Semester,ART-6C-2092,None,Acrylics,10,31,48,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Sullivan, P",11:20 AM - 12:25 PM,None,M/W,12:25 PM - 2:30 PM,M/W,None,None,None
+2025 Spring Semester,ART-70-2093,None,Intro to Graphic Design & Comp,1,28,29,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Rodriguez, L",2:40 PM - 3:45 PM,None,T/Th,3:45 PM - 5:10 PM,T/Th,None,None,None
+2025 Spring Semester,ART-72-2094,None,Introduction to Digital Arts,0,29,29,3,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Rodriguez, L",8:00 AM - 9:05 AM,None,T/Th,9:05 AM - 10:30 AM,T/Th,None,None,None
+2025 Spring Semester,ART-76-5179,None,Intro to 3D Digital Animation,0,29,29,1,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Bassett, C",11:20 AM - 12:25 PM,None,T/Th,12:25 PM - 1:50 PM,T/Th,None,None,None
+2025 Spring Semester,ART-77-2096,None,Intr Dig Video & Video Editing,1,32,33,9,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Tonies, J", - ,None,, - ,,None,None,None
+2025 Spring Semester,ART-78-2097,None,Motion Graphics & Design Princ,11,22,33,10,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Tonies, J", - ,None,, - ,,None,None,None
+2025 Spring Semester,ASL-1-5000,None,American Sign Language I,0,31,31,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Galaviz, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,AST-1-1166,None,Intro to Astronomy,0,55,55,14,Lecture - in Person,1/27/2025 - 5/24/2025,"Moth, P",11:20 AM - 12:45 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,AST-1L-1170,None,Astronomy Laboratory,0,27,27,12,Internet - Async (lab),1/27/2025 - 5/24/2025,"Vanden Heuvel, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,BIO-1-1018,None,Fundamental Biological Concept,0,27,27,3,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Edens, A",11:20 AM - 12:45 PM,None,M/W,8:00 AM - 11:10 AM,T/Th,None,None,None
+2025 Spring Semester,BIO-10-0891,None,General Biology,0,31,0,0,"Lecture - in Person, Lab - in Person",1/13/2025 - 5/24/2025,"Alexander, P",7:34 AM - 8:54 AM,None,M/F,7:34 AM - 8:54 AM,T/Th,None,None,None
+2025 Spring Semester,BIO-101-1022,None,Foundations of Biology,0,27,27,18,"Internet - Async (lec), Internet - Async (lab)",4/1/2025 - 5/24/2025,"Raeder Vanstirum, T", - ,None,, - ,,None,None,None
+2025 Spring Semester,BIO-11-1024,None,Intro Human Anat & Physiology,0,27,27,9,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Kaplan, D",11:20 AM - 2:30 PM,None,T,11:20 AM - 2:30 PM,Th,None,None,None
+2025 Spring Semester,BIO-12-1179,None,Introduction to Genetics,34,21,55,20,Internet - Sync (lec),1/27/2025 - 5/24/2025,"Touton, M",6:00 PM - 7:25 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,BIO-2-1050,None,General Zoology,0,27,27,1,"Lab - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Wheat, N",11:20 AM - 2:30 PM,None,M/W, - ,,None,None,None
+2025 Spring Semester,BIO-27-1051,None,Principles of Microbiology,0,27,27,20,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Wright, A",9:40 AM - 11:05 AM,None,M/W,11:20 AM - 12:45 PM,M/W,None,None,None
+2025 Spring Semester,BIO-3-1040,None,General Botany,0,27,27,1,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Hughey, J",2:40 PM - 4:05 PM,None,M/W,4:20 PM - 7:30 PM,M/W,None,None,None
+2025 Spring Semester,BIO-30-1042,None,Marine Biology,5,22,27,20,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Hughey, J", - ,None,, - ,,None,None,None
+2025 Spring Semester,BIO-42-1043,None,Human Biology,0,55,55,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Raeder Vanstirum, T", - ,None,,None,None,None,None,None
+2025 Spring Semester,BIO-47-1045,None,Ecology,5,22,27,10,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Berry, M", - ,None,, - ,,None,None,None
+2025 Spring Semester,BIO-48-1046,None,Environmental Science,11,44,55,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Wheat, N", - ,None,,None,None,None,None,None
+2025 Spring Semester,BIO-48L-1057,None,Environmental Science Lab,21,6,27,0,Internet - Async (lab),1/27/2025 - 5/24/2025,"Gonzalez Karlsson, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,BIO-5-1056,None,Human Anatomy,0,27,27,20,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Klair, A", - ,None,, - ,,None,None,None
+2025 Spring Semester,BIO-6-1082,None,Introductory Physiology,14,41,55,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Fields, R",11:20 AM - 12:45 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,BIO-6L-1100,None,Physiology Laboratory,0,27,27,20,"Lab - in Person, Internet - Async Hybrid (lab)",1/27/2025 - 5/24/2025,"Panggat, V",8:00 AM - 11:10 AM,None,T, - ,,None,None,None
+2025 Spring Semester,BUS-100-5810,None,Intro to Basic Computer Apps,33,12,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Morales, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,BUS-110A-5811,None,Beginning Keyboarding,30,15,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Morales, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,BUS-110B-5812,None,Beg Formatting & Document Proc,37,8,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Morales, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,BUS-111B-0735,None,Interm Formatting & Document,24,7,31,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Calvert, P",11:20 AM - 11:40 AM,None,M/W,11:40 AM - 1:25 PM,M/W,None,None,None
+2025 Spring Semester,BUS-136-0731,None,Intro to Personal Manag Softwa,38,7,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Morales, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,BUS-140A-5813,None,Keyboarding Speed and Accuracy,38,7,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Morales, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,BUS-140B-5814,None,Keyboarding Speed and Accuracy,38,7,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Morales, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,BUS-150.15-5804,None,Word Processing,13,18,31,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Calvert, P",8:00 AM - 9:05 AM,None,T/Th,9:05 AM - 10:30 AM,T/Th,None,None,None
+2025 Spring Semester,BUS-172-0732,None,Bus Machine Calc,35,10,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Morales, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,BUS-173-0730,None,Filing Proced & Records Mgt.,19,12,31,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Calvert, P",11:20 AM - 12:45 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,BUS-18-0741,None,Legal Environment of Business,29,16,45,10,"Internet - Async (lec), Internet - Async (lec B)",1/27/2025 - 5/24/2025,"Storm, L", - ,None,, - ,,None,None,None
+2025 Spring Semester,BUS-190-5806,None,Career Management,13,18,31,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Calvert, P",6:00 PM - 8:05 PM,None,T,None,None,None,None,None
+2025 Spring Semester,BUS-1A-0710,None,Financial Accounting,0,45,45,8,Lecture - in Person,1/27/2025 - 5/24/2025,"Williams, T",9:40 AM - 11:05 AM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,BUS-1B-0711,None,Managerial Accounting,0,45,45,4,Lecture - in Person,1/27/2025 - 5/24/2025,"Williams, T",1:00 PM - 2:25 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,BUS-200-5817,None,Essential Computer Skills,30,15,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Morales, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,BUS-210-5818,None,Computers for ESL Students,42,3,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Morales, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,BUS-32-0715,None,Introduction to Business,1,44,45,15,Lecture - in Person,1/27/2025 - 5/24/2025,"Williams, T",9:40 AM - 11:05 AM,None,M/W,None,None,None,None,None
+2025 Spring Semester,BUS-34-9928,None,Entre: Small Bus Manag,0,0,0,0,"Lecture - in Person, D.E. - Passive Text 1-WAY",1/27/2025 - 5/24/2025,"Taylor, S",4:30 PM - 7:00 PM,None,M, - ,,None,None,None
+2025 Spring Semester,BUS-43-7036,None,Bus Info Syst & Info Literacy,10,35,45,12,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"O'Donnell, C", - ,None,, - ,,None,None,None
+2025 Spring Semester,BUS-50-0729,None,Intro to PC Applications,23,8,31,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Calvert, P",8:00 AM - 9:50 AM,None,M/W,9:50 AM - 10:30 AM,M/W,None,None,None
+2025 Spring Semester,BUS-600-5819,None,Beginning Keyboarding,41,4,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Morales, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,BUS-605-7065,None,Basic Computer Concepts,42,3,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Morales, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,BUS-610-7066,None,Intro to the Internet & Email,43,2,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Morales, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,CHM-12B-1145,None,Organic Chemistry II,15,12,27,0,"Lab - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Lampart, W",11:20 AM - 2:30 PM,None,T/Th, - ,,None,None,None
+2025 Spring Semester,CHM-1A-1146,None,General Chemistry I,0,27,27,11,"Lab - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Lampart, W",11:20 AM - 2:30 PM,None,M/W, - ,,None,None,None
+2025 Spring Semester,CHM-1B-1149,None,General Chemistry II,3,24,27,4,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"McCarthy, M",1:00 PM - 2:25 PM,None,M/W,8:00 AM - 11:10 AM,M/W,None,None,None
+2025 Spring Semester,CHM-22-1150,None,The Science of Chemistry,0,27,27,20,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Silverman Y de la Vega, R",9:40 AM - 11:05 AM,None,T/Th,11:20 AM - 2:30 PM,T,None,None,None
+2025 Spring Semester,CMA-54-7041,None,Intro to Cons Estimating,1,44,45,1,Lecture - in Person,1/27/2025 - 5/24/2025,"Jarvio Luengas, A",6:00 PM - 9:10 PM,None,W,None,None,None,None,None
+2025 Spring Semester,CMA-55-7042,None,Intro to Struc Design & Codes,0,37,37,4,"Lecture - in Person, Internet - Async Hybrid (lab)",1/27/2025 - 5/24/2025,"Entekhabi, P",2:40 PM - 4:45 PM,None,M, - ,,None,None,None
+2025 Spring Semester,CMA-56-7071,None,Principles of Cons Proj Acct,18,22,40,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Jarvio Luengas, A",6:00 PM - 9:10 PM,None,Th,None,None,None,None,None
+2025 Spring Semester,CMA-62-7043,None,Exterior and Interior Finish,15,30,45,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Bosio, J",4:30 PM - 5:20 PM,None,T/Th,5:20 PM - 8:45 PM,T/Th,None,None,None
+2025 Spring Semester,CMA-70-7068,None,Arch Design & Visual Commun I,25,12,37,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 3/22/2025,"Ward, R",4:00 PM - 6:10 PM,None,T/Th,6:10 PM - 9:20 PM,T/Th,None,None,None
+2025 Spring Semester,CMA-71-7069,None,Architec Design & Visual Commu,27,10,37,0,"Lecture - in Person, Lab - in Person",4/1/2025 - 5/24/2025,"Ward, R",4:00 PM - 6:10 PM,None,T/Th,6:10 PM - 9:20 PM,T/Th,None,None,None
+2025 Spring Semester,CMA-83-7044,None,Intro to Revit Architecture,22,15,37,0,"Lecture - in Person, Internet - Async Hybrid (lab)",1/27/2025 - 5/24/2025,"Entekhabi, P",9:40 AM - 11:45 AM,None,T, - ,,None,None,None
+2025 Spring Semester,CMA-84-7046,None,Sustainable Const Detailing,29,8,37,0,"Lecture - in Person, Internet - Async Hybrid (lab)",1/27/2025 - 5/24/2025,"Entekhabi, P",9:40 AM - 11:45 AM,None,Th, - ,,None,None,None
+2025 Spring Semester,COM-1-5004,None,Intro to Public Speaking,0,31,31,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Hough, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,COM-2-5032,None,Argumentation and Debate,0,31,31,6,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Hough, J",9:40 AM - 11:05 AM,None,W, - ,,None,None,None
+2025 Spring Semester,COM-3-5033,None,Survey of Human Communication,0,31,31,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Sturt, D", - ,None,,None,None,None,None,None
+2025 Spring Semester,COM-4-5036,None,Intercultural Communication,11,20,31,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Lopez, D", - ,None,,None,None,None,None,None
+2025 Spring Semester,COU-1-0831,None,Student Success Seminar,0,0,0,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Carrasco, M",6:00 PM - 8:00 PM,None,M, - ,,None,None,None
+2025 Spring Semester,COU-21-5509,None,SSS: Orientation,20,19,39,7,Internet - Async (lec),2/10/2025 - 5/24/2025,"Diaz, S", - ,None,,None,None,None,None,None
+2025 Spring Semester,COU-23-0860,None,SSS: Career Development,0,18,0,0,"Lecture - in Person, Lecture - in Person (a)",1/9/2025 - 5/24/2025,"Medrano, R",11:59 AM - 12:56 PM,None,T,10:38 AM - 12:20 PM,Th,None,None,None
+2025 Spring Semester,COU-27-5512,None,Life Planning,19,20,39,15,Internet - Async (lec),1/27/2025 - 5/24/2025,"Malagon, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,COU-30-5513,None,Career Interest & Ability Asse,21,18,39,6,Internet - Async (lec),2/10/2025 - 5/24/2025,"Szamos, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,COU-38-5514,None,Student Leadership in High Edu,25,14,39,9,Internet - Async (lec),2/10/2025 - 5/24/2025,"Caudillo, S", - ,None,,None,None,None,None,None
+2025 Spring Semester,COU-9-5515,None,Planning for Transfer Success,16,23,39,4,Internet - Async (lec),2/10/2025 - 5/24/2025,"Gaitan, S", - ,None,,None,None,None,None,None
+2025 Spring Semester,CSS-1-1000,None,Intro to Comp Sci & Prog Fund,0,33,33,7,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Sencion, E",2:40 PM - 4:05 PM,None,M/W,4:20 PM - 5:45 PM,M/W,None,None,None
+2025 Spring Semester,CSS-169-1029,None,IT Essentials,23,22,45,20,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Sencion, E", - ,None,, - ,,None,None,None
+2025 Spring Semester,CSS-27-1030,None,Project Management Microsoft P,32,13,45,6,"Internet - Async (lec), Internet - Async (lab)",4/1/2025 - 5/24/2025,"Svendsen, C", - ,None,, - ,,None,None,None
+2025 Spring Semester,CSS-29-1031,None,Programming for Multimedia,34,11,45,7,"Internet - Async (lec), Internet - Async (lab)",4/1/2025 - 5/24/2025,"Svendsen, C", - ,None,, - ,,None,None,None
+2025 Spring Semester,CSS-2A-1008,None,Object Oriented Programming,5,40,45,2,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Coria, J", - ,None,, - ,,None,None,None
+2025 Spring Semester,CSS-2B-1181,None,Data Structures and Algorithms,0,45,45,0,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Coria, J", - ,None,, - ,,None,None,None
+2025 Spring Semester,CSS-4-1001,None,Program for Scientist & Engine,26,7,33,0,"Lab - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Leon, M",11:20 AM - 12:45 PM,None,T/Th, - ,,None,None,None
+2025 Spring Semester,CSS-51-1033,None,Switching Routing and Wireless,27,18,45,0,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Welch, W", - ,None,, - ,,None,None,None
+2025 Spring Semester,CSS-54-1002,None,Network Security Principles,19,26,45,20,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Welch, W", - ,None,, - ,,None,None,None
+2025 Spring Semester,CSS-7-1005,None,Discrete Structures,0,45,45,0,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Arteaga, S", - ,None,, - ,,None,None,None
+2025 Spring Semester,CSS-78-1006,None,Mobile Game Design,35,10,45,5,"Internet - Async (lec), Internet - Async (lab)",4/1/2025 - 5/24/2025,"Svendsen, C", - ,None,, - ,,None,None,None
+2025 Spring Semester,CSS-84-1034,None,Beg Dig Cartoon in Adobe Anima,34,11,45,3,"Internet - Async (lec), Internet - Async (lab)",4/1/2025 - 5/24/2025,"Svendsen, C", - ,None,, - ,,None,None,None
+2025 Spring Semester,CSS-86-1125,None,Adobe Animate,27,6,33,0,None,1/27/2025 - 5/24/2025,None,6:00 PM - 7:25 PM,None,T,7:40 PM - 9:05 PM,T,None,None,None
+2025 Spring Semester,CWE-99-0751,None,Gen Coop Wk Exper Ed,19,6,25,0,"Lecture - in Person, Internet - Async Hybrid (lab)",4/1/2025 - 5/24/2025,"Wohlander, R", - ,None,, - ,,None,None,None
+2025 Spring Semester,ECE-1-2067,None,Principles & Practices,1,39,40,6,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Boates, T",9:40 AM - 11:05 AM,None,T, - ,,None,None,None
+2025 Spring Semester,ECE-12-5922,None,Field Teaching Experience,0,23,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Boates, T",4:20 PM - 6:25 PM,None,Th, - ,,None,None,None
+2025 Spring Semester,ECE-19-2077,None,"Health, Safety & Nutrition Ece",26,27,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Pedersen, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,ECE-2-2063,None,"Child, Fam, School & Comm Rela",20,33,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Zarate-McCoy, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,ECE-21-2078,None,Infant/Toddler Care Education,36,17,53,19,Internet - Async (lec),1/27/2025 - 5/24/2025,"Monsen, R", - ,None,,None,None,None,None,None
+2025 Spring Semester,ECE-4-2069,None,Introduction to Curriculum,4,36,40,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Almodovar Lopez, M",11:20 AM - 12:45 PM,None,W, - ,,None,None,None
+2025 Spring Semester,ECE-53-2079,None,Teaching in a Diverse Society,40,13,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Zarate-McCoy, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,ECE-6-0746,None,Child Growth & Development,30,23,53,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Zarate-McCoy, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,ECE-70A-2080,None,Administration I - Prog in Ece,31,14,45,0,Internet - Async (lec),1/27/2025 - 3/22/2025,"Boates, T", - ,None,,None,None,None,None,None
+2025 Spring Semester,ECE-70B-2081,None,Advanced Administration II,39,6,45,0,Internet - Async (lec),4/1/2025 - 5/24/2025,"Boates, T", - ,None,,None,None,None,None,None
+2025 Spring Semester,ECE-8-2072,None,Math & Science in ECE,28,25,53,15,Internet - Async (lec),1/27/2025 - 5/24/2025,"Zarate-McCoy, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,ECE-9-2076,None,Creative Expressions and Play,11,29,40,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Almodovar Lopez, M",11:20 AM - 12:45 PM,None,M, - ,,None,None,None
+2025 Spring Semester,ECO-1-0743,None,Principles of Macroeconomics,34,19,53,10,Internet - Async (lec),4/1/2025 - 5/24/2025,"Esparza, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,ECO-10-2015,None,Introduction to Economics,34,19,53,13,Internet - Async (lec),4/1/2025 - 5/24/2025,"Esparza, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,ECO-5-0742,None,Principles of Microeconomics,33,20,53,8,Internet - Async (lec),4/1/2025 - 5/24/2025,"Esparza, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,EDU-1-2082,None,Intro to Ed in a Changing Worl,3,37,40,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Rianto, L",6:00 PM - 7:25 PM,None,W, - ,,None,None,None
+2025 Spring Semester,EGN-11-1014,None,Surveying,10,17,27,0,"Lab - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Entekhabi, P",11:20 AM - 2:30 PM,None,W, - ,,None,None,None
+2025 Spring Semester,EGN-1L-1011,None,Intro to Engineering Lab,14,13,27,0,Lab - in Person,1/27/2025 - 5/24/2025,"Mendoza, D",2:40 PM - 5:50 PM,None,Th,None,None,None,None,None
+2025 Spring Semester,EGN-1R-1013,None,Intro to Engineering,1,26,27,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Mendoza, D",8:00 AM - 10:05 AM,None,T,None,None,None,None,None
+2025 Spring Semester,EGN-2-8005,None,Engineering Graphics & Design,14,13,27,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Entekhabi, P",8:00 AM - 10:05 AM,None,M,10:05 AM - 1:20 PM,M,None,None,None
+2025 Spring Semester,EGN-5-1127,None,P and P - Solving in MATLAB,0,27,27,6,"Lab - in Person, Internet - Async Hybrid (lab), Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Hussain, M",9:40 AM - 11:05 AM,None,F, - ,,None,None,None
+2025 Spring Semester,EGN-6-0740,None,Circuit Analysis,1,26,27,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Serrano, A",4:20 PM - 5:45 PM,None,T/Th,6:00 PM - 7:25 PM,T/Th,None,None,None
+2025 Spring Semester,EGN-8-1164,None,Statics,0,27,27,3,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Mendoza, D",9:40 AM - 11:05 AM,None,W, - ,,None,None,None
+2025 Spring Semester,EMT-53-4005,None,Emerg Med Tech,0,32,32,3,Internet - Async Hybrid (lec),1/27/2025 - 5/24/2025,"McElhenie, M",8:00 AM - 11:10 AM,None,T/W, - ,,"Espinoza, M",None,"Espinoza, M"
+2025 Spring Semester,ENG-1A-5037,None,College Composition & Reading,0,31,31,5,Lecture - in Person,1/27/2025 - 5/24/2025,"Bynes, J",6:00 PM - 7:25 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,ENG-1AX-5060,None,Intensive College Comp & Read,10,21,31,5,Internet - Async (lec),1/27/2025 - 5/24/2025,"Bruza, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,ENG-1B-0835,None,College Literature and Comp.,0,18,0,0,Lecture - in Person,1/6/2025 - 5/24/2025,"Wirth, D",10:55 AM - 11:52 AM,None,M/W/F,None,None,None,None,None
+2025 Spring Semester,ENG-2-0832,None,Critical Thinking and Writing,0,42,0,0,Lecture - in Person,2/4/2025 - 5/24/2025,"Bynes, J",11:00 AM - 11:50 AM,None,M/T/Th/F,None,None,None,None,None
+2025 Spring Semester,ENG-22-5111,None,Studies in Poetry,0,31,31,6,Internet - Async (lec),1/27/2025 - 5/24/2025,"Beck, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,ENG-26-5113,None,Chicanx Literature,1,30,31,0,Internet - Async (lec),1/27/2025 - 5/24/2025,"Mendoza-Lewis, R", - ,None,,None,None,None,None,None
+2025 Spring Semester,ENG-47A-5112,None,Survey of American Lit I,1,30,31,0,Internet - Async (lec),1/27/2025 - 5/24/2025,"Yelland, H", - ,None,,None,None,None,None,None
+2025 Spring Semester,ENGM-120-5173,None,Beginning Reading and Writing,29,2,31,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Lazaro Jimenez, G",8:00 AM - 10:30 AM,None,M/W, - ,,"Frye, J",None,"Frye, J"
+2025 Spring Semester,ENGM-122-6162,None,Beginning Speaking and Listen,18,13,31,0,None,1/27/2025 - 5/24/2025,None,6:00 PM - 8:05 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,ENGM-130-5132,None,Low-Interm Reading & Writing,23,8,31,0,"Lecture - in Person, Internet - Async Hybrid (lab)",1/27/2025 - 5/24/2025,"Lopez-Romero, A",6:00 PM - 8:30 PM,None,M/W, - ,,None,None,None
+2025 Spring Semester,ENGM-140-6039,None,Interm Reading & Writing,25,6,31,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Harley, D",6:00 PM - 8:30 PM,None,T, - ,,"King, C",None,"King, C"
+2025 Spring Semester,ENGM-142-0702,None,Interm Listening & Speaking,31,0,31,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Arbab, Y",6:00 PM - 8:05 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,ENGM-150-5120,None,High-Interm Writing & Grammar,13,18,31,10,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"King, C", - ,None,, - ,,None,None,None
+2025 Spring Semester,ENGM-152-5128,None,Eng Pronunciation & Spelling,28,3,31,0,Lecture - in Person,1/27/2025 - 5/24/2025,"De Pompeo, J",8:00 AM - 9:25 AM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,ENGM-158-5124,None,High-Interm Reading & Vocab,17,14,31,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Doughty, P",6:00 PM - 8:05 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,ENGM-160-5126,None,Reading & Writing for College,28,3,31,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Harley, D",11:20 AM - 1:50 PM,None,T, - ,,None,None,None
+2025 Spring Semester,ENGM-190A-5138,None,English in the Lab A,25,6,31,0,Lab - in Person,1/27/2025 - 5/24/2025,"King, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,ENGM-190B-5139,None,English in the Lab B,28,3,31,0,Lab - in Person,1/27/2025 - 5/24/2025,"King, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,ENGM-190C-5140,None,English in the Lab C,31,0,31,0,Lab - in Person,1/27/2025 - 5/24/2025,"King, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,ENGM-190D-5141,None,English in the Lab D,31,0,31,0,Lab - in Person,1/27/2025 - 5/24/2025,"King, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,ENGM-195-0707,None,English and Spa in the Commun,29,2,31,0,Lecture - in Person,1/27/2025 - 5/24/2025,"De Pompeo, J",10:00 AM - 1:10 PM,None,F,None,None,None,None,None
+2025 Spring Semester,ENGM-620-5174,None,Beginning Reading and Writing,29,2,31,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Lazaro Jimenez, G",8:00 AM - 10:30 AM,None,M/W, - ,,"Frye, J",None,"Frye, J"
+2025 Spring Semester,ENGM-622-6163,None,Beginning Speaking and Listen,18,13,31,0,None,1/27/2025 - 5/24/2025,None,6:00 PM - 8:05 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,ENGM-630-5133,None,Low-Interm Reading & Writing,23,8,31,0,"Lecture - in Person, Internet - Async Hybrid (lab)",1/27/2025 - 5/24/2025,"Lopez-Romero, A",6:00 PM - 8:30 PM,None,M/W, - ,,None,None,None
+2025 Spring Semester,ENGM-640-6040,None,Interm Reading & Writing,25,6,31,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Harley, D",6:00 PM - 8:30 PM,None,T, - ,,"King, C",None,"King, C"
+2025 Spring Semester,ENGM-642-0703,None,Interm Listening & Speaking,23,8,31,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Arbab, Y",6:00 PM - 8:05 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,ENGM-650-5121,None,High-Interm Writing & Grammar,13,18,31,0,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"King, C", - ,None,, - ,,None,None,None
+2025 Spring Semester,ENGM-652-5146,None,English Pronunciation & Spell,28,3,31,0,Lecture - in Person,1/27/2025 - 5/24/2025,"De Pompeo, J",8:00 AM - 9:25 AM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,ENGM-658-5125,None,High-Interm Reading & Vocab,17,14,31,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Doughty, P",6:00 PM - 8:05 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,ENGM-660-5127,None,Reading & Writing for College,28,3,31,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Harley, D",11:20 AM - 1:50 PM,None,T, - ,,None,None,None
+2025 Spring Semester,ENGM-690A-5142,None,English in the Lab A,27,4,31,0,Lab - in Person,1/27/2025 - 5/24/2025,"King, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,ENGM-690B-5143,None,English in the Lab B,30,1,31,0,Lab - in Person,1/27/2025 - 5/24/2025,"King, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,ENGM-690C-5144,None,English in the Lab C,31,0,31,0,Lab - in Person,1/27/2025 - 5/24/2025,"King, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,ENGM-690D-5145,None,English in the Lab D,31,0,31,0,Lab - in Person,1/27/2025 - 5/24/2025,"King, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,ENGM-695-0708,None,English and Spa in the Commun,29,2,31,0,Lecture - in Person,1/27/2025 - 5/24/2025,"De Pompeo, J",10:00 AM - 1:10 PM,None,F,None,None,None,None,None
+2025 Spring Semester,ETH-1-2019,None,Intro to Ethnic Study,0,53,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Daily, R", - ,None,,None,None,None,None,None
+2025 Spring Semester,ETH-21-2098,None,Introduction to African Americ,0,46,46,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Daily, R",1:00 PM - 2:25 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,ETH-3-2026,None,Intro to Chicanx Studies,0,53,53,18,Internet - Async (lec),1/27/2025 - 5/24/2025,"Oliva, N", - ,None,,None,None,None,None,None
+2025 Spring Semester,ETH-4-2030,None,Chicanx Culture,0,43,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Oliva, N", - ,None,,None,None,None,None,None
+2025 Spring Semester,ETH-5-7603,None,Chicano Politics & Amer System,38,15,53,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Tabera, P",11:20 AM - 2:30 PM,None,W,None,None,None,None,None
+2025 Spring Semester,ETH-56-2032,None,Ethnic Studies Cinema -Sv,0,42,42,15,Lecture - in Person,1/27/2025 - 5/24/2025,"Daily, R",6:00 PM - 9:10 PM,None,T,None,None,None,None,None
+2025 Spring Semester,ETH-6-2215,None,La Chicana,18,35,53,12,Internet - Async (lec),1/27/2025 - 3/22/2025,"Rocha, H", - ,None,,None,None,None,None,None
+2025 Spring Semester,ETH-7-7601,None,Chicano Theatre,0,32,32,5,Lecture - in Person,1/27/2025 - 5/24/2025,"Juarez, L",6:00 PM - 9:10 PM,None,M,None,None,None,None,None
+2025 Spring Semester,ETH-8-2035,None,Intr to Asian American Studies,1,49,50,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Yang, Y",11:20 AM - 12:45 PM,None,M, - ,,None,None,None
+2025 Spring Semester,GEG-10-1183,None,Geography & World Affairs,0,37,13,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Johnson, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,GEL-1-1003,None,Physical Geology,0,27,27,10,"Lecture - in Person, Lab - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Barminski Jr, R",11:20 AM - 2:30 PM,None,T,9:40 AM - 11:05 AM,T,None,None,None
+2025 Spring Semester,GEL-2-1025,None,Introduction to Geology,33,22,55,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Barminski Jr, R", - ,None,,None,None,None,None,None
+2025 Spring Semester,GEL-6-1004,None,History of the Earth,3,24,27,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Barminski Jr, R",9:40 AM - 11:05 AM,None,M/W,11:20 AM - 2:30 PM,M,None,None,None
+2025 Spring Semester,HED-2-0833,None,Individual Health & Wellness,0,18,0,0,Lecture - in Person,2/4/2025 - 5/24/2025,"Cuevas, J",8:00 AM - 8:55 AM,None,M/T/Th/F,None,None,None,None,None
+2025 Spring Semester,HED-55-3004,None,Health Ed Advanced First Aid,0,25,25,9,Lecture - in Person,1/27/2025 - 5/24/2025,"Beymer, D",9:40 AM - 11:05 AM,None,M/W,None,None,None,None,None
+2025 Spring Semester,HED-6-3005,None,Multicultural Health Beliefs,9,23,32,13,Internet - Async (lec),1/27/2025 - 5/24/2025,"Zepeda, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,HED-7-3009,None,Women's Health,11,21,32,12,Internet - Async (lec),4/1/2025 - 5/24/2025,"Collins, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,HED-8-3011,None,Wt Mgt - Fitness & Nutrition,20,15,35,19,Internet - Async (lec),1/27/2025 - 5/24/2025,"Aranda, K", - ,None,,None,None,None,None,None
+2025 Spring Semester,HES-1-4000,None,Intro to Public Health,0,45,45,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Niduaza, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,HES-2-4001,None,Health and Social Justice,19,16,35,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Niduaza, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,HES-3-4002,None,"Drugs, Health, and Society",16,24,40,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Niduaza, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,HES-80-4003,None,Medical Terminology,0,45,45,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"McElhenie, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,HIS-10-2036,None,History of California,0,53,53,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Pacheco, S",11:20 AM - 12:45 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,HIS-17A-2037,None,United States History A,0,53,53,11,Lecture - in Person,1/27/2025 - 5/24/2025,"Pacheco, S",2:40 PM - 4:05 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,HIS-17B-0877,None,United States History B,0,29,0,0,Internet - Async (lec),1/27/2025 - 5/24/2025,"Hambly, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,HIS-40-2049,None,History of Women in the U.S.,0,53,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Grohol, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,HIS-46B-2212,None,Race & Ethn in Amer His B,46,7,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Torresillas, B", - ,None,,None,None,None,None,None
+2025 Spring Semester,HIS-4B-2052,None,Western Civilization B,36,17,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"George, G", - ,None,,None,None,None,None,None
+2025 Spring Semester,HIS-5B-0869,None,World History B,0,35,0,0,Lecture - in Person,2/3/2025 - 5/24/2025,"Brown, H",2:25 PM - 3:30 PM,None,M/T/W,None,None,None,None,None
+2025 Spring Semester,HIS-6-2054,None,History of Mexico,2,40,42,2,Lecture - in Person,1/27/2025 - 5/24/2025,"Pacheco, S",9:40 AM - 11:05 AM,None,M/W,None,None,None,None,None
+2025 Spring Semester,HSE-640S-9408,None,HISET/GED Level 1 in Spanish,0,0,0,0,Lab - in Person,1/27/2025 - 3/22/2025,"Calderon Bedolla, A",6:00 PM - 9:10 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,HSE-650-9406,None,Hiset/Ged Level 2,0,0,0,0,Lab - in Person,1/27/2025 - 3/22/2025,"Echevarria, R",6:00 PM - 9:10 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,HSE-650S-9400,None,HISET/GED Level 2 in Spanish,0,16,0,0,Lab - in Person,1/27/2025 - 3/22/2025,"Calderon Bedolla, A",9:00 AM - 12:20 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,HSE-660S-9404,None,HISET/GED Level 3 in Spanish,0,0,0,0,Lab - in Person,1/27/2025 - 3/22/2025,"Echevarria, R",6:00 PM - 9:20 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,IDS-1-0755,None,Boronda Study Group,0,10,0,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Gomez, G",3:30 PM - 4:55 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,LAW-42-2055,None,Law and Public Service,34,8,42,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Lavorato, S",6:00 PM - 7:25 PM,None,W, - ,,None,None,None
+2025 Spring Semester,LIB-2-5175,None,Intr to the Acad Lib & Inf Com,2,26,28,4,"Internet - Async (lec), Internet - Async (lab)",1/27/2025 - 5/24/2025,"Rosenblum, B", - ,None,, - ,,None,None,None
+2025 Spring Semester,LIB-5-5176,None,Inf Comp in the Sci & App Tech,19,9,28,2,"Internet - Async (lec), Internet - Async (lab)",4/1/2025 - 5/24/2025,"Rosenblum, B", - ,None,, - ,,None,None,None
+2025 Spring Semester,LSK-1-5520,None,Intro to College Accomo,12,3,15,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Swensen, C",9:40 AM - 11:05 AM,None,M,None,None,None,None,None
+2025 Spring Semester,LSK-105-5524,None,Emotional Management Skills,10,5,15,5,Internet - Async (lec),2/10/2025 - 5/24/2025,"Maturino, V", - ,None,,None,None,None,None,None
+2025 Spring Semester,LSK-126-5521,None,Learning Strategies,14,1,15,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Swensen, C",1:00 PM - 2:25 PM,None,M,None,None,None,None,None
+2025 Spring Semester,LSK-90-0719,None,Memory Skills,12,3,15,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Swensen, C",2:40 PM - 3:30 PM,None,M,None,None,None,None,None
+2025 Spring Semester,MAT-10-1059,None,Math for Liberal Arts,4,35,39,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Manrique, M",2:40 PM - 4:05 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,MAT-12-1060,None,Number Systems,5,34,39,1,Lecture - in Person,1/27/2025 - 5/24/2025,"Weber, M",6:00 PM - 7:25 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,MAT-13-0737,None,Elementary Statistics,0,39,39,3,None,1/27/2025 - 3/22/2025,None,11:20 AM - 1:25 PM,None,T/Th, - ,,None,None,None
+2025 Spring Semester,MAT-16-7803,None,Finite Mathematics,0,32,32,1,Lecture - in Person,1/27/2025 - 5/24/2025,"Palmer, B",9:40 AM - 11:05 AM,None,M/W,None,None,None,None,None
+2025 Spring Semester,MAT-2-1081,None,"Calculus for Manag, Life & Soc",0,39,39,19,Internet - Async (lec),1/27/2025 - 5/24/2025,"Perez Jr., J", - ,None,,None,None,None,None,None
+2025 Spring Semester,MAT-213-1129,None,Lab for Statistics,1,38,39,4,Lab - in Person,1/27/2025 - 5/24/2025,"Vazquez, S",6:00 PM - 9:10 PM,None,W,None,None,None,None,None
+2025 Spring Semester,MAT-225-1085,None,Lab for Precalculus,10,29,39,0,Lab - in Person,1/27/2025 - 5/24/2025,"Pasquale, N",1:00 PM - 2:25 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,MAT-24-0830,None,Trigonometry,0,0,0,0,None,2/6/2025 - 5/24/2025,None,1:14 PM - 2:04 PM,None,M/T/Th/F,None,None,None,None,None
+2025 Spring Semester,MAT-25-1088,None,Pre-Calculus,1,38,39,5,Lecture - in Person,1/27/2025 - 5/24/2025,"Perkins, G",11:20 AM - 1:25 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,MAT-27-0759,None,Accelerated Pre-Calculus &,11,28,39,0,Internet - Async (lec),1/27/2025 - 5/24/2025,"Pasquale, N", - ,None,,None,None,None,None,None
+2025 Spring Semester,MAT-3A-0736,None,Analytic Geom. & Calc. I,32,7,39,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Blomquist, E",6:00 PM - 8:05 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,MAT-3B-1111,None,Analytic Geom. & Calc. II,0,39,39,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Hussain, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,MAT-3C-1115,None,Analytic Geom. & Calc. III,0,39,39,2,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Hussain, M",6:00 PM - 8:05 PM,None,W, - ,,None,None,None
+2025 Spring Semester,MAT-4-1117,None,Linear Algebra,0,39,39,9,Lecture - in Person,1/27/2025 - 5/24/2025,"Riley, J",2:40 PM - 4:05 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,MAT-5-1118,None,Differential Equations,0,39,39,8,Lecture - in Person,1/27/2025 - 5/24/2025,"Moorhouse, J",11:20 AM - 12:45 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,MFGT-110-7051,None,Industrial Safety,0,24,24,10,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Chapman, R",9:40 AM - 10:30 AM,None,W,10:30 AM - 1:55 PM,W,None,None,None
+2025 Spring Semester,MFGT-111B-0893,None,Fund of Agricultural Mech B,0,5,0,0,"Lecture - in Person, Lab - in Person",1/28/2025 - 5/24/2025,"Chapman, R",9:30 AM - 10:10 AM,None,T,10:10 AM - 11:50 AM,Th,None,None,None
+2025 Spring Semester,MFGT-112A-0700,None,Interm Agricultural Mecha A,17,7,24,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 3/22/2025,"Chapman, R",4:20 PM - 5:10 PM,None,T/Th,5:10 PM - 8:35 PM,T/Th,None,None,None
+2025 Spring Semester,MFGT-112B-0701,None,Interm Agricultural Mecha A,17,7,24,0,"Lecture - in Person, Lab - in Person",4/1/2025 - 5/24/2025,"Chapman, R",4:20 PM - 5:10 PM,None,T/Th,5:10 PM - 8:35 PM,T/Th,None,None,None
+2025 Spring Semester,MFGT-114-7055,None,Advanced Agricultural Process,2,8,10,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Chapman, R",4:20 PM - 5:10 PM,None,M/W,5:10 PM - 8:35 PM,M/W,None,None,None
+2025 Spring Semester,MFGT-130-7056,None,Intro to Metal Fabrication,7,17,24,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Chapman, R",9:40 AM - 11:05 AM,None,F,11:05 AM - 4:10 PM,F,None,None,None
+2025 Spring Semester,MFGT-71-7067,None,Agricultural and Industrial,0,24,24,6,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Evans, C",6:00 PM - 7:05 PM,None,T/Th,7:05 PM - 8:30 PM,T/Th,None,None,None
+2025 Spring Semester,MUS-10-2195,None,Applied Music - Voice,10,35,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Rudo, S",8:00 AM - 9:25 AM,None,M/W,None,None,None,None,None
+2025 Spring Semester,MUS-11-2210,None,Applied Music - Instrumental,30,15,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Ettinger, S",2:40 PM - 4:05 PM,None,W,None,None,None,None,None
+2025 Spring Semester,MUS-13A-2182,None,Beginning Piano I,0,24,24,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Vinokurov, G",1:00 PM - 1:30 PM,None,M/W,1:30 PM - 2:25 PM,M/W,None,None,None
+2025 Spring Semester,MUS-13B-2183,None,Beginning Piano II,0,24,24,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Vinokurov, G",1:00 PM - 1:30 PM,None,M/W,1:30 PM - 2:25 PM,M/W,None,None,None
+2025 Spring Semester,MUS-14-2184,None,Intermediate Piano,0,24,24,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Vinokurov, G",1:00 PM - 1:30 PM,None,M/W,1:30 PM - 2:25 PM,M/W,None,None,None
+2025 Spring Semester,MUS-15-2185,None,Advanced Piano,0,24,24,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Vinokurov, G",1:00 PM - 1:30 PM,None,M/W,1:30 PM - 2:25 PM,M/W,None,None,None
+2025 Spring Semester,MUS-17A-2190,None,Beginning Guitar I,28,17,45,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Collins, P",6:00 PM - 6:50 PM,None,M,6:50 PM - 9:10 PM,M,None,None,None
+2025 Spring Semester,MUS-17B-2191,None,Beginning Guitar II,28,17,45,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Collins, P",6:00 PM - 6:50 PM,None,M,6:50 PM - 9:10 PM,M,None,None,None
+2025 Spring Semester,MUS-17C-2192,None,Intermediate Guitar I,28,17,45,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Collins, P",6:00 PM - 6:50 PM,None,M,6:50 PM - 9:10 PM,M,None,None,None
+2025 Spring Semester,MUS-17D-2193,None,Intermediate Guitar II,28,17,45,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Collins, P",6:00 PM - 6:50 PM,None,M,6:50 PM - 9:10 PM,M,None,None,None
+2025 Spring Semester,MUS-1A-0745,None,Mus App-Historical Perspective,28,17,45,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Maag, E",6:00 PM - 7:25 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,MUS-2-2181,None,Music Fundamentals,6,18,24,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Vinokurov, G",11:20 AM - 12:45 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,MUS-20-2197,None,Hartnell College Choir,16,29,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Rudo, S",9:40 AM - 11:05 AM,None,M/W,None,None,None,None,None
+2025 Spring Semester,MUS-21-2199,None,Hartnell Chamber Singers,30,15,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Rudo, S",11:20 AM - 12:45 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,MUS-25-2179,None,College Wind Ensemble,34,11,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Theodosion, C",6:00 PM - 9:10 PM,None,T,None,None,None,None,None
+2025 Spring Semester,MUS-26-2205,None,Jazz Ensemble,24,21,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Ettinger, S",1:30 PM - 2:55 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,MUS-37-2203,None,Chamber Music Ensemble,24,21,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Ettinger, S",7:00 PM - 10:10 PM,None,Th,None,None,None,None,None
+2025 Spring Semester,MUS-42-2201,None,Electronic Music - Hist & Comp,30,15,45,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Ettinger, S",9:40 AM - 11:05 AM,None,M/W,None,None,None,None,None
+2025 Spring Semester,MUS-420-2180,None,Ensem Perfo for Older Adults,34,11,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Theodosion, C",6:00 PM - 9:10 PM,None,T,None,None,None,None,None
+2025 Spring Semester,MUS-43-2202,None,MIDI Sequencing,30,15,45,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Ettinger, S",9:40 AM - 11:05 AM,None,M/W,None,None,None,None,None
+2025 Spring Semester,MUS-47-2208,None,Music Theory & Musicianship II,7,17,24,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Ettinger, S",9:40 AM - 10:50 AM,None,T/Th,10:50 AM - 1:15 PM,T/Th,None,None,None
+2025 Spring Semester,MUS-49-2209,None,Music Theory & Musicianshp IV,7,17,24,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Ettinger, S",9:40 AM - 10:50 AM,None,T/Th,10:50 AM - 1:15 PM,T/Th,None,None,None
+2025 Spring Semester,MUS-5-0752,None,Ethnic Musics in the U.S.,34,11,45,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Theodosion, C", - ,None,,None,None,None,None,None
+2025 Spring Semester,MUS-7-2174,None,Jazz Appreciation,11,34,45,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Olsen, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,MUS-8-2175,None,American Popular Music,0,45,45,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Olsen, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,NRN-224-4008,None,Success Strategies for Nursing,0,5,5,0,Internet - Async (lab),2/3/2025 - 5/17/2025,"Clark, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,NRN-226-4073,None,Nursing Practice II,6,20,26,6,"Internet - Async (lec), Internet - Async (lab)",2/3/2025 - 5/17/2025,"Sullinger, S", - ,None,, - ,,None,None,None
+2025 Spring Semester,NRN-228-4011,None,Success Strategies for 4th Sem,18,12,30,0,Lab - in Person,2/3/2025 - 5/17/2025,"Diamond, D",1:00 PM - 2:50 PM,None,F,None,None,None,None,None
+2025 Spring Semester,NRN-50.44-4014,None,Superv Nrsing Skills Pract IV,27,5,32,0,Lab - in Person,2/3/2025 - 5/17/2025,"Diamond, D", - ,None,,None,None,None,None,None
+2025 Spring Semester,NRN-56-4015,None,Care of Diverse Individuals,1,8,9,0,"Lab - in Person, Lecture - in Person",1/27/2025 - 5/24/2025,"Clark, A",11:00 AM - 1:05 PM,None,M/Th, - ,,"Sullinger, S",None,"Sullinger, S"
+2025 Spring Semester,NRN-57-4021,None,Nursing Interventions & Scena,0,13,13,0,Lab - in Person,1/27/2025 - 5/24/2025,"Sullinger, S",8:00 AM - 9:25 AM,None,Th,None,None,None,None,None
+2025 Spring Semester,NRN-58-0744,None,Application of Pharmacology,5,47,52,0,Lecture - in Person,2/24/2025 - 5/10/2025,"Diamond, D",1:30 PM - 2:20 PM,None,M,None,None,None,None,None
+2025 Spring Semester,NRN-70-4007,None,Growth & Devel Across Lifespan,0,32,32,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Clark, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,NRN-76-4027,None,Care of Clients With Potential,0,7,7,0,"Lab - in Person, Lecture - in Person",1/27/2025 - 5/24/2025,"Diamond, D",11:00 AM - 12:25 PM,None,M,11:00 AM - 12:25 PM,F,"Davis, L",None,"Davis, L"
+2025 Spring Semester,NRN-77-4026,None,Role Transition & Care Coordi,0,13,13,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Diamond, D",9:30 AM - 10:35 AM,None,F,None,None,None,None,None
+2025 Spring Semester,NUTR-1-3012,None,Nutrition,0,45,45,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Bouquet, S", - ,None,,None,None,None,None,None
+2025 Spring Semester,NUTR-51-3016,None,Essential Nutrition,29,16,45,15,Internet - Async (lec),1/27/2025 - 5/24/2025,"Carrasco, L", - ,None,,None,None,None,None,None
+2025 Spring Semester,NVN-110-4060,None,Foundations for Success,13,5,18,0,"Lab - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 1/31/2025,"Lisowski, S",8:00 AM - 4:30 PM,None,M/T/W/Th/F, - ,,None,None,None
+2025 Spring Semester,NVN-119-4062,None,VN Theory I: Fundamentals,28,7,35,0,Lecture - in Person,2/3/2025 - 5/24/2025,"Schur Beymer, N",11:30 AM - 12:35 PM,None,M/T,None,None,None,None,None
+2025 Spring Semester,NVN-119.1-4063,None,Vocational Nursing Clinical I,9,2,11,0,Lab - in Person,2/3/2025 - 5/24/2025,"Lisowski, S", - ,None,,None,None,None,None,None
+2025 Spring Semester,NVN-123-4067,None,Vocational Nursing Theory III,4,28,32,0,Internet - Async (lec),1/27/2025 - 5/24/2025,"Diamond, D", - ,None,,None,None,None,None,None
+2025 Spring Semester,NVN-123.1-0705,None,Vocational Nursing Clinica III,1,8,9,0,Lab - in Person,1/27/2025 - 5/24/2025,"Santovito, G", - ,None,,None,None,None,None,None
+2025 Spring Semester,NVN-130A-4070,None,Basic Pharmacology A,28,7,35,0,Lecture - in Person,2/3/2025 - 5/24/2025,"Lisowski, S",8:00 AM - 9:05 AM,None,T,None,None,None,None,None
+2025 Spring Semester,NVN-130C-4071,None,Basic Pharmacology C,4,28,32,0,Internet - Async (lec),1/27/2025 - 5/24/2025,"Lisowski, S", - ,None,,None,None,None,None,None
+2025 Spring Semester,NVN-225-4057,None,Success Strategies for VN: F,12,5,17,0,None,2/3/2025 - 5/17/2025,None, - ,None,,None,None,None,None,None
+2025 Spring Semester,NVN-227-4059,None,Succ Strat for Vn: Care Coordi,16,4,20,0,None,2/3/2025 - 5/17/2025,None, - ,None,,None,None,None,None,None
+2025 Spring Semester,NVN-70-4055,None,Growth & Devel Across Lifespan,12,20,32,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Clark, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,OCN-1-1026,None,Oceanography,6,49,55,16,Internet - Async (lec),1/27/2025 - 5/24/2025,"Barminski Jr, R", - ,None,,None,None,None,None,None
+2025 Spring Semester,PEAC-32-3026,None,Core Strengthening & Flexi,10,15,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Zepeda, C",9:40 AM - 9:50 AM,None,T/Th,9:50 AM - 11:05 AM,T/Th,None,None,None
+2025 Spring Semester,PEAC-36-3018,None,Yoga,5,20,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Pedroza, J",9:40 AM - 9:50 AM,None,T/Th,9:50 AM - 11:05 AM,T/Th,None,None,None
+2025 Spring Semester,PEAC-39-3021,None,Intro to Pickleball,14,11,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Benavente, E",9:40 AM - 9:50 AM,None,M/W,9:50 AM - 11:05 AM,M/W,None,None,None
+2025 Spring Semester,PEAC-40-3027,None,Speed Training & Conditioning,10,15,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Vasher, A",6:30 AM - 6:40 AM,None,M/W,6:40 AM - 7:55 AM,M/W,None,None,None
+2025 Spring Semester,PEAC-41-3022,None,Beginning Futsal,5,20,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Cuevas, J",6:00 PM - 6:30 PM,None,M,6:30 PM - 9:10 PM,M,None,None,None
+2025 Spring Semester,PEAC-43-3023,None,Strength Training,25,15,40,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Guerrero, A",11:20 AM - 11:30 AM,None,M/W,11:30 AM - 12:45 PM,M/W,None,None,None
+2025 Spring Semester,PEAC-47-3030,None,Strength Conditioning Lab,20,80,100,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Teresa, D", - ,None,, - ,,None,None,None
+2025 Spring Semester,PEAC-52-3031,None,Volleyball,0,25,25,1,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Pedroza, J",6:00 PM - 6:30 PM,None,M,6:30 PM - 9:10 PM,M,None,None,None
+2025 Spring Semester,PEAC-56-3033,None,Self-Defense/Martial Arts,0,25,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"McKown, J",11:20 AM - 11:30 AM,None,T/Th,11:30 AM - 12:45 PM,T/Th,None,None,None
+2025 Spring Semester,PEAC-58-3035,None,Beginning Tennis,0,25,25,3,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Toney, M",9:00 AM - 9:30 AM,None,Sa,9:30 AM - 12:10 PM,Sa,None,None,None
+2025 Spring Semester,PEAC-59-3036,None,Intermediate Tennis,0,25,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Toney, M",9:00 AM - 9:30 AM,None,Sa,9:30 AM - 12:10 PM,Sa,None,None,None
+2025 Spring Semester,PEAC-61-3037,None,Beginning Swimming,13,12,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"McKown, J",9:40 AM - 9:50 AM,None,M/W,9:50 AM - 11:05 AM,M/W,None,None,None
+2025 Spring Semester,PEAC-66-3038,None,Zumba Aerobics 1,17,8,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Benavente, E",11:20 AM - 11:30 AM,None,M/W,11:30 AM - 12:45 PM,M/W,None,None,None
+2025 Spring Semester,PEAC-68-3039,None,Swim Fitness,20,20,40,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Toney, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,PEAC-69-3040,None,Intro to Weight Training,11,14,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Lerma, R",9:40 AM - 9:50 AM,None,T/Th,9:50 AM - 11:05 AM,T/Th,None,None,None
+2025 Spring Semester,PEAC-70-3043,None,Basketball,19,6,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Terry, S",4:20 PM - 4:30 PM,None,M/W,4:30 PM - 5:45 PM,M/W,None,None,None
+2025 Spring Semester,PEAC-74-3032,None,Advanced Volleyball,0,25,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Pedroza, J",6:00 PM - 6:30 PM,None,M,6:30 PM - 9:10 PM,M,None,None,None
+2025 Spring Semester,PEAD-78-3100,None,Adaptive Core Strengthening,0,15,15,2,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Gabriel, A",10:15 AM - 10:25 AM,None,M/W/F,10:25 AM - 11:20 AM,M/W/F,None,None,None
+2025 Spring Semester,PEAD-80-3101,None,Adapted Swimming,4,11,15,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Gabriel, A",11:40 AM - 11:50 AM,None,M/W/F,11:50 AM - 12:45 PM,M/W/F,None,None,None
+2025 Spring Semester,PEAD-84-3103,None,Adaptive Circuit Endurance,0,15,15,1,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Gabriel, A",9:00 AM - 9:10 AM,None,M/W/F,9:10 AM - 10:05 AM,M/W/F,None,None,None
+2025 Spring Semester,PEIN-17-3048,None,Intercollegiate Bball,12,13,25,0,Lab - in Person,12/30/2024 - 3/22/2025,"Vasher, A",3:35 PM - 4:40 PM,None,M/T/W/Th/F,None,None,None,None,None
+2025 Spring Semester,PEIN-21-3046,None,Intercollegiate Softball Women,12,13,25,0,Lab - in Person,1/27/2025 - 5/24/2025,"Basaldua, N",2:00 PM - 3:50 PM,None,M/T/W/Th/F,None,None,None,None,None
+2025 Spring Semester,PEIN-24-3044,None,Intercollegiate Track & Field,32,28,60,0,Lab - in Person,1/27/2025 - 5/24/2025,"Martinez, F",12:00 PM - 3:10 PM,None,M/W/F,None,None,None,None,None
+2025 Spring Semester,PEIN-25-3052,None,Intercollegiate Sports Cond,11,14,25,0,Lab - in Person,1/27/2025 - 5/24/2025,"McKown, J",1:00 PM - 3:15 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,PEIN-26-3057,None,Intercollegiate Baseball,17,28,45,0,Lab - in Person,1/27/2025 - 5/24/2025,"Czaplak, K",2:00 PM - 3:50 PM,None,M/T/W/Th/F,None,None,None,None,None
+2025 Spring Semester,PEIN-27-3059,None,Intercollegiate Swim & Dive,10,15,25,0,Lab - in Person,1/27/2025 - 5/24/2025,"McKown, J",12:00 PM - 3:10 PM,None,M/W/F,None,None,None,None,None
+2025 Spring Semester,PEIN-28-3061,None,Intercoll Beach Volleyball,24,1,25,0,Lab - in Person,1/27/2025 - 5/24/2025,"Pedroza, J",11:40 AM - 1:30 PM,None,M/T/W/Th/F,None,None,None,None,None
+2025 Spring Semester,PEIN-32-3063,None,Pre-Season Sport Conditioning,4,21,25,3,"Lecture - in Person, Lab - in Person",1/6/2025 - 1/25/2025,"Czaplak, K",1:00 PM - 1:45 PM,None,M/T/W/Th/F,1:45 PM - 2:35 PM,M/T/W/Th/F,None,None,None
+2025 Spring Semester,PEIN-41-3068,None,"Nontraditional Season, Soccer",7,18,25,0,"Lecture - in Person, Lab - in Person",2/10/2025 - 5/24/2025,"Guerrero, A",6:30 AM - 6:35 AM,None,T/Th/F,6:35 AM - 7:35 AM,T/Th/F,None,None,None
+2025 Spring Semester,PEIN-46-3070,None,Nontraditional Football,1,24,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Lerma, R",4:00 PM - 4:10 PM,None,T/W/Th,4:10 PM - 4:50 PM,T/W/Th,None,None,None
+2025 Spring Semester,PETH-1-3071,None,Introduction to Kinesiology,0,25,25,9,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Ortega, D",9:40 AM - 11:05 AM,None,M, - ,,None,None,None
+2025 Spring Semester,PETH-2-3073,None,Care & Prev of Athlet Injuries,10,15,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Beymer, D",9:40 AM - 11:05 AM,None,T/Th, - ,,None,None,None
+2025 Spring Semester,PETH-4-3074,None,Mentals Skills for Sports Perf,7,18,25,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Collins, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,PETH-5-3075,None,Sport in Society,5,20,25,5,Internet - Async (lec),4/1/2025 - 5/24/2025,"Guerrero, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,PHL-10-2056,None,Ethics,0,44,44,9,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Soto, A",1:00 PM - 2:25 PM,None,Th, - ,,None,None,None
+2025 Spring Semester,PHL-15-2058,None,Critical Thinking and Logic,10,34,44,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Soto, A",11:20 AM - 12:45 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,PHL-2-2059,None,Intro to Philosophy,5,39,44,3,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Soto, A",1:00 PM - 2:25 PM,None,T, - ,,None,None,None
+2025 Spring Semester,PHL-5-2060,None,Africana Philosophy,28,16,44,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Soto, A",9:40 AM - 11:05 AM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,PHL-700-0758,None,Medical & Bioethics,0,10,10,0,Internet - Async (lec),4/1/2025 - 5/24/2025,"Soto, A", - ,None,,None,None,None,None,None
+2025 Spring Semester,PHO-1-2099,None,Introduction to Photography,3,42,45,3,Lecture - in Person,1/27/2025 - 5/24/2025,"Sullivan, P",6:00 PM - 9:10 PM,None,M,None,None,None,None,None
+2025 Spring Semester,PHO-2-2103,None,Beg Black & White Photography,9,20,29,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Rodriguez, L",11:20 AM - 12:25 PM,None,T/Th,12:25 PM - 1:50 PM,T/Th,None,None,None
+2025 Spring Semester,PHO-3-2104,None,Adv Photography Lab,9,20,29,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Rodriguez, L",11:20 AM - 12:25 PM,None,T/Th,12:25 PM - 1:50 PM,T/Th,None,None,None
+2025 Spring Semester,PHO-4-2105,None,Portfolio Photography,9,20,29,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Rodriguez, L",11:20 AM - 12:25 PM,None,T/Th,12:25 PM - 1:50 PM,T/Th,None,None,None
+2025 Spring Semester,PHY-2B-0747,None,College Physics II,13,14,27,0,Lab - in Person,1/27/2025 - 5/24/2025,"Khadka, D",2:40 PM - 5:50 PM,None,Th, - ,,"Fan, S",None,"Fan, S"
+2025 Spring Semester,PHY-32-6025,None,Survey of Chemistry & Physics,0,22,0,19,"Lab - in Person, Internet - Async (lec)",1/27/2025 - 5/24/2025,"Fan, S",6:00 PM - 9:10 PM,None,Th, - ,,None,None,None
+2025 Spring Semester,PHY-4A-0748,None,General Physics I/ Mechanics,17,10,27,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Schier, S",1:00 PM - 2:25 PM,None,M/W,6:00 PM - 9:10 PM,W,"Fan, S",None,"Fan, S"
+2025 Spring Semester,PHY-4C-1142,None,General Physics III/ Waves,0,27,27,4,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Fatuzzo, L",8:00 AM - 9:25 AM,None,M/W,8:00 AM - 11:10 AM,T,None,None,None
+2025 Spring Semester,POL-1-2107,None,American Political Institution,0,44,44,17,Lecture - in Person,1/27/2025 - 5/24/2025,"Adams, L",9:40 AM - 11:05 AM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,POL-2-2118,None,Intro to Comparative Politics,26,27,53,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Adams, L",9:40 AM - 11:05 AM,None,M/W,None,None,None,None,None
+2025 Spring Semester,POL-6-2119,None,Intr to Polit Theory & Thought,18,26,44,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Adams, L",11:20 AM - 12:45 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,PSY-10-2131,None,Intro to Biological Psychology,5,39,44,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Taylor, J",11:20 AM - 12:45 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,PSY-14-2134,None,Child Psychology,0,53,53,3,Lecture - in Person,1/27/2025 - 5/24/2025,"Sadler, K",11:20 AM - 12:45 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,PSY-15-2136,None,Human Sexuality,18,26,44,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Matsushita-Arao, Y",9:40 AM - 11:05 AM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,PSY-2-0753,None,General Psychology,35,18,53,5,Internet - Async (lec),4/1/2025 - 5/24/2025,"Sandhu, P", - ,None,,None,None,None,None,None
+2025 Spring Semester,PSY-22-2152,None,Abnormal Psychology,3,41,44,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Matsushita-Arao, Y",11:20 AM - 12:45 PM,None,T/Th,None,None,None,None,None
+2025 Spring Semester,PSY-25-2154,None,Dev. Psychology: Lifespan,0,44,44,1,Lecture - in Person,1/27/2025 - 5/24/2025,"Rios, L",6:00 PM - 9:10 PM,None,T,None,None,None,None,None
+2025 Spring Semester,PSY-30-2158,None,Forensic Psychology,33,11,44,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Vasquez, M",11:20 AM - 12:45 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,PSY-6-2159,None,Social Psychology,8,34,42,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Edelen, A",1:00 PM - 2:25 PM,None,M/W,None,None,None,None,None
+2025 Spring Semester,PSY-9-2161,None,Research Methods in Psych,0,44,44,5,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Silva Benitez, H",9:40 AM - 11:05 AM,None,M/W,11:20 AM - 12:45 PM,M/W,None,None,None
+2025 Spring Semester,RCP-228-4038,None,Success Strategies for 4th Sem,18,2,20,0,Lab - in Person,2/3/2025 - 5/17/2025,"Zepeda, E",4:00 PM - 5:35 PM,None,T,None,None,None,None,None
+2025 Spring Semester,RCP-60-4039,None,Diagnostic Studies & Resp Care,5,15,20,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Tavra, T",12:30 PM - 3:40 PM,None,M,None,None,None,None,None
+2025 Spring Semester,RCP-61-4040,None,Respiratory Therapeutics,0,10,10,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Tavra, T",8:00 AM - 10:05 AM,None,W,12:00 PM - 3:10 PM,W,"Zepeda, E",None,"Zepeda, E"
+2025 Spring Semester,RCP-62-4042,None,Cardiopulmonary Pathophysiolog,5,15,20,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Zepeda, E",12:00 PM - 2:05 PM,None,T,None,None,None,None,None
+2025 Spring Semester,RCP-63-4043,None,Beginning Clinical Experience,0,10,10,0,Lab - in Person,1/27/2025 - 5/24/2025,"Zepeda, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,RCP-64-4045,None,Supervised Practice: Beginning,5,5,10,0,Lab - in Person,1/27/2025 - 5/24/2025,"Zepeda, E",8:00 AM - 9:25 AM,None,T,None,None,None,None,None
+2025 Spring Semester,RCP-701-0754,None,Healthcare Systems,0,10,10,0,Internet - Async (lec),4/1/2025 - 5/24/2025,"Tavra, T", - ,None,,None,None,None,None,None
+2025 Spring Semester,RCP-80-4047,None,Advanced Respiratory Care,1,19,20,0,"Lab - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Tavra, T", - ,None,, - ,,None,None,None
+2025 Spring Semester,RCP-81-4048,None,Advance Mechanical Ventilation,1,19,20,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Tavra, T",8:00 AM - 11:10 AM,None,T,None,None,None,None,None
+2025 Spring Semester,RCP-82-4049,None,Clinical Reasoning Seminar,0,10,10,0,Lecture - in Person,1/27/2025 - 5/24/2025,"Zepeda, E",10:00 AM - 12:05 PM,None,M,None,None,None,None,None
+2025 Spring Semester,RCP-83-4051,None,Advanced Clinical Experience,0,10,10,0,Lab - in Person,1/27/2025 - 5/24/2025,"Zepeda, E", - ,None,,None,None,None,None,None
+2025 Spring Semester,RCP-84-4036,None,Supervised Practice: Advanced,1,9,10,0,Lab - in Person,1/27/2025 - 5/24/2025,"Tavra, T",2:00 PM - 3:25 PM,None,T,None,None,None,None,None
+2025 Spring Semester,SJS-20-2216,None,Intro to Social Justice,27,15,42,0,"Lecture - in Person, Internet - Async Hybrid (lec)",4/1/2025 - 5/24/2025,"Yang, Y",2:40 PM - 5:50 PM,None,W, - ,,None,None,None
+2025 Spring Semester,SOC-1-2120,None,Introduction to Sociology,0,53,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"McDrew, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,SOC-15-2129,None,Immigration and Identity,3,39,42,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Hernandez, B",11:20 AM - 12:45 PM,None,Th, - ,,None,None,None
+2025 Spring Semester,SOC-30-9948,None,Soc of Latina/Latino in U.S.,0,0,0,0,"Lecture - in Person, D.E. - Passive Text 1-WAY",1/27/2025 - 5/24/2025,"Oshiro, O",1:00 PM - 4:00 PM,None,Sa, - ,,None,None,None
+2025 Spring Semester,SOC-41-2125,None,Marriage and the Family,8,45,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Shah, S", - ,None,,None,None,None,None,None
+2025 Spring Semester,SOC-42-2126,None,The Socio of Minority Rel.,33,20,53,18,Internet - Async (lec),1/27/2025 - 5/24/2025,"Jimenez, H", - ,None,,None,None,None,None,None
+2025 Spring Semester,SOC-5-2121,None,Intro. to Social Problems,20,33,53,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"McDrew, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,SOC-8-2122,None,"Soc of Food, Culture, and Soc",35,18,53,14,Internet - Async (lec),4/1/2025 - 5/24/2025,"Jimenez, H", - ,None,,None,None,None,None,None
+2025 Spring Semester,SPA-1-5115,None,Elementary Spanish,0,31,31,10,Internet - Async (lec),1/27/2025 - 5/24/2025,"Cordova Escamilla, T", - ,None,,None,None,None,None,None
+2025 Spring Semester,SPA-1S-0704,None,Elem Span for Spanish Speakers,7,24,31,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Cordova Escamilla, T",6:00 PM - 8:30 PM,None,W, - ,,None,None,None
+2025 Spring Semester,SPA-1X-5130,None,Elem Span for Chicano Students,0,31,31,8,Internet - Async (lec),1/27/2025 - 5/24/2025,"Marquez, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,SPA-2-5160,None,Elementary Spanish,0,31,31,4,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Castro, V",11:20 AM - 2:30 PM,None,M, - ,,None,None,None
+2025 Spring Semester,SPA-2S-0880,None,Elem Span for Span Speakers,0,20,0,0,Lecture - in Person,1/13/2025 - 5/24/2025,"Barbosa, M",9:08 AM - 10:13 AM,None,M/T/W/F,None,None,None,None,None
+2025 Spring Semester,SPA-2X-5129,None,Elem Span for Chicano Students,20,11,31,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Flores, J",1:00 PM - 2:25 PM,None,W, - ,,None,None,None
+2025 Spring Semester,SPA-3-5135,None,Intermediate Spanish,24,7,31,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Castro, V",8:00 AM - 10:30 AM,None,W, - ,,None,None,None
+2025 Spring Semester,SPA-3S-5165,None,Inter Span for Span Speakers,5,26,31,0,Internet - Async (lec),1/27/2025 - 5/24/2025,"Flores, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,SPA-4S-5166,None,Interm Span for Span Speakers,17,14,31,0,Internet - Async (lec),1/27/2025 - 5/24/2025,"Marquez, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,TAC-1-2164,None,Introduction to Theatre,7,38,45,9,Internet - Async (lec),4/1/2025 - 5/24/2025,"Wohlander, R", - ,None,,None,None,None,None,None
+2025 Spring Semester,TAC-10-2167,None,Acting I - Acting for Everyone,7,18,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Navaille, R",11:20 AM - 12:25 PM,None,T/Th,12:25 PM - 1:50 PM,T/Th,None,None,None
+2025 Spring Semester,TAC-11-2168,None,Acting II,7,18,25,0,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Navaille, R",11:20 AM - 12:25 PM,None,T/Th,12:25 PM - 1:50 PM,T/Th,None,None,None
+2025 Spring Semester,TAC-2-2166,None,Script Analysis,14,21,35,0,"Lecture - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 3/22/2025,"McGrath, J",9:40 AM - 11:05 AM,None,T/Th, - ,,None,None,None
+2025 Spring Semester,TAC-23-0881,None,Theatre for Social Change,0,29,0,0,Lecture - in Person,2/5/2025 - 5/24/2025,"Englehorn, M",11:36 AM - 12:39 PM,None,M/T/W/F,None,None,None,None,None
+2025 Spring Semester,TAC-3-8009,None,History of Theatre,29,16,45,10,Internet - Async (lec),1/27/2025 - 3/22/2025,"Glazier, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,TAC-50-6142,None,Intro to Film: History 1960,20,5,25,0,"Lecture - in Person, Internet - Async Hybrid (lec)",4/1/2025 - 5/24/2025,"Glazier, M",10:40 AM - 1:50 PM,None,F, - ,,None,None,None
+2025 Spring Semester,TAC-57-2170,None,Intro to Electronic Media,24,21,45,20,Internet - Async (lec),1/27/2025 - 5/24/2025,"Glazier, J", - ,None,,None,None,None,None,None
+2025 Spring Semester,TAC-58-2171,None,Intro to Media Writing,16,29,45,11,Internet - Async (lec),4/1/2025 - 5/24/2025,"Glazier, M", - ,None,,None,None,None,None,None
+2025 Spring Semester,TAC-59-2172,None,Beginning Audio Product,14,21,35,0,"Lab - in Person, Internet - Async Hybrid (lec)",1/27/2025 - 5/24/2025,"Avila, A",2:40 PM - 5:50 PM,None,T, - ,,None,None,None
+2025 Spring Semester,TAC-61-0750,None,Beginning Radio and Podcasting,24,6,30,5,"Internet - Async (lec), Internet - Async (lab)",4/1/2025 - 5/24/2025,"Avila, A", - ,None,, - ,,None,None,None
+2025 Spring Semester,TAC-92-0756,None,Children's Theatre,25,0,25,0,Lecture - in Person,4/1/2025 - 5/24/2025,"Glazier, M",11:20 AM - 2:30 PM,None,W,None,None,None,None,None
+2025 Spring Semester,WLD-150-0706,None,Intro to Arc Welding,0,25,25,7,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Davis, M",8:00 AM - 9:25 AM,None,T,9:25 AM - 2:30 PM,T,None,None,None
+2025 Spring Semester,WLD-152-7060,None,Sheet Metal Fabrication,0,25,25,10,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Painter, H",2:40 PM - 4:05 PM,None,T,4:05 PM - 9:10 PM,T,None,None,None
+2025 Spring Semester,WLD-155-7029,None,Ornamental Ironwork,0,25,25,10,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Davis, M",8:00 AM - 9:05 AM,None,Th,9:05 AM - 12:15 PM,Th,None,None,None
+2025 Spring Semester,WLD-157-7062,None,Pipe Welding,0,25,25,10,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Painter, H",3:00 PM - 4:25 PM,None,Th,4:25 PM - 9:30 PM,Th,None,None,None
+2025 Spring Semester,WLD-158-7063,None,Hardfacing and Surfacing,0,25,25,10,"Lecture - in Person, Lab - in Person",1/27/2025 - 5/24/2025,"Davis, M",8:00 AM - 8:50 AM,None,W,8:50 AM - 12:15 PM,W,None,None,None

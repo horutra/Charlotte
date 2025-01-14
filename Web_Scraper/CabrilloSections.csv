@@ -1,0 +1,701 @@
+Term,Section Name,Requisites,Description,Available Seats,Enrolled,Capacity,Waitlisted,Instructor Method,Modality 1 Schedule,Modality 1 Instructor,Modality 1 Times,Modality 1 Location,Modality 1 Days,Modality 2 Times,Modality 2 Days,Modality 2 Instructor,Modality 2 Location
+Spring 2025,ACCT-151A-01,None,Intro to Accounting,0,43,43,4,Required Zoom Meetings Lecture,2/3/2025 - 5/31/2025,Farima Fakoor,9:00 AM - 11:05 AM,None,M/W,None,None,None,None,None
+Spring 2025,ACCT-155-01,None,Payroll Accounting,25,18,43,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Farima Fakoor, - ,None,,None,None,None,None,None
+Spring 2025,ACCT-16-01,None,Accounting Ethics,0,43,43,1,No Required Times Online Lect,2/3/2025 - 5/31/2025,Laurienne Hammond, - ,None,,None,None,None,None,None
+Spring 2025,ACCT-1A-02,None,Financial Accountng,14,29,43,0,No Required Times Online Lect,2/3/2025 - 3/29/2025,Laurienne Hammond, - ,None,,None,None,None,None,None
+Spring 2025,ACCT-1B-LS03,None,Managerial Acct,1,42,43,0,No Required Times Online Lect,4/7/2025 - 5/31/2025,Laurienne Hammond, - ,None,,None,None,None,None,None
+Spring 2025,ACCT-451A-01,None,Intro to Accounting,0,43,43,1,Required Zoom Meetings Lecture,2/3/2025 - 5/31/2025,Farima Fakoor,9:00 AM - 11:05 AM,None,M/W,None,None,None,None,None
+Spring 2025,ACCT-455-01,None,Payroll Accounting,25,18,43,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Farima Fakoor, - ,None,,None,None,None,None,None
+Spring 2025,ACCT-59-01,None,Fraud Examination,23,20,43,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Laurienne Hammond, - ,None,,None,None,None,None,None
+Spring 2025,ADAPT-79-01,None,Integrated Dance,10,15,25,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Stephanie A. Spencer,10:00 AM - 10:50 AM,None,T,10:00 AM - 11:05 AM,Th,None,None,None
+Spring 2025,ADAPT-90-01,None,Adaptive Swimming,9,16,25,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Celia Z. Brezner,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,ADAPT-91-01,None,Adaptive Bowling,14,16,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Leonard S. Norton,3:00 PM - 5:05 PM,None,M,None,None,None,None,None
+Spring 2025,ADAPT-93-01,None,Ex/Fitness Adaptive,0,25,25,1,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Leonard S. Norton,10:00 AM - 10:50 AM,None,M,10:00 AM - 11:05 AM,W,Joanna E. Manoff,None,Joanna E. Manoff
+Spring 2025,ADAPT-96-01,None,Adaptive Yoga,0,20,20,5,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Leonard S. Norton,11:10 AM - 12:30 PM,None,W,None,None,None,None,None
+Spring 2025,AH-10-01,None,Apprec/Intro Art,0,60,60,21,No Required Times Online Lect,2/3/2025 - 5/31/2025,Louisa I. Benhissen, - ,None,,None,None,None,None,None
+Spring 2025,AH-11H-HONRS,None,Honors Ancient Art,19,16,35,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Heather K. Gray,12:40 PM - 2:00 PM,None,T/Th,None,None,None,None,None
+Spring 2025,AH-13-01,None,Renaissance to 19C,21,39,60,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Heather K. Gray,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,AH-14-01,None,Modern Art,0,60,60,5,No Required Times Online Lect,2/3/2025 - 5/31/2025,Heather E. Crowley, - ,None,,None,None,None,None,None
+Spring 2025,AH-16-01,None,Art India/SE Asia,17,43,60,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Rose Smith, - ,None,,None,None,None,None,None
+Spring 2025,AH-19-01,None,Art of the Americas,0,60,60,2,No Required Times Online Lect,2/3/2025 - 5/31/2025,Heather K. Gray, - ,None,,None,None,None,None,None
+Spring 2025,AH-20B-01,None,Survey/Ren-Present,0,60,60,1,No Required Times Online Lect,2/3/2025 - 5/31/2025,Rose Smith, - ,None,,None,None,None,None,None
+Spring 2025,AH-479-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,AH-53-01,None,Contemporary Art,34,26,60,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Rose Smith, - ,None,,None,None,None,None,None
+Spring 2025,AH-79-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,ALH-110-AMAP,None,ALH Foundation Crse,0,30,30,0,Required Times on Campus Lab,1/21/2025 - 1/24/2025,Ashlyn M. James,8:00 AM - 11:50 AM,None,T/W/Th/F,1:00 PM - 4:50 PM,T/W/Th/F,Laurie J. Colombani,None,Laurie J. Colombani
+Spring 2025,ANTHR-1-01,None,Intro Anthro: Biological,18,26,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Rachel K. Mitchell,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,ANTHR-13-01,None,Forensic Anthropology,7,37,44,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Kristin J. Wilson, - ,None,,None,None,None,None,None
+Spring 2025,ANTHR-17-01,None,Food and Culture,0,44,44,17,No Required Times Online Lect,2/3/2025 - 5/31/2025,Rachel K. Mitchell, - ,None,,None,None,None,None,None
+Spring 2025,ANTHR-1L-01,None,Biological Anthro Lab,7,17,24,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Rachel K. Mitchell,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,ANTHR-2-01,None,Intro Anthro: Cultural,19,22,41,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Dustin K. McKenzie,9:30 AM - 10:50 AM,None,M/W,None,None,None,None,None
+Spring 2025,ANTHR-2H-HONRS,None,Honors Anthro Cultural,5,30,35,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Dustin K. McKenzie,2:10 PM - 3:30 PM,None,M/W,None,None,None,None,None
+Spring 2025,ANTHR-3-01,None,Intro to Archaeology,21,20,41,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Dustin K. McKenzie,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,ANTHR-6-01,None,Peop Nonwest:califo,22,19,41,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Dustin K. McKenzie,12:40 PM - 2:00 PM,None,T/Th,None,None,None,None,None
+Spring 2025,AP-15-01,None,History of Photography,0,59,59,27,No Required Times Online Lect,2/3/2025 - 5/31/2025,Gregory R Mettler, - ,None,,None,None,None,None,None
+Spring 2025,AP-1A-LS01,None,Foundations of Photography,0,26,26,9,"Required Times on Campus Lect, Required Times on Campus Lab, No Required Times Online Lect, No Required Times Online Lab",3/3/2025 - 5/31/2025,Lesley A. Louden,9:00 AM - 9:50 AM,None,T,10:00 AM - 12:05 PM,T,None,None,None
+Spring 2025,AP-35-01,None,"Photo, New Media, Social Chng",0,40,40,8,No Required Times Online Lect,2/3/2025 - 5/31/2025,Lesley A. Louden, - ,None,,None,None,None,None,None
+Spring 2025,AP-401A-LS01,None,Foundations of Photography,0,26,26,2,"Required Times on Campus Lect, Required Times on Campus Lab, No Required Times Online Lect, No Required Times Online Lab",3/3/2025 - 5/31/2025,Lesley A. Louden,9:00 AM - 9:50 AM,None,T,10:00 AM - 12:05 PM,T,None,None,None
+Spring 2025,AP-406-01,None,Intro to Digital Photography,2,38,40,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Andrea S. Massalski, - ,None,, - ,,None,None,None
+Spring 2025,AP-409A-01,None,Black and White Photography I,0,27,27,3,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Gregory R Mettler,2:30 PM - 5:35 PM,None,T,2:30 PM - 4:35 PM,Th,None,None,None
+Spring 2025,AP-42-01,None,Alt Photo Processes I,9,18,27,0,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Beverly Rayner,1:00 PM - 3:05 PM,None,T,3:15 PM - 4:05 PM,T,None,None,None
+Spring 2025,AP-446A-01,None,Photoshop for Photography I,0,26,26,2,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Neeley E. Drown, - ,None,, - ,,None,None,None
+Spring 2025,AP-446B-01,None,Photoshop for Photography II,12,14,26,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Sean Peeler, - ,None,, - ,,None,None,None
+Spring 2025,AP-446C-01,None,Photoshop for Photography III,12,14,26,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Sean Peeler, - ,None,, - ,,None,None,None
+Spring 2025,AP-448-LS01,None,Basic Product Photography,9,21,30,0,No Required Times Online Lect,4/7/2025 - 5/10/2025,Lesley A. Louden, - ,None,,None,None,None,None,None
+Spring 2025,AP-46A-01,None,Photoshop for Photography I,0,26,26,1,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Neeley E. Drown, - ,None,, - ,,None,None,None
+Spring 2025,AP-46B-01,None,Photoshop for Photography II,12,14,26,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Sean Peeler, - ,None,, - ,,None,None,None
+Spring 2025,AP-46C-01,None,Photoshop for Photography III,12,14,26,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Sean Peeler, - ,None,, - ,,None,None,None
+Spring 2025,AP-479-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,AP-52-01,None,Alt Photo Processes II,9,18,27,0,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Beverly Rayner,1:00 PM - 3:05 PM,None,T,3:15 PM - 4:05 PM,T,None,None,None
+Spring 2025,AP-55-LS01,None,Moving Image Studies,0,40,40,3,No Required Times Online Lect,3/3/2025 - 5/31/2025,Neeley E. Drown, - ,None,,None,None,None,None,None
+Spring 2025,AP-6-01,None,Intro to Digital Photography,2,38,40,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Andrea S. Massalski, - ,None,, - ,,None,None,None
+Spring 2025,AP-79-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,AP-9A-01,None,Black and White Photography I,0,27,27,5,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Gregory R Mettler,2:30 PM - 5:35 PM,None,T,2:30 PM - 4:35 PM,Th,None,None,None
+Spring 2025,ART-11A-01,None,Small Metal/Jewelry Casting I,15,10,25,0,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Leeyeon Yoo,1:00 PM - 3:05 PM,None,T,3:15 PM - 4:05 PM,T,None,None,None
+Spring 2025,ART-11B-01,None,Small Metal/Jewelry Casting II,15,10,25,0,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Leeyeon Yoo,1:00 PM - 3:05 PM,None,T,3:15 PM - 4:05 PM,T,None,None,None
+Spring 2025,ART-25A-01,None,Beg Woodworking/Furniture,0,25,25,6,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Steven J. Schloemer,1:00 PM - 3:05 PM,None,T,3:15 PM - 4:05 PM,T,None,None,None
+Spring 2025,ART-25B-01,None,Intermed Woodworking/Furniture,0,25,25,1,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Steven J. Schloemer,1:00 PM - 3:05 PM,None,T,3:15 PM - 4:05 PM,T,None,None,None
+Spring 2025,ART-28-01,None,Letter/Typography,7,18,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Carl Rohrs,2:30 PM - 4:35 PM,None,M,4:45 PM - 5:35 PM,M,None,None,None
+Spring 2025,ART-2A-01,None,Drawing and Composition I,1,24,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Matthew W. Taylor,9:00 AM - 11:05 AM,None,T,11:15 AM - 12:05 PM,T,None,None,None
+Spring 2025,ART-2B-01,None,Draw/Composition II,0,25,25,5,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Danielle B. Torvik-Staffen,1:00 PM - 3:05 PM,None,T,3:15 PM - 4:05 PM,T,None,None,None
+Spring 2025,ART-31A-01,None,Painting I,11,14,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Matthew W. Taylor,10:00 AM - 12:05 PM,None,F,12:35 PM - 4:40 PM,F,None,None,None
+Spring 2025,ART-31B-01,None,Painting II,11,14,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Matthew W. Taylor,10:00 AM - 12:05 PM,None,F,12:35 PM - 4:40 PM,F,None,None,None
+Spring 2025,ART-31C-01,None,Painting III,11,14,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Matthew W. Taylor,10:00 AM - 12:05 PM,None,F,12:35 PM - 4:40 PM,F,None,None,None
+Spring 2025,ART-33A-01,None,Screen Printing-Serigraphy I,0,25,25,3,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Tobin W. Keller,1:00 PM - 3:05 PM,None,T,3:15 PM - 4:05 PM,T,None,None,None
+Spring 2025,ART-33B-01,None,Screen Printing-Serigraphy II,0,25,25,3,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Tobin W. Keller,1:00 PM - 3:05 PM,None,T,3:15 PM - 4:05 PM,T,None,None,None
+Spring 2025,ART-3A-01,None,Life Drawing I,3,22,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Claire E. Thorson,6:00 PM - 8:05 PM,None,T,8:15 PM - 9:05 PM,T,None,None,None
+Spring 2025,ART-3B-01,None,Life Drawing II,3,22,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Claire E. Thorson,6:00 PM - 8:05 PM,None,T,8:15 PM - 9:05 PM,T,None,None,None
+Spring 2025,ART-4-01,None,2D Design/Color,0,25,25,15,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Lucia P Znamirowski,1:00 PM - 3:05 PM,None,M,3:15 PM - 4:05 PM,M,None,None,None
+Spring 2025,ART-479-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,ART-495A-01,None,Survey Digi Fab Art,8,17,25,0,"Required Times on Campus Lect, Required Times on Campus Lab,  Arranged On Campus Lab",2/3/2025 - 5/31/2025,Biagio J. Scarpello,9:00 AM - 11:05 AM,None,T,11:15 AM - 12:05 PM,T,None,None,None
+Spring 2025,ART-495B-01,None,Beginning Digi Fab,20,5,25,0,"Required Times on Campus Lect, Required Times on Campus Lab,  Arranged On Campus Lab",2/3/2025 - 5/31/2025,James M. Jenkins,6:00 PM - 8:05 PM,None,T,8:15 PM - 9:05 PM,T,None,None,None
+Spring 2025,ART-5-01,None,3D Design,0,25,25,3,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Leeyeon Yoo,9:00 AM - 11:05 AM,None,M,11:15 AM - 12:05 PM,M,None,None,None
+Spring 2025,ART-50L-01,None,Gallery Viewing Lab,3,97,100,0,No Required Times Online Lab,2/3/2025 - 5/31/2025,Biagio J. Scarpello, - ,None,,None,None,None,None,None
+Spring 2025,ART-51L-01,None,Museum Viewing Lab,74,26,100,0,No Required Times Online Lab,2/3/2025 - 5/31/2025,Biagio J. Scarpello, - ,None,,None,None,None,None,None
+Spring 2025,ART-6A-01,None,Ceramics Hand Building I,0,26,25,15,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Crystal R. Kamoroff,1:00 PM - 3:05 PM,None,M,3:15 PM - 4:05 PM,M,None,None,None
+Spring 2025,ART-6B-01,None,Ceramics Hand Building II,0,25,25,5,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Crystal R. Kamoroff,1:00 PM - 3:05 PM,None,M,3:15 PM - 4:05 PM,M,None,None,None
+Spring 2025,ART-72A-01,None,Ceramics Process I,8,17,25,0,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Gail C. Ritchie-Bobeda,6:00 PM - 8:05 PM,None,M,8:15 PM - 9:05 PM,M,None,None,None
+Spring 2025,ART-72B-01,None,Ceramics Process II,8,17,25,0,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Gail C. Ritchie-Bobeda,6:00 PM - 8:05 PM,None,M,8:15 PM - 9:05 PM,M,None,None,None
+Spring 2025,ART-74-01,None,Monotype Printmaking,4,21,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Tobin W. Keller,10:00 AM - 12:05 PM,None,F,12:35 PM - 4:40 PM,F,None,None,None
+Spring 2025,ART-79-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,ART-8A-01,None,Sm Metal/Jewelry Fabrication I,0,24,24,14,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Brian P. Meek,6:00 PM - 8:05 PM,None,M,8:15 PM - 9:05 PM,M,None,None,None
+Spring 2025,ART-95A-01,None,Survey Digi Fab Art,8,17,25,0,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Biagio J. Scarpello,9:00 AM - 11:05 AM,None,T,11:15 AM - 12:05 PM,T,None,None,None
+Spring 2025,ART-95B-01,None,Beginning Digi Fab,20,5,25,0,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,James M. Jenkins,6:00 PM - 8:05 PM,None,T,8:15 PM - 9:05 PM,T,None,None,None
+Spring 2025,ART-9A-01,None,Ceramics Wheel Forming I,0,25,25,15,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Crystal R. Kamoroff,9:00 AM - 11:05 AM,None,M,11:15 AM - 12:05 PM,M,None,None,None
+Spring 2025,ART-9B-01,None,Ceramics Wheel Forming II,0,25,25,6,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Crystal R. Kamoroff,9:00 AM - 11:05 AM,None,M,11:15 AM - 12:05 PM,M,None,None,None
+Spring 2025,ASL-1-01,None,Elem ASL I,7,23,30,0,"Required Times on Campus Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Celeste Love,10:20 AM - 12:25 PM,None,T/Th, - ,,None,None,None
+Spring 2025,ASL-2-01,None,Elementary ASL II,13,17,30,0,"Required Times on Campus Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Celeste Love,12:45 PM - 2:50 PM,None,T/Th, - ,,None,None,None
+Spring 2025,ASTRO-27-LS01,None,Field Astron At Pinnacles,12,18,30,0,"Required Times on Campus Lect, Required Times on Campus Lab",4/10/2025 - 4/10/2025,Richard A. Nolthenius,6:00 PM - 9:05 PM,None,Th,6:15 PM - 11:05 PM,F,None,None,None
+Spring 2025,ASTRO-4-01,None,"Stars, Galaxies & the Universe",12,48,60,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Richard A. Nolthenius,9:30 AM - 10:50 AM,None,M/W,None,None,None,None,None
+Spring 2025,ASTRO-5-01,None,Life in the Universe,49,11,60,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Richard A. Nolthenius,2:45 PM - 5:50 PM,None,T,None,None,None,None,None
+Spring 2025,ASTRO-8A-01,None,Observational Astronomy,19,11,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Richard A. Nolthenius,7:30 PM - 10:35 PM,None,T,None,None,None,None,None
+Spring 2025,ATH-10-01,None,Athl. Conditioning,1,24,25,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Paolo G. Carbone, - ,None,,None,None,None,None,None
+Spring 2025,ATH-11-01,None,Ftbl Conditioning,18,7,25,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Justin D. Hansen, - ,None,,None,None,None,None,None
+Spring 2025,ATH-15I-EST01,None,Intercol Bsktbl/Men,8,12,20,0,Open Entry on Campus Lab,1/21/2025 - 3/15/2025,James M. Page, - ,None,,None,None,None,None,None
+Spring 2025,ATH-15J-EST01,None,Intrcl Bsktbl/Women,13,7,20,0,Open Entry on Campus Lab,1/21/2025 - 3/15/2025,Anthony J. Marcopulos, - ,None,,None,None,None,None,None
+Spring 2025,ATH-15K-EST01,None,Intercol Baseball,12,28,40,0,Open Entry on Campus Lab,1/6/2025 - 5/3/2025,Scott A. Masik, - ,None,,None,None,None,None,None
+Spring 2025,ATH-15M-EST01,None,Intercol Softball,12,8,20,0,Open Entry on Campus Lab,1/6/2025 - 5/3/2025,Kristy J. Rosinger, - ,None,,None,None,None,None,None
+Spring 2025,ATH-15N-EST01,None,Interc Swim/Div-Men,11,9,20,0,Open Entry on Campus Lab,1/21/2025 - 5/10/2025,Joshua P. Thomas, - ,None,,None,None,None,None,None
+Spring 2025,ATH-15P-EST01,None,Interc Swim/Div-Wmn,11,9,20,0,Open Entry on Campus Lab,1/21/2025 - 5/10/2025,Joshua P. Thomas, - ,None,,None,None,None,None,None
+Spring 2025,ATH-15Q-EST01,None,Intercol Tennis/Men,5,10,15,0,Open Entry on Campus Lab,1/13/2025 - 5/3/2025,David E. Van Ness, - ,None,,None,None,None,None,None
+Spring 2025,ATH-15R-EST01,None,Intercol Tennis/Wm,5,10,15,0,Open Entry on Campus Lab,1/13/2025 - 5/3/2025,David E. Van Ness, - ,None,,None,None,None,None,None
+Spring 2025,ATH-15S-EST01,None,Interc Sand Volleyball,8,12,20,0,Open Entry on Campus Lab,1/13/2025 - 5/10/2025,Branden J. Torado, - ,None,,None,None,None,None,None
+Spring 2025,ATH-31-LS01,None,Basktbl Skills Dev,7,13,20,0,Open Entry on Campus Lab,4/7/2025 - 5/17/2025,James M. Page, - ,None,,None,None,None,None,None
+Spring 2025,ATH-32-LS01,None,Football Skills Dev,51,4,55,0,Open Entry on Campus Lab,3/17/2025 - 5/17/2025,Justin D. Hansen, - ,None,,None,None,None,None,None
+Spring 2025,ATH-33-01,None,Soccer Skills Devel,7,23,30,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Paolo G. Carbone, - ,None,,None,None,None,None,None
+Spring 2025,ATH-36-01,None,Water Polo Skills,23,2,25,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Jasper T. Billings, - ,None,,None,None,None,None,None
+Spring 2025,BIO-101-01,None,Intro to Microscopy,152,98,250,0,"No Required Times Online Lect, No Required Times Online Lab",2/21/2025 - 3/1/2025,Marina L. Ramon, - ,None,, - ,,None,None,None
+Spring 2025,BIO-11A-01,None,General Biology,0,28,28,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Penny A. Carroll,8:00 AM - 9:20 AM,None,M/W,9:30 AM - 12:35 PM,M,Kaila A. Pearson,None,Kaila A. Pearson
+Spring 2025,BIO-11B-01,None,Marine Biology,9,19,28,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Allison J Gong,11:10 AM - 12:30 PM,None,M/W,12:50 PM - 3:55 PM,M,None,None,None
+Spring 2025,BIO-11C-01,"[{'RequirementCode': '2535', 'IsRequired': True, 'CompletionOrder': 'PreviousOrConcurrent', 'CorequisiteCourseId': None, 'IsProtected': False}]",Ecology,14,14,28,0,"Required Times on Campus Lect, Required Times on Campus Lab, Lab/Activity (O)",2/3/2025 - 5/31/2025,Gabriel E. Gartner,8:00 AM - 9:20 AM,None,M/W,9:00 AM - 3:30 PM,F,None,None,None
+Spring 2025,BIO-13A-01,None,Anat/Phsio People,32,28,60,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Penny A. Carroll,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,BIO-13AL-01,"[{'RequirementCode': '2536', 'IsRequired': True, 'CompletionOrder': 'PreviousOrConcurrent', 'CorequisiteCourseId': None, 'IsProtected': False}]",Bio of People Lab,8,18,26,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Adrienne E. Frisbee,9:00 AM - 12:05 PM,None,F,None,None,None,None,None
+Spring 2025,BIO-4-01,None,Human Anatomy,0,26,26,26,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Matthew S. Halter,12:40 PM - 2:00 PM,None,M/W,9:30 AM - 12:35 PM,M,Matthew C. Berry,None,Matthew C. Berry
+Spring 2025,BIO-450-01,None,App Research Bio,0,28,28,6,"Required Times on Campus Lect, Required Times on Campus Lab, No Required Times Online Lab",2/3/2025 - 5/31/2025,Kaila A. Pearson,9:00 AM - 9:50 AM,None,F,10:15 AM - 11:20 AM,F,Jane Silberstein,None,Jane Silberstein
+Spring 2025,BIO-451-01,None,Adv Applied Research in Bio,0,28,28,4,"Required Times on Campus Lect, Required Times on Campus Lab, No Required Times Online Lab",2/3/2025 - 5/31/2025,Jane Silberstein,9:00 AM - 9:50 AM,None,F,10:15 AM - 11:20 AM,F,Kaila A. Pearson,None,Kaila A. Pearson
+Spring 2025,BIO-5-01,None,Human Physiology,0,28,28,11,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Alyssa K. Burkhardt,8:00 AM - 9:20 AM,None,M/W,9:30 AM - 12:35 PM,M,None,None,None
+Spring 2025,BIO-6-01,None,Microbiology,0,28,28,13,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Yves S. Tan,11:10 AM - 12:30 PM,None,T/Th,12:40 PM - 2:00 PM,T/Th,None,None,None
+Spring 2025,BIO-9A-01,None,"Molec., Cellular, Animal Bio",9,19,28,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Yves S. Tan,12:40 PM - 2:00 PM,None,M/W,9:30 AM - 12:35 PM,M/W,Gabriel E. Gartner,None,Gabriel E. Gartner
+Spring 2025,BIO-9B-01,None,"Ecology, Evolution, and Plant",9,19,28,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Gabriel E. Gartner,11:10 AM - 12:30 PM,None,T/Th,8:00 AM - 11:05 AM,T/Th,Adrienne E. Frisbee,None,Adrienne E. Frisbee
+Spring 2025,BUS-18-LS04,None,Business Law,0,43,43,10,"No Required Times Online Lect, No Required Times Online Lab",3/3/2025 - 5/31/2025,Mo N. Hassan, - ,None,, - ,,None,None,None
+Spring 2025,BUS-20-LS04,None,Intro to Business,24,19,43,0,No Required Times Online Lect,4/7/2025 - 5/31/2025,Luz R. Hoyt, - ,None,,None,None,None,None,None
+Spring 2025,BUS-488-01,None,New Small Business,12,31,43,0,"Required Times on Campus Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Jess A. Vega-Centeno,9:30 AM - 10:50 AM,None,T/Th, - ,,None,None,None
+Spring 2025,BUS-5-01,None,Bus Inform Systems,0,43,43,16,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,John C. Yost, - ,None,, - ,,None,None,None
+Spring 2025,BUS-52-01,None,Business Communications,3,40,43,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Jess A. Vega-Centeno, - ,None,,None,None,None,None,None
+Spring 2025,BUS-60-01,None,Intnl Bus,27,16,43,0,Hybrid Flexible Lecture,2/3/2025 - 5/31/2025,Jess A. Vega-Centeno,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,BUS-67-01,None,Human Relations and Resources,25,18,43,0,Required Zoom Meetings Lecture,2/3/2025 - 5/31/2025,Cynthia L. Mathiesen,6:00 PM - 9:05 PM,None,W,None,None,None,None,None
+Spring 2025,BUS-69-LS01,None,Organizational Behavior,34,9,43,0,No Required Times Online Lect,4/7/2025 - 5/31/2025,Mo N. Hassan, - ,None,,None,None,None,None,None
+Spring 2025,BUS-88-01,None,New Small Business,12,31,43,0,"Required Times on Campus Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Jess A. Vega-Centeno,9:30 AM - 10:50 AM,None,T/Th, - ,,None,None,None
+Spring 2025,BUS-9-01,None,Business Statistics,0,43,43,31,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Silvina Leroux, - ,None,, - ,,None,None,None
+Spring 2025,CABT-100-01,None,Business Tech and Procedures,14,6,30,0,"Hybrid Flexible Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Jennifer L. Vered,9:00 AM - 12:05 PM,None,M, - ,,None,None,None
+Spring 2025,CABT-101-01,None,Computer Proficiency,15,15,30,0,"Hybrid Flexible Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Trista G Bailey,9:00 AM - 12:05 PM,None,Th, - ,,None,None,None
+Spring 2025,CABT-102-01,None,Basic Spreadsheets,2,47,60,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Jennifer L. Vered, - ,None,,None,None,None,None,None
+Spring 2025,CABT-108-01,None,Social Media for Business,8,22,30,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,John D. Robertson, - ,None,, - ,,None,None,None
+Spring 2025,CABT-109-01,None,Cust Serv/Human Rel,15,15,30,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Kimberley D. Turner, - ,None,, - ,,None,None,None
+Spring 2025,CABT-110A-01,None,Keyboard-Alpha Keys,0,38,60,3,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Jennifer L. Vered, - ,None,,None,None,None,None,None
+Spring 2025,CABT-110B-01,None,Keyboard-Numb/Symb,1,35,60,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Jennifer L. Vered, - ,None,,None,None,None,None,None
+Spring 2025,CABT-110C-01,None,Keybrdg--Speed Dev,13,3,30,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Jennifer L. Vered, - ,None,,None,None,None,None,None
+Spring 2025,CABT-118-01,None,Microsoft Windows,25,7,56,0,Hybrid Flexible Lecture,2/3/2025 - 3/29/2025,Jennifer L. Vered, - ,None,, - ,,Daniel De la Cruz,None,Daniel De la Cruz
+Spring 2025,CABT-130AD-01,None,Accessible Docs,28,2,30,0,"Hybrid Flexible Lecture, Hybrid Flexible Lab",2/3/2025 - 5/31/2025,Cristy L. Pazera, - ,None,, - ,,None,None,None
+Spring 2025,CABT-155-01,None,Basic Bus Comm Tech,23,7,30,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Jacqueline C. Ramos, - ,None,,None,None,None,None,None
+Spring 2025,CABT-157-01,None,Bus and Tech Writing,0,20,30,1,Hybrid Flexible Lecture,2/3/2025 - 5/31/2025,Dairea H Burum,9:00 AM - 12:05 PM,None,W,None,None,None,None,None
+Spring 2025,CABT-160-BIW,None,Outlook/Internet,7,9,30,0,"Hybrid Flexible Lecture, No Required Times Online Lab",3/3/2025 - 5/31/2025,John D. Robertson,9:00 AM - 11:50 AM,None,T, - ,,None,None,None
+Spring 2025,CABT-161-LS01,None,Creating a Simple Web Site,20,10,30,0,"No Required Times Online Lect, No Required Times Online Lab",3/10/2025 - 5/31/2025,Audrey A. Blumeneau, - ,None,, - ,,None,None,None
+Spring 2025,CABT-162AM-01,None,Accessible Media,27,3,30,0,"Hybrid Flexible Lecture, Hybrid Flexible Lab",2/3/2025 - 5/31/2025,Trista G Bailey, - ,None,, - ,,None,None,None
+Spring 2025,CABT-171-01,None,CRM Tech I,24,6,30,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 3/29/2025,Kimberley D. Turner, - ,None,, - ,,None,None,None
+Spring 2025,CABT-172-LS01,None,CRM Tech II,27,3,30,0,"No Required Times Online Lect, No Required Times Online Lab",4/7/2025 - 5/31/2025,Kimberley D. Turner, - ,None,, - ,,None,None,None
+Spring 2025,CABT-210-01,None,Basic Keyboarding,23,13,60,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Jennifer L. Vered, - ,None,,None,None,None,None,None
+Spring 2025,CABT-402-01,None,Basic Spreadsheets,13,47,60,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Jennifer L. Vered, - ,None,,None,None,None,None,None
+Spring 2025,CABT-405-01,None,Beginning Tech Skills I,24,6,30,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Daniel De la Cruz, - ,None,,None,None,None,None,None
+Spring 2025,CABT-406-01,None,Beg Tech Skills II,27,3,30,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Daniel De la Cruz, - ,None,,None,None,None,None,None
+Spring 2025,CABT-410-01,None,Basic Keyboarding,27,13,60,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Jennifer L. Vered, - ,None,,None,None,None,None,None
+Spring 2025,CABT-410A-01,None,Computer Lab Office Training,0,0,0,1,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Cristy L. Pazera, - ,None,, - ,,None,None,None
+Spring 2025,CABT-410B-01,None,Computer Lab Teaching Training,0,0,0,1,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Cristy L. Pazera, - ,None,, - ,,None,None,None
+Spring 2025,CABT-418-01,None,Microsoft Windows,27,7,56,0,Hybrid Flexible Lecture,2/3/2025 - 3/29/2025,Jennifer L. Vered, - ,None,, - ,,Daniel De la Cruz,None,Daniel De la Cruz
+Spring 2025,CABT-43-01,None,Beg/Int Spreadsheet,3,17,30,0,"Hybrid Flexible Lecture, No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 3/29/2025,John D. Robertson,9:00 AM - 12:05 PM,None,Th, - ,,None,None,None
+Spring 2025,CABT-430AD-01,None,Accessible Docs,28,2,30,0,"Hybrid Flexible Lecture, Hybrid Flexible Lab",2/3/2025 - 5/31/2025,Cristy L. Pazera, - ,None,, - ,,None,None,None
+Spring 2025,CABT-44-BIW,None,Advanced Spreadsheets,9,6,30,0,"Hybrid Flexible Lecture, No Required Times Online Lect, No Required Times Online Lab",4/7/2025 - 5/31/2025,John D. Robertson,9:00 AM - 12:05 PM,None,Th, - ,,None,None,None
+Spring 2025,CABT-455-01,None,Basic Bus Comm Tech,23,7,30,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Jacqueline C. Ramos, - ,None,,None,None,None,None,None
+Spring 2025,CABT-462AM-01,None,Accessible Media,27,3,30,0,"Hybrid Flexible Lecture, Hybrid Flexible Lab",2/3/2025 - 5/31/2025,Trista G Bailey, - ,None,, - ,,None,None,None
+Spring 2025,CABT-502-01,None,Tech Tutor/Support,1349,1,1350,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Marcelo V. Nogueira, - ,None,,None,None,None,None,None
+Spring 2025,CAHM-151B-01,None,Adv Culinary Arts,0,12,12,6,"Required Times on Campus Lect, Required Times on Campus Lab, Lab/Activity (O)",2/3/2025 - 5/31/2025,Jeremy R. MacVeigh,12:00 PM - 3:05 PM,None,T,3:15 PM - 6:20 PM,T,None,None,None
+Spring 2025,CAHM-155-01,None,Basic Baking & Past,0,25,25,15,"Online Asynchronous Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Anne K. Baldzikowski, - ,None,,9:30 AM - 12:35 PM,Th,None,None,None
+Spring 2025,CAHM-157L-01,None,Cater/Bev/Op Lab,2,13,15,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Andrea C Mollenauer,8:00 AM - 11:50 AM,None,F,12:20 PM - 2:10 PM,F,None,None,None
+Spring 2025,CAHM-167-01,None,Cultural and Ethnic,0,20,20,1,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Andrea C Mollenauer,9:30 AM - 10:20 AM,None,M,10:30 AM - 1:35 PM,M,None,None,None
+Spring 2025,CAHM-168-01,None,Adv Baking and Pastry,12,13,25,0,"Online Asynchronous Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Anne K. Baldzikowski, - ,None,,2:30 PM - 5:35 PM,M,None,None,None
+Spring 2025,CAHM-50A-01,None,Intro Culinary Art,0,30,30,12,Required Times on Campus Lect,2/3/2025 - 3/3/2025,Staff,9:00 AM - 1:15 PM,None,M,None,None,None,None,None
+Spring 2025,CAHM-50B-LS01,None,Intro Entree Prep,0,30,30,4,Required Times on Campus Lect,3/10/2025 - 4/14/2025,Staff,9:00 AM - 12:20 PM,None,M,None,None,None,None,None
+Spring 2025,CAHM-50C-LS01,None,Intro Appetizers,0,30,30,1,Required Times on Campus Lect,4/21/2025 - 5/19/2025,Staff,9:00 AM - 12:20 PM,None,M,None,None,None,None,None
+Spring 2025,CAHM-50L-01,None,Intro Culinary Arts,0,15,15,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Megan A. Bailey,7:30 AM - 10:20 AM,None,T,10:50 AM - 2:00 PM,T,None,None,None
+Spring 2025,CAHM-60-01,None,Purchasing and Food Cost,0,30,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Staff,3:15 PM - 5:20 PM,None,T,None,None,None,None,None
+Spring 2025,CAHM-64-01,None,Sanitation and Hygi,0,30,30,11,Hybrid Flexible Lecture,2/3/2025 - 5/31/2025,Megan A. Bailey,3:15 PM - 5:20 PM,None,W,None,None,None,None,None
+Spring 2025,CAHM-74-01,None,World Wines,38,22,60,0,Required Zoom Meetings Lecture,2/3/2025 - 3/2/2025,Deborah A. Wong,6:30 PM - 8:35 PM,None,M,6:30 PM - 8:35 PM,M,None,None,None
+Spring 2025,CAHM-76-01,None,Basic Winemaking,19,11,30,0,Required Times on Campus Lect,2/3/2025 - 3/24/2025,Mikael C. Wargin,9:00 AM - 2:25 PM,None,M,None,None,None,None,None
+Spring 2025,CAHM-77-LS01,None,Basic Wine Grape Viticulture,20,10,30,0,Required Times on Campus Lect,4/7/2025 - 5/19/2025,Priscilla E. Foxx,9:00 AM - 2:25 PM,None,M,None,None,None,None,None
+Spring 2025,CEM-151-01,None,Construction Fundamentals,15,35,50,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Bruce K. Greenstein,6:00 PM - 9:05 PM,None,M,None,None,None,None,None
+Spring 2025,CEM-151EL-LS01,None,Elec Bas Const Tech,0,25,25,1,Required Times on Campus Lect,2/8/2025 - 2/8/2025,Mark G. Van Meter,9:00 AM - 1:15 PM,None,Sa,9:00 AM - 1:15 PM,Sa,None,None,None
+Spring 2025,CEM-151FC-LS01,None,Basic Finish Carpentry,7,18,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",4/19/2025 - 5/17/2025,Mark G. Van Meter,9:00 AM - 12:20 PM,None,Sa,12:30 PM - 3:50 PM,Sa,None,None,None
+Spring 2025,CEM-151L-01,None,Construction Lab,8,17,25,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Bruce K. Greenstein,1:00 PM - 4:05 PM,None,T,None,None,None,None,None
+Spring 2025,CEM-151PL-LS01,None,Plumbing Basics,0,25,25,3,Required Times on Campus Lect,3/15/2025 - 3/29/2025,Mark G. Van Meter,9:00 AM - 1:15 PM,None,Sa,9:00 AM - 1:15 PM,Sa,None,None,None
+Spring 2025,CEM-154-01,None,Construct Estimate,0,30,30,17,No Required Times Online Lect,2/3/2025 - 5/31/2025,Mark G. Van Meter, - ,None,,None,None,None,None,None
+Spring 2025,CEM-159-01,None,Constr Plan and Sched,0,45,45,3,No Required Times Online Lect,2/3/2025 - 5/31/2025,Bruce K. Greenstein, - ,None,,None,None,None,None,None
+Spring 2025,CEM-161-01,None,Constr Bus. and Topics,16,29,45,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Bruce K. Greenstein, - ,None,,None,None,None,None,None
+Spring 2025,CEM-162BS-01,None,Building Science for Construct,3,22,25,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Bruce K. Greenstein,6:00 PM - 9:05 PM,None,T,None,None,None,None,None
+Spring 2025,CEM-162SP-02,None,Solar Photovoltaic Design,12,13,25,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Kenny M Murray,6:00 PM - 9:05 PM,None,W,None,None,None,None,None
+Spring 2025,CEM-169A-01,None,Fund U Mech Code,10,20,30,0,Hybrid Flexible Lecture,2/3/2025 - 5/31/2025,James E. Heaney,6:00 PM - 9:05 PM,None,M,None,None,None,None,None
+Spring 2025,CEM-175C-01,None,National Electrical Code,0,30,30,1,"Required Times on Campus Lect, Required Zoom Meetings Lecture",2/6/2025 - 2/6/2025,Mark G. Van Meter,6:00 PM - 9:05 PM,None,Th,6:00 PM - 9:05 PM,Th,None,None,None
+Spring 2025,CEM-451-01,None,Construction Fundamentals,15,35,50,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Bruce K. Greenstein,6:00 PM - 9:05 PM,None,M,None,None,None,None,None
+Spring 2025,CEM-451L-01,None,Construction Lab,8,17,25,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Bruce K. Greenstein,1:00 PM - 4:05 PM,None,T,None,None,None,None,None
+Spring 2025,CG-51-BRDG1,None,Plan for Success,29,4,33,0,"Required Times on Campus Lect, No Required Times Online Lect",3/18/2025 - 3/25/2025,Mario Z. Garcia,4:15 PM - 5:05 PM,None,W,4:15 PM - 5:05 PM,W,None,None,None
+Spring 2025,CG-54-CSUMB,None,Major/Career Exploration,26,7,33,0,Required Times on Campus Lect,2/7/2025 - 2/7/2025,Ileana Gil,10:00 AM - 12:20 PM,None,F,10:00 AM - 12:20 PM,F,None,None,None
+Spring 2025,CHEM-12A-01,None,Organic Chemistry I,54,11,65,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Burcak M. Artun,8:00 AM - 9:20 AM,None,T/Th,None,None,None,None,None
+Spring 2025,CHEM-12AL-01,None,Organic Chem Lab I,8,12,20,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Burcak M. Artun,8:00 AM - 11:05 AM,None,M/W,None,None,None,None,None
+Spring 2025,CHEM-12B-01,None,Organic Chemistry II,18,47,65,0,Hybrid Flexible Lecture,2/3/2025 - 5/31/2025,Zerubba U. Levi,12:40 PM - 2:00 PM,None,T/Th,None,None,None,None,None
+Spring 2025,CHEM-12BL-01,None,Organic Chem Lab II,0,20,20,2,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Zerubba U. Levi,8:00 AM - 11:05 AM,None,T/Th,None,None,None,None,None
+Spring 2025,CHEM-1A-01,None,General Chemistry,6,19,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Sarah A. Gerhardt,12:40 PM - 2:00 PM,None,M/W,8:00 AM - 11:05 AM,M/W,None,None,None
+Spring 2025,CHEM-1B-01,None,General Chemistry II,2,21,23,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Albi B. Romero,12:40 PM - 2:00 PM,None,T/Th,8:00 AM - 11:05 AM,T/Th,None,None,None
+Spring 2025,CHEM-3-01,None,Intr Inorganic Chem,0,100,100,11,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Elizabeth H. Flynn,11:15 AM - 12:35 PM,None,T/Th,None,None,None,None,None
+Spring 2025,CHEM-30A-01,None,Inorganic Chem for Health,0,28,28,12,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Elizabeth H. Flynn,11:10 AM - 12:30 PM,None,M/W,8:00 AM - 9:20 AM,M/W,Lucas P. Cantin,None,Lucas P. Cantin
+Spring 2025,CHEM-30B-01,None,Organic/Biochem for Health,0,25,25,10,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Burcak M. Artun,6:00 PM - 7:20 PM,None,T/Th,7:30 PM - 8:50 PM,T/Th,None,None,None
+Spring 2025,CHEM-3L-01,None,Intr Inorganic Chem Lab,2,23,25,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Anna Johnston,11:10 AM - 2:15 PM,None,M,None,None,None,None,None
+Spring 2025,CIS-103-01,None,Tech Support As a Profession,4,28,32,0,"Hybrid Flexible Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Terri W. Oropeza,5:40 PM - 7:45 PM,None,T/Th, - ,,None,None,None
+Spring 2025,CIS-15-01,None,Programming With Python,11,19,30,0,"Hybrid Flexible Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Andrew Thach,2:30 PM - 4:35 PM,None,M/W, - ,,None,None,None
+Spring 2025,CIS-470B-01,None,Google IT Support B,26,4,30,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Glenn A. Dunki-Jacobs-Nolten, - ,None,,None,None,None,None,None
+Spring 2025,CIS-471B-01,None,A+ Cert Software,25,5,30,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Glenn A. Dunki-Jacobs-Nolten, - ,None,,None,None,None,None,None
+Spring 2025,CIS-71-01,None,IT Essentials,6,24,30,0,"Required Times on Campus Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Marcelo V. Nogueira,5:30 PM - 9:35 PM,None,Th, - ,,None,None,None
+Spring 2025,CIS-75-01,None,Computer Security,15,17,32,0,"Hybrid Flexible Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Elizabeth Louise Shaw,6:30 PM - 7:50 PM,None,M/W, - ,,None,None,None
+Spring 2025,CIS-77-01,None,Computer Forensics,24,8,32,0,"Hybrid Flexible Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Daniel De la Cruz,5:30 PM - 8:35 PM,None,T, - ,,None,None,None
+Spring 2025,CIS-81-01,None,Introduction to Networks,13,17,30,0,"Required Times on Campus Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Rick Graziani,10:00 AM - 12:05 PM,None,M/W, - ,,None,None,None
+Spring 2025,CIS-82-02,None,"Switching, Routing, Wireless",4,28,32,0,"Hybrid Flexible Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Rick Graziani,1:00 PM - 3:05 PM,None,M/W, - ,,None,None,None
+Spring 2025,CIS-90-01,None,Intro to UNIX/Linux,9,23,32,0,"Hybrid Flexible Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Elizabeth Louise Shaw,5:00 PM - 6:20 PM,None,M/W, - ,,None,None,None
+Spring 2025,CIS-92-01,None,Cloud Devops,21,11,32,0,"Hybrid Flexible Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Elizabeth Louise Shaw,1:00 PM - 3:05 PM,None,T/Th, - ,,None,None,None
+Spring 2025,CIS-95-01,None,Server Admin,23,9,32,0,"Hybrid Flexible Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Elizabeth Louise Shaw,5:30 PM - 7:35 PM,None,T/Th, - ,,None,None,None
+Spring 2025,CJ-1-01,None,Intro to Criminal J,0,40,40,1,No Required Times Online Lect,2/3/2025 - 5/31/2025,Phillip R. Carr, - ,None,,None,None,None,None,None
+Spring 2025,CJ-10-01,None,Forensic Investigation,12,28,40,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Ginger Charles,12:40 PM - 3:45 PM,None,W,None,None,None,None,None
+Spring 2025,CJ-155D-SB01,None,Law Enf Skls and Knwl,2,38,40,0,Required Times on Campus Lab,6/26/2024 - 12/18/2024,Kevin Jensen, - ,None,,None,None,None,None,None
+Spring 2025,CJ-2-01,None,Criminal Law,0,40,40,14,No Required Times Online Lect,2/3/2025 - 5/31/2025,Ginger Charles, - ,None,,None,None,None,None,None
+Spring 2025,CJ-3-01,None,Criminal Evidence,0,40,40,1,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Christine M. Smith,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,CJ-4-01,None,Courts and Procedures,26,14,40,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Christine M. Smith,11:10 AM - 12:30 PM,None,M/W,None,None,None,None,None
+Spring 2025,CJ-7-01,None,CJ Written Communic,21,9,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Christine M. Smith,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,CJ-9-01,None,Juvenile Procedures,28,12,40,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Bernardino V. Rocha,6:00 PM - 9:05 PM,None,M,None,None,None,None,None
+Spring 2025,COMM-1-01,None,Public Speaking,0,28,30,5,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Angie M. Mendoza,9:30 AM - 10:50 AM,None,M/W,None,None,None,None,None
+Spring 2025,COMM-10-01,None,Comm Process,0,30,30,10,No Required Times Online Lect,2/3/2025 - 5/31/2025,Kendall E. Sooter, - ,None,,None,None,None,None,None
+Spring 2025,COMM-12-01,None,Intercultural Comm.,0,30,30,1,No Required Times Online Lect,2/3/2025 - 3/29/2025,Skye Gentile, - ,None,,None,None,None,None,None
+Spring 2025,COMM-14-01,None,Health Communication,0,30,30,7,No Required Times Online Lect,2/3/2025 - 5/31/2025,Kendall E. Sooter, - ,None,,None,None,None,None,None
+Spring 2025,COMM-1H-HONRS,None,Honors Public Speaking,2,28,30,0,"Required Times on Campus Lect, Lecture (O)",2/3/2025 - 5/31/2025,Raina Chelise,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,COMM-2-01,None,Group Discussion,20,10,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Erin M. Weeks,12:40 PM - 2:00 PM,None,T/Th,None,None,None,None,None
+Spring 2025,COMM-6-01,None,Listening,23,42,65,0,No Required Times Online Lect,2/3/2025 - 3/1/2025,Erin M. Weeks, - ,None,,None,None,None,None,None
+Spring 2025,COMM-7-02,None,Interpersonal Comm,21,9,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Skye Gentile,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,CS-1-01,None,Intro to Computers and Tech,0,30,30,1,"Required Zoom Meetings Lecture, Online Asynchronous Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Rick Graziani,4:00 PM - 6:05 PM,None,W, - ,,None,None,None
+Spring 2025,CS-11-01,None,Intro to Programming/C++,2,30,32,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Andrew Thach,2:30 PM - 4:35 PM,None,T/Th,None,None,None,None,None
+Spring 2025,CS-12P-01,None,Intro to Python,22,10,32,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Jeffrey A. Bergamini,11:00 AM - 1:05 PM,None,M/W,None,None,None,None,None
+Spring 2025,CS-19-01,None,C++ Programming,0,35,35,4,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Jeffrey A. Bergamini, - ,None,, - ,,None,None,None
+Spring 2025,CS-20P-01,None,Python Programming,21,14,35,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Jeffrey A. Bergamini,11:10 AM - 1:15 PM,None,T/Th,None,None,None,None,None
+Spring 2025,CS-21-01,None,Data Structure and Algorithms,0,40,40,2,"Required Times on Campus Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Stephen J. Hodges,6:00 PM - 9:05 PM,None,W, - ,,None,None,None
+Spring 2025,CS-23-01,None,Discrete Mathematics,7,33,45,0,"Required Times on Campus Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Stephen J. Hodges,3:30 PM - 4:50 PM,None,M/W, - ,,None,None,None
+Spring 2025,DANCE-1-01,None,Dance Appreciation,0,35,35,1,No Required Times Online Lect,2/3/2025 - 5/31/2025,David A. King, - ,None,,None,None,None,None,None
+Spring 2025,DANCE-12A-01,None,Choreography l,25,5,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Cid Pearlman,12:40 PM - 2:45 PM,None,T/Th,None,None,None,None,None
+Spring 2025,DANCE-12B-01,None,Choreography ll,25,5,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Cid Pearlman,12:40 PM - 2:45 PM,None,T/Th,None,None,None,None,None
+Spring 2025,DANCE-14A-01,None,Dance Production,19,11,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Cid Pearlman,4:45 PM - 5:35 PM,None,M,4:45 PM - 5:50 PM,W,None,None,None
+Spring 2025,DANCE-16A-01,None,Baile Folklórico I,13,17,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Janet R. Johns,6:00 PM - 9:05 PM,None,M,None,None,None,None,None
+Spring 2025,DANCE-16B-01,None,Baile Folklórico II,13,17,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Janet R. Johns,6:00 PM - 9:05 PM,None,M,None,None,None,None,None
+Spring 2025,DANCE-17A-01,None,Latin Dance l,13,17,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Luz M. Mena,3:45 PM - 5:50 PM,None,Th,None,None,None,None,None
+Spring 2025,DANCE-17B-01,None,Latin Dance ll,13,17,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Luz M. Mena,3:45 PM - 5:50 PM,None,Th,None,None,None,None,None
+Spring 2025,DANCE-17C-01,None,Latin Dance lll,13,17,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Luz M. Mena,3:45 PM - 5:50 PM,None,Th,None,None,None,None,None
+Spring 2025,DANCE-17D-01,None,Latin Dance IV,13,17,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Luz M. Mena,3:45 PM - 5:50 PM,None,Th,None,None,None,None,None
+Spring 2025,DANCE-19A-01,None,Hip Hop Dance I,8,22,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Shih-Chieh Hsu,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,DANCE-19B-01,None,Hip Hop Dance ll,8,22,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Shih-Chieh Hsu,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,DANCE-19C-01,None,Hip Hop Dance llI,8,22,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Shih-Chieh Hsu,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,DANCE-19D-01,None,Hip Hop Dance IV,8,22,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Shih-Chieh Hsu,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,DANCE-3AP-01,None,Dance Conditioning/Pilates I,6,24,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Stephanie A. Spencer,11:00 AM - 12:20 PM,None,T/Th,None,None,None,None,None
+Spring 2025,DANCE-3BP-01,None,Dance Conditioning/Pilates II,6,24,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Stephanie A. Spencer,11:00 AM - 12:20 PM,None,T/Th,None,None,None,None,None
+Spring 2025,DANCE-3CP-01,None,Dance Conditioning/Pilate III,6,24,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Stephanie A. Spencer,11:00 AM - 12:20 PM,None,T/Th,None,None,None,None,None
+Spring 2025,DANCE-4-01,None,Contemp Mod Dance I,14,16,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Elizebeth M. Randall Rains,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,DANCE-479-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,DANCE-5-01,None,Contemp Mod Dance II,14,16,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Elizebeth M. Randall Rains,12:40 PM - 2:45 PM,None,M/W,None,None,None,None,None
+Spring 2025,DANCE-7-01,None,Ballet I,0,30,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Sian E. Ferguson,9:30 AM - 10:50 AM,None,M/W,None,None,None,None,None
+Spring 2025,DANCE-79-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,DANCE-8-01,None,Ballet II,0,30,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Sian E. Ferguson,9:30 AM - 11:35 AM,None,M/W,None,None,None,None,None
+Spring 2025,DH-162B-01,None,Patient Assess. II,2,20,22,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Fanhua Meng,8:00 AM - 11:05 AM,None,Th,None,None,None,None,None
+Spring 2025,DH-163B-01,None,Dntl Radiogr Interp,1,11,12,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/6/2025 - 3/28/2025,Fanhua Meng,12:00 PM - 2:05 PM,None,Th,8:00 AM - 10:05 AM,F,Pamela R. Farley,None,Pamela R. Farley
+Spring 2025,DH-164-01,None,Dental Materials,2,20,22,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Pamela R. Farley,10:00 AM - 12:05 PM,None,W,1:00 PM - 1:50 PM,W,April E. Hoops,None,April E. Hoops
+Spring 2025,DH-173-01,None,Clinical DH I,2,20,22,0,"Required Times on Campus Lect, Lab/Activity (O), Required Times on Campus Lab",2/3/2025 - 5/31/2025,Natalie K. Vanoli,7:45 AM - 9:50 AM,None,M,10:00 AM - 12:05 PM,M,Pamela R. Farley,None,Pamela R. Farley
+Spring 2025,DH-174-01,None,Periodontics,2,20,22,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Natalie K. Vanoli,7:45 AM - 9:50 AM,None,W,None,None,None,None,None
+Spring 2025,DH-183-01,None,Clinical DH III,3,19,22,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Leanne M. Albers,2:00 PM - 2:50 PM,None,T,7:45 AM - 11:50 AM,W,April E. Hoops,None,April E. Hoops
+Spring 2025,DH-184B-EST01,None,Pain Management II,3,19,22,0,"Required Times on Campus Lect, Required Times on Campus Lab",1/13/2025 - 1/15/2025,Natalie K. Vanoli,9:00 AM - 12:05 PM,None,M/T/W,1:00 PM - 4:05 PM,M/T,Cheryl C. Foster,None,Cheryl C. Foster
+Spring 2025,DH-186B-01,None,Comm Oral Health-B,3,19,22,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Staff,10:00 AM - 1:05 PM,None,T,None,None,None,None,None
+Spring 2025,DH-187-01,None,Dntl Hyg Law/Ethics,3,19,22,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Staff,7:45 AM - 9:50 AM,None,T,None,None,None,None,None
+Spring 2025,DM-1-SEC02,None,Intro to Digital Media,0,30,30,1,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Wendy F. Norris, - ,None,, - ,,None,None,None
+Spring 2025,DM-10-01,None,Digital and Print Production,20,10,30,0,"Hybrid Flexible Lecture, Online Asynchronous Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Jeremy M. Holden, - ,None,, - ,,None,None,None
+Spring 2025,DM-11-01,None,Digital Illustration,19,11,30,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Leslie Murray, - ,None,, - ,,None,None,None
+Spring 2025,DM-22-01,None,Intro to UI/UX,8,22,30,0,"Hybrid Flexible Lecture, Online Asynchronous Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Jeremy M. Holden, - ,None,, - ,,None,None,None
+Spring 2025,DM-4-01,None,Digital Graphics,0,30,30,3,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Wendy F. Norris, - ,None,, - ,,None,None,None
+Spring 2025,DM-401-SEC02,None,Intro to Digital Media,0,30,30,1,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Wendy F. Norris, - ,None,, - ,,None,None,None
+Spring 2025,DM-422-01,None,Intro to UI/UX,8,22,30,0,"Hybrid Flexible Lecture, Online Asynchronous Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Jeremy M. Holden, - ,None,, - ,,None,None,None
+Spring 2025,DM-456-01,None,Web Design Word Press,19,11,30,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 3/29/2025,John J. Govsky, - ,None,, - ,,None,None,None
+Spring 2025,DM-457-LS01,None,Self Promo Social Media,4,26,30,0,"No Required Times Online Lect, No Required Times Online Lab",4/7/2025 - 5/31/2025,John J. Govsky, - ,None,, - ,,None,None,None
+Spring 2025,DM-479-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,DM-56-01,None,Web Design Word Press,16,14,30,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 3/29/2025,John J. Govsky, - ,None,, - ,,None,None,None
+Spring 2025,DM-57-LS01,None,Self Promo Social Media,4,26,30,0,"No Required Times Online Lect, No Required Times Online Lab",4/7/2025 - 5/31/2025,John J. Govsky, - ,None,, - ,,None,None,None
+Spring 2025,DM-72-01,None,Fundamentals 2D Animation,24,6,30,0,"Hybrid Flexible Lecture, Online Asynchronous Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Jeremy M. Holden, - ,None,, - ,,None,None,None
+Spring 2025,DM-79-01,None,Creative Careers,14,16,30,0,"Required Times on Campus Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,DMCP-401-IT01,None,Foundations of Teams,29,1,30,0,"Required Zoom Meetings Lecture, No Required Times Online Lect, De Internet Delay Inter, Cvc O",2/3/2025 - 2/7/2025,Gail H. West,10:00 AM - 11:30 AM,None,M/T/W/Th/F,1:30 PM - 2:35 PM,M/T/W/Th/F,None,None,None
+Spring 2025,DMCP-402-ALL,None,Prep for Employment,27,3,30,0,"No Required Times Online Lect, De Internet Delay Inter, Cvc O",3/17/2025 - 4/12/2025,Serena L Pring Federman, - ,None,,None,None,None,None,None
+Spring 2025,DMCP-403-ALL,None,Professional Career Search,28,2,30,0,"No Required Times Online Lect, De Internet Delay Inter, Cvc O",4/14/2025 - 5/3/2025,Serena L Pring Federman, - ,None,,None,None,None,None,None
+Spring 2025,DMCP-404-ALL,None,Success in the Workplace,22,8,30,0,"No Required Times Online Lect, De Internet Delay Inter, Cvc O",2/3/2025 - 2/22/2025,Serena L Pring Federman, - ,None,,None,None,None,None,None
+Spring 2025,DMCP-405-ALL,None,Career Satisfaction,26,4,30,0,"No Required Times Online Lect, De Internet Delay Inter, Cvc O",2/24/2025 - 3/15/2025,Serena L Pring Federman, - ,None,,None,None,None,None,None
+Spring 2025,DMCP-411-IT01,None,Intro to Self-Management,28,2,30,0,"Required Zoom Meetings Lecture, No Required Times Online Lect, De Internet Delay Inter, Cvc O",2/13/2025 - 4/24/2025,Gail H. West,10:00 AM - 11:30 AM,None,Th, - ,,None,None,None
+Spring 2025,ECE-131-01,None,Child Growth & Dev,0,30,30,1,"Required Zoom Meetings Lecture, No Required Times Online Lect",2/3/2025 - 5/31/2025,Janinne B. Chadwick,7:00 PM - 8:30 PM,None,M, - ,,None,None,None
+Spring 2025,ECE-133-01,None,Infant Development,20,10,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Lisa S. Gerber,9:30 AM - 11:35 AM,None,F,None,None,None,None,None
+Spring 2025,ECE-142-SP01,None,"Niño, familia, y comunidad",0,30,30,6,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Sonia K. Diego Martinez,6:30 PM - 9:35 PM,None,T,None,None,None,None,None
+Spring 2025,ECE-145-LS01,None,Peace Education,16,14,30,0,"Required Zoom Meetings Lecture, No Required Times Online Lect",3/11/2025 - 5/27/2025,Emily a Dansker,6:30 PM - 8:00 PM,None,T, - ,,None,None,None
+Spring 2025,ECE-146-01,None,Child W/Special Nds,15,15,30,0,Required Times on Campus Lect,2/5/2025 - 2/5/2025,Lisa S. Gerber,6:30 PM - 9:35 PM,None,W,6:30 PM - 9:35 PM,W,Dana M Cox,None,Dana M Cox
+Spring 2025,ECE-156ART-LS01,None,STEAM: Art,16,14,30,0,Required Times on Campus Lect,2/24/2025 - 4/7/2025,Sandra a Paiva,6:30 PM - 9:20 PM,None,M,None,None,None,None,None
+Spring 2025,ECE-158-01,None,Working With Families,18,12,30,0,"Required Zoom Meetings Lecture, No Required Times Online Lect",2/3/2025 - 5/31/2025,Emily a Dansker,6:30 PM - 8:00 PM,None,Th, - ,,None,None,None
+Spring 2025,ECE-168-01,None,Adv. Child Care Practicm,4,2,6,0,"Required Times on Campus Lab, No Required Times Online Lab",2/6/2025 - 2/6/2025,Michelle D. Chao,2:30 PM - 4:05 PM,None,Th,2:30 PM - 4:05 PM,Th,None,None,None
+Spring 2025,ECE-31-01,None,Child Growth & Dev,0,30,30,7,No Required Times Online Lect,2/3/2025 - 5/31/2025,Michelle D. Chao, - ,None,,None,None,None,None,None
+Spring 2025,ECE-32-01,None,"Child, Family, and Community",15,15,30,0,"Required Zoom Meetings Lecture, No Required Times Online Lect",2/3/2025 - 5/31/2025,Daphne K. Sakamoto Steidl,6:30 PM - 8:00 PM,None,W, - ,,None,None,None
+Spring 2025,ECE-401A-01,None,Introd desarrollo infantil-A,25,5,30,0,"Required Times on Campus Lect, Lecture (M)",2/5/2025 - 3/26/2025,Laura X. Valdez Chavez,6:30 PM - 8:35 PM,None,M,None,None,None,None,None
+Spring 2025,ECE-401B-LS01,None,Introd desarrollo infantil-B,27,3,30,0,"Required Times on Campus Lect, Lecture (M)",4/9/2025 - 5/28/2025,Laura X. Valdez Chavez,6:30 PM - 8:35 PM,None,M,None,None,None,None,None
+Spring 2025,ECE-433-01,None,Infant Development,20,10,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Lisa S. Gerber,9:30 AM - 11:35 AM,None,F,None,None,None,None,None
+Spring 2025,ECE-51-01,None,Princ Work Young Ch,14,16,30,0,"Required Zoom Meetings Lecture, Online Asynchronous Lect",2/3/2025 - 5/31/2025,Jean M. Gallagher Heil,6:00 PM - 8:05 PM,None,T, - ,,None,None,None
+Spring 2025,ECE-53-01,None,Intro to Curric Chi,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Nathanael Flynn,6:30 PM - 9:35 PM,None,Th,None,None,None,None,None
+Spring 2025,ECE-53L-LS01,None,Curriculum Materials Lab,0,20,20,1,Required Times on Campus Lab,2/21/2025 - 2/21/2025,Sandra a Paiva,1:30 PM - 5:45 PM,None,F,1:30 PM - 5:45 PM,F,None,None,None
+Spring 2025,ECE-54-01,None,ECE Practicum,1,10,11,0,"Arranged On Campus Lecture, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Emily a Dansker, - ,None,,8:15 AM - 1:40 PM,M/W,None,None,None
+Spring 2025,ECE-54L-01,None,Practicum Lab,1,2,3,0, Arranged On Campus Lab,2/3/2025 - 5/31/2025,Michelle D. Chao, - ,None,,None,None,None,None,None
+Spring 2025,ECE-59-01,None,"Health, Safety, and Nutrition",0,30,30,4,Required Zoom Meetings Lecture,2/3/2025 - 5/31/2025,Lisa S. Gerber,6:30 PM - 8:35 PM,None,T, - ,,Dana M Cox,None,Dana M Cox
+Spring 2025,ECON-1A-01,None,Intro Macroeconomic,5,57,62,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Gregory S. Hanle,9:30 AM - 10:50 AM,None,M/W,None,None,None,None,None
+Spring 2025,ECON-1B-01,None,Intro Microeconomic,0,50,50,4,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Gregory S. Hanle,11:10 AM - 12:30 PM,None,M/W,None,None,None,None,None
+Spring 2025,EDUC-80-01,None,Ed in Chging World,23,12,35,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Ashley M. Selck,6:00 PM - 8:05 PM,None,M,None,None,None,None,None
+Spring 2025,EDUC-80L-01,None,Education Service Learning Lab,26,9,35,0,"Required Times on Campus Lab,  Arranged On Campus Lab",2/3/2025 - 5/31/2025,Ashley M. Selck,4:30 PM - 5:20 PM,None,M, - ,,None,None,None
+Spring 2025,ENGL-101A-CRQ01,None,College Comp Plus,5,29,34,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Joseph D. Carter,11:10 AM - 12:00 PM,None,M,11:10 AM - 12:15 PM,W,None,None,None
+Spring 2025,ENGL-12A-01,None,Fiction Writing,20,14,34,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Kathleen B. Founds,6:00 PM - 9:05 PM,None,T,None,None,None,None,None
+Spring 2025,ENGL-12B-01,None,Creative Writing: Poetry,12,22,34,0,"De Internet Delay Iner, Cvc (o, No Required Times Online Lect",2/3/2025 - 5/31/2025,Ariel Robello, - ,None,,None,None,None,None,None
+Spring 2025,ENGL-12C-01,None,Creative Writing: Film,0,34,34,4,Required Times on Campus Lect,2/3/2025 - 5/31/2025,David A. Sullivan,9:00 AM - 12:05 PM,None,F,None,None,None,None,None
+Spring 2025,ENGL-12F-01,None,Intro to Creative Writing,0,34,34,6,No Required Times Online Lect,2/3/2025 - 5/31/2025,Ariel Robello, - ,None,,None,None,None,None,None
+Spring 2025,ENGL-14A-01,None,Fiction Workshop,20,14,34,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Kathleen B. Founds,6:00 PM - 9:05 PM,None,T,None,None,None,None,None
+Spring 2025,ENGL-14B-01,None,Poetry Workshop,12,22,34,0,Online Asynchronous Lect,2/3/2025 - 5/31/2025,Ariel Robello, - ,None,,None,None,None,None,None
+Spring 2025,ENGL-14C-01,None,Screenwriting,0,34,34,3,Required Times on Campus Lect,2/3/2025 - 5/31/2025,David A. Sullivan,9:00 AM - 12:05 PM,None,F,None,None,None,None,None
+Spring 2025,ENGL-1A-CRQ01,None,College Composition,0,29,29,5,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Joseph D. Carter,9:30 AM - 10:50 AM,None,M/W,None,None,None,None,None
+Spring 2025,ENGL-1B-SEC01,None,Composition and Literature,12,17,29,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,William A. Mullaney,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,ENGL-2-ABP,None,Comp and Critical Thinking,9,3,12,0,"Required Times on Campus Lect, Online Asynchronous Lect",4/7/2025 - 5/31/2025,Rachael C. Fields,7:30 PM - 8:50 PM,None,Th, - ,,None,None,None
+Spring 2025,ENGL-23A-01,None,Reporting for the News Media,16,13,29,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Bradley M. Kava,2:30 PM - 3:50 PM,None,T/Th,None,None,None,None,None
+Spring 2025,ENGL-27AN-01,None,Native American Hist/Lit I,0,34,34,17,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Andrew G. Fague,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,ENGL-2H-HONR1,None,Honors Comp & Crit Thinking,3,26,29,0,"Required Times on Campus Lect, Online Asynchronous Lect",2/3/2025 - 5/31/2025,Letitia L. Scott-Curtis,2:30 PM - 4:35 PM,None,T, - ,,None,None,None
+Spring 2025,ENGL-2MC-PUEN1,None,Composition and Critical Think,0,29,29,1,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Victoria M Banales,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,ENGL-300-CRQ01,None,Academic Writing Workshop,10,24,34,0,"Required Times on Campus Lab, Lab/Activity (O)",2/3/2025 - 5/31/2025,Joseph D. Carter,11:10 AM - 12:00 PM,None,T,11:10 AM - 12:15 PM,Th,None,None,None
+Spring 2025,ENGL-30B-SEC01,None,American Literature,11,23,34,0,"Required Times on Campus Lect, Required Zoom Meetings Lecture",2/3/2025 - 5/31/2025,Steven J. Schessler,12:40 PM - 2:00 PM,None,M,12:40 PM - 2:00 PM,W,None,None,None
+Spring 2025,ENGL-34-SEC01,None,Shakespeare,29,5,34,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Conrad T. Scott-Curtis,9:30 AM - 10:50 AM,None,M/W,None,None,None,None,None
+Spring 2025,ENGL-39-SEC01,None,Chicana/o-Latina/o Literature,24,10,34,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Anny L. Mogollon,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,ENGL-46B-SEC01,None,Maj Brit Writers II,19,15,34,0,"Required Times on Campus Lect, Online Asynchronous Lect",2/3/2025 - 5/31/2025,Letitia L. Scott-Curtis,12:40 PM - 2:00 PM,None,T, - ,,None,None,None
+Spring 2025,ENGL-49B-01,None,Language of Film,0,34,34,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,David A. Sullivan,12:40 PM - 3:45 PM,None,W,None,None,None,None,None
+Spring 2025,ENGL-502-01,None,Tutoring in Writing,798,2,800,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Tera L. Martin, - ,None,,None,None,None,None,None
+Spring 2025,ENGL-549B-01,None,Lang of Film - Older Adults,0,34,34,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,David A. Sullivan,12:40 PM - 3:45 PM,None,W,None,None,None,None,None
+Spring 2025,ENGR-10-01,None,Engr Communication,0,30,30,4,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Kendall E. Sooter,2:30 PM - 4:35 PM,None,T,4:45 PM - 5:35 PM,T,Arlene R. Mendoza,None,Arlene R. Mendoza
+Spring 2025,ENGR-12-01,None,Machining Processes,0,12,12,1,"No Required Times Online Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Robert P. McCoun, - ,None,, - ,,Claude H Lopez,None,Claude H Lopez
+Spring 2025,ENGR-15-01,None,Circuits,3,21,24,0,"Required Times on Campus Lect, Required Times on Campus Lab, Lab/Activity (M)",2/3/2025 - 5/31/2025,Carlos E. Figueroa,9:30 AM - 10:50 AM,None,M/W,8:00 AM - 11:05 AM,F,None,None,None
+Spring 2025,ENGR-1A-01,None,Surveying,0,27,27,3,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Jo-Ann Panzardi,6:00 PM - 9:05 PM,None,M,9:15 PM - 10:05 PM,M,Sarah L. Urbick,None,Sarah L. Urbick
+Spring 2025,ENGR-25-01,None,Graphics & Design,1,29,30,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Robert M. Wyland,2:30 PM - 3:50 PM,None,M/W,4:00 PM - 5:20 PM,M/W,Jo-Ann Panzardi,None,Jo-Ann Panzardi
+Spring 2025,ENGR-26-01,None,Solid Modeling,0,35,35,19,"Hybrid Flexible Lab, No Required Times Online Lab",2/3/2025 - 5/31/2025,Robert A. Hines,6:00 PM - 6:50 PM,None,M, - ,,None,None,None
+Spring 2025,ENGR-36-01,None,Dynamics,16,19,35,0,Hybrid Flexible Lecture,2/3/2025 - 5/31/2025,Karl H. Ewald,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,ENGR-40-01,None,Strength of Matls,7,17,24,0,"Hybrid Flexible Lecture, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Karl H. Ewald,6:00 PM - 9:05 PM,None,W,1:00 PM - 4:05 PM,F,None,None,None
+Spring 2025,ENGR-5-01,None,Engr as a Profession,11,24,35,0,Required Zoom Meetings Lecture,2/3/2025 - 4/28/2025,Karl H. Ewald,4:00 PM - 7:05 PM,None,M,None,None,None,None,None
+Spring 2025,ENGR-98A-01,None,Global Engr,11,9,20,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Jo-Ann Panzardi,11:00 AM - 1:05 PM,None,F,None,None,None,None,None
+Spring 2025,ES-10-01,None,Intro to Env Sci,0,70,70,17,Required Zoom Meetings Lecture,2/3/2025 - 5/31/2025,Adrienne E. Frisbee,11:10 AM - 12:30 PM,None,M/W,None,None,None,None,None
+Spring 2025,ES-10L-01,None,Intro to Env Sci Lab,17,7,24,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Lauren E. Hanneman,11:00 AM - 2:05 PM,None,F,None,None,None,None,None
+Spring 2025,ES-15-01,None,Sustainable Energy,24,11,35,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Karen M. Groppi,11:10 AM - 12:30 PM,None,T/Th,12:40 PM - 2:00 PM,T/Th,None,None,None
+Spring 2025,ES-50-01,None,Action for Sustainability,24,11,35,0,"Required Times on Campus Lect, Required Times on Campus Lab, Lab/Activity (O)",2/3/2025 - 5/31/2025,Kendall E. Sooter,2:30 PM - 4:35 PM,None,M,2:30 PM - 5:35 PM,W,None,None,None
+Spring 2025,ESL-100-01,None,High Adv ESL,14,15,29,0,Required Zoom Meetings Lecture,2/3/2025 - 5/31/2025,Lina Geriguis,6:00 PM - 9:05 PM,None,M/W,None,None,None,None,None
+Spring 2025,ESL-1A-01,None,College Comp. ESL,20,9,29,0,"Required Zoom Meetings Lecture, No Required Times Online Lect",2/3/2025 - 5/31/2025,Jason A. Malone,6:00 PM - 7:05 PM,None,T/Th, - ,,None,None,None
+Spring 2025,ESL-1S-01,None,Ling Analysis Plus,25,9,34,0,"Required Zoom Meetings Lecture, No Required Times Online Lect",2/3/2025 - 5/31/2025,Jason A. Malone,7:15 PM - 8:05 PM,None,T/Th, - ,,None,None,None
+Spring 2025,ESL-254-01,None,High-Int ESL,17,12,29,0,Required Zoom Meetings Lecture,2/3/2025 - 5/31/2025,Dairea H Burum,6:00 PM - 9:05 PM,None,T/Th,None,None,None,None,None
+Spring 2025,ESL-255-01,None,Low Adv ESL,20,9,29,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Inga I. Moses,6:00 PM - 9:05 PM,None,T/Th,None,None,None,None,None
+Spring 2025,ESL-300-01,None,High Adv Academic ESL,14,15,29,0,Required Zoom Meetings Lecture,2/3/2025 - 5/31/2025,Lina Geriguis,6:00 PM - 9:05 PM,None,M/W,None,None,None,None,None
+Spring 2025,ESL-331-IB131,None,English for Career Advancement,22,0,40,0,"Required Times on Campus Lect, Online Asynchronous Lect",2/3/2025 - 5/31/2025,Linda a Buie, - ,None,, - ,,None,None,None
+Spring 2025,ESL-332-IB158,None,Engl for Career Advancement 2,29,1,30,0,"Required Zoom Meetings Lecture, No Required Times Online Lect",2/3/2025 - 5/31/2025,Sherrie L. Hueter, - ,None,, - ,,None,None,None
+Spring 2025,ESL-341-01,None,ESL Beginning Lit,1,39,40,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Martin Rodriguez Juarez,6:00 PM - 9:05 PM,None,M/W,None,None,None,None,None
+Spring 2025,ESL-342-01,None,ESL Intermediate,20,20,40,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Robin M. Berg,6:00 PM - 9:05 PM,None,T/Th,None,None,None,None,None
+Spring 2025,ESL-343-01,None,ESL Advanced,32,8,40,0,"Required Zoom Meetings Lecture, No Required Times Online Lect",2/3/2025 - 5/31/2025,Jason A. Malone,6:00 PM - 8:05 PM,None,M/W, - ,,None,None,None
+Spring 2025,ESL-344-01,None,ESL Bridge to College,31,9,40,0,"Required Zoom Meetings Lecture, No Required Times Online Lect",2/3/2025 - 5/31/2025,Angelica Zavala,6:00 PM - 8:05 PM,None,T/Th, - ,,None,None,None
+Spring 2025,ESL-354-01,None,High-Inter. Academic ESL,17,12,29,0,Required Zoom Meetings Lecture,2/3/2025 - 5/31/2025,Dairea H Burum,6:00 PM - 9:05 PM,None,T/Th,None,None,None,None,None
+Spring 2025,ESL-355-01,None,Low-Adv Academic ESL,20,9,29,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Inga I. Moses,6:00 PM - 9:05 PM,None,T/Th,None,None,None,None,None
+Spring 2025,ESL-502-01,None,Tutoring in Writing,98,2,100,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Tera L. Martin, - ,None,,None,None,None,None,None
+Spring 2025,ETECH-130-01,None,Intro to Creo,0,35,35,6,"No Required Times Online Lect, Hybrid Flexible Lab",2/3/2025 - 5/31/2025,Robert A. Hines, - ,None,,6:00 PM - 6:50 PM,M,Gary P. Marcoccia,None,Gary P. Marcoccia
+Spring 2025,ETECH-24-01,None,Intro to AutoCAD,1,24,25,0,"Required Times on Campus Lect, Required Times on Campus Lab, Hybrid Flexible Lab",2/3/2025 - 5/31/2025,Gary P. Marcoccia,6:00 PM - 8:05 PM,None,M,8:15 PM - 10:20 PM,M,None,None,None
+Spring 2025,ETECH-31-01,None,Introduction to Electronics,5,20,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Marcelo V. Nogueira,6:00 PM - 8:05 PM,None,T,8:15 PM - 10:20 PM,T,Gary P. Marcoccia,None,Gary P. Marcoccia
+Spring 2025,ETECH-41-01,None,Advanced AutoCAD,0,25,25,2,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Doron L. Brenner, - ,None,, - ,,Gary P. Marcoccia,None,Gary P. Marcoccia
+Spring 2025,ETECH-61-01,None,Architecture/Green Design-B,1,24,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,William E. Fisher,6:00 PM - 8:25 PM,None,W,8:35 PM - 9:55 PM,W,None,None,None
+Spring 2025,ETHN-1-01,None,Intro Ethnic Studies,30,19,49,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Alicia Bencomo Garcia,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,ETHN-21A-01,None,Chicano History to 1877,0,44,44,4,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Enrique M. Buelna,12:40 PM - 2:00 PM,None,T/Th,None,None,None,None,None
+Spring 2025,ETHN-27AN-01,None,Native American Hist/Lit I,0,34,34,19,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Andrew G. Fague,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,ETHN-3-01,None,"Race, Ethnicity, and Society",0,51,49,10,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Sadie D. Reynolds,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,ETHN-8-01,None,Intro to Latino/a Studies,34,10,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Alicia Bencomo Garcia,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,FIN-4-01,None,Money Management,0,43,43,8,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Mo N. Hassan, - ,None,, - ,,None,None,None
+Spring 2025,FR-1-01,None,Elem French I,5,25,30,0,"Required Zoom Meetings Lecture, No Required Times Online Lab, Online Asynchronous Lect",2/3/2025 - 5/31/2025,Robyn B. Marshall,1:00 PM - 2:30 PM,None,T/Th, - ,,None,None,None
+Spring 2025,FR-2-01,None,Elementary French II,25,5,30,0,"Required Times on Campus Lect, Online Asynchronous Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Robyn B. Marshall,1:00 PM - 2:30 PM,None,M/W, - ,,None,None,None
+Spring 2025,FT-1-01,None,Fire Protection Org,0,40,40,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Craig G. Schwinge, - ,None,,None,None,None,None,None
+Spring 2025,FT-155D-SB01,None,Fire Tech Modules,0,22,12,0,Required Times on Campus Lab,7/9/2024 - 5/8/2025,Kevin Jensen, - ,None,,None,None,None,None,None
+Spring 2025,FT-183-01,None,Emergency Medical Technician,0,35,35,31,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leilani S. Roth,10:00 AM - 1:30 PM,None,M/W,None,None,None,None,None
+Spring 2025,FT-183L-01,None,EMT Lab,0,35,35,30,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Leilani S. Roth,2:00 PM - 5:50 PM,None,M/W,None,None,None,None,None
+Spring 2025,FT-184-LS01,None,Emt Refresher,30,5,35,0,Required Times on Campus Lect,3/7/2025 - 3/9/2025,Joanna E. Sokol,8:00 AM - 5:10 PM,None,F/Sa/Su,None,None,None,None,None
+Spring 2025,FT-3-01,None,Equipment/Systems,0,40,40,4,No Required Times Online Lect,2/3/2025 - 5/31/2025,Norcliff W. Wiley, - ,None,,None,None,None,None,None
+Spring 2025,FT-484NRE-LS01,None,NREMT-B Prep,70,0,70,0,"Required Times on Campus Lect, Online Asynchronous Lect",5/31/2025 - 5/31/2025,Leilani S. Roth,8:30 AM - 12:20 PM,None,Sa, - ,,None,None,None
+Spring 2025,FT-484SCW-LS01,None,State Cert Workshop,70,0,70,0,"Required Times on Campus Lect, Online Asynchronous Lect",5/31/2025 - 5/31/2025,Leilani S. Roth,12:50 PM - 4:40 PM,None,Sa, - ,,None,None,None
+Spring 2025,FT-7-01,None,Hazardous Materials,26,14,40,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Norcliff W. Wiley, - ,None,,None,None,None,None,None
+Spring 2025,FT-8-01,None,Wildlands Fire Control,23,17,40,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Norcliff W. Wiley, - ,None,,None,None,None,None,None
+Spring 2025,GEOG-1-01,None,Physical Geography,5,41,46,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Deirdre C. Scholar,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,GEOG-17-01,None,Intro to Geographic Info Sys,9,24,33,0,"Required Times on Campus Lect, No Required Times Online Lect",2/3/2025 - 5/31/2025,Erik N. Lowe,6:00 PM - 7:50 PM,None,M, - ,,None,None,None
+Spring 2025,GEOG-1L-01,None,Phys Geography Lab,10,24,34,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Deirdre C. Scholar,11:10 AM - 2:15 PM,None,T,None,None,None,None,None
+Spring 2025,GEOG-2-01,None,Cultural Geography,30,19,49,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Joseph K. Beard, - ,None,,None,None,None,None,None
+Spring 2025,GEOG-3-01,None,Weather & Climate,2,63,65,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Deirdre C. Scholar, - ,None,,None,None,None,None,None
+Spring 2025,GEOG-3L-01,None,Weather and Climate Lab,4,30,34,0,No Required Times Online Lab,2/3/2025 - 5/31/2025,Deirdre C. Scholar, - ,None,,None,None,None,None,None
+Spring 2025,GEOG-4-01,None,World Regional Geog,27,22,49,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Keith A. Ducote, - ,None,,None,None,None,None,None
+Spring 2025,GEOL-15-01,None,Environmental Geolg,0,40,40,5,No Required Times Online Lect,2/3/2025 - 5/31/2025,Colin M. Kolbus, - ,None,,None,None,None,None,None
+Spring 2025,GEOL-20-01,None,Historical Geology,11,17,28,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Lisa A. Gilbert,9:30 AM - 10:50 AM,None,M/W,8:30 AM - 12:35 PM,F,None,None,None
+Spring 2025,GRMN-2-01,None,Elementary German II,28,2,30,0,"Required Zoom Meetings Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Kathryn S. Weingand,10:20 AM - 12:25 PM,None,T/Th, - ,,None,None,None
+Spring 2025,HIST-14-01,None,Women in America,29,15,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Cheryl L Barkey,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,HIST-15-01,None,Recent U.S. History,32,12,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Michael J. Pebworth,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,HIST-17A-01,None,US History to 1877,0,44,44,14,No Required Times Online Lect,2/3/2025 - 5/31/2025,Michael E. Mangin, - ,None,,None,None,None,None,None
+Spring 2025,HIST-17B-01,None,US History Since 1865,0,44,44,11,No Required Times Online Lect,2/3/2025 - 5/31/2025,Sandy E. Davie, - ,None,,None,None,None,None,None
+Spring 2025,HIST-19C-01,None,Intro to Japanese History,27,17,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Daniel R. Stewart,2:30 PM - 5:35 PM,None,Th,None,None,None,None,None
+Spring 2025,HIST-21A-01,None,Chicano History to 1877,0,44,44,7,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Enrique M. Buelna,12:40 PM - 2:00 PM,None,T/Th,None,None,None,None,None
+Spring 2025,HIST-21B-01,None,Chicano History Since 1877,30,14,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Enrique M. Buelna,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,HIST-27AN-01,None,Native American Hist/Lit I,0,34,34,16,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Andrew G. Fague,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,HIST-29B-01,None,African America Hist From 1865,11,33,44,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Elyse L. Banks, - ,None,,None,None,None,None,None
+Spring 2025,HIST-2A-01,None,World History to 1500,25,19,44,0,"Required Times on Campus Lect, Online Asynchronous Lect",2/3/2025 - 5/31/2025,Cheryl L Barkey,11:10 AM - 12:30 PM,None,W, - ,,None,None,None
+Spring 2025,HIST-2B-01,None,World Hist From 1500 to Pres.,22,22,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Michael J. Pebworth,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,HIST-4B-01,None,European History Since 1648,3,41,44,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Michael E. Mangin, - ,None,,None,None,None,None,None
+Spring 2025,HONRS-1H-LS01,None,Honors Colloquium I,19,6,34,0,"Required Zoom Meetings Lecture, No Required Times Online Lect",4/14/2025 - 4/28/2025,Steven J. Schessler,2:20 PM - 3:50 PM,None,M, - ,,None,None,None
+Spring 2025,HONRS-2H-LS01,None,Honors Colloquium II,9,6,34,0,"Required Zoom Meetings Lecture, No Required Times Online Lect",4/14/2025 - 4/28/2025,Steven J. Schessler,2:20 PM - 3:50 PM,None,M, - ,,None,None,None
+Spring 2025,HORT-11-01,None,Intro to Ag Business,22,8,30,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Sarah E. Hulick, - ,None,,None,None,None,None,None
+Spring 2025,HORT-140A-01,None,Introductory Berry,15,10,25,0,Required Zoom Meetings Lecture,2/4/2025 - 2/27/2025,Clare R. Taylor,6:00 PM - 8:05 PM,None,T/Th,None,None,None,None,None
+Spring 2025,HORT-140B-LS01,None,Intermediate Berry,19,6,25,0,Required Zoom Meetings Lecture,3/4/2025 - 3/27/2025,Sarah E. Hulick,6:00 PM - 8:05 PM,None,T/Th,None,None,None,None,None
+Spring 2025,HORT-160B-01,None,Edible Landscaping,8,19,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Melissa A. Schilling,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,HORT-164-01,None,Cal Native Plants,0,30,30,2,"No Required Times Online Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Nicola J. Hughes, - ,None,,9:30 AM - 12:35 PM,M,None,None,None
+Spring 2025,HORT-172-01,None,Arboriculture,13,12,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Peter Quintanilla,9:30 AM - 11:35 AM,None,F,12:00 PM - 3:05 PM,F,None,None,None
+Spring 2025,HORT-173-01,None,Landscape Pruning,9,16,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/8/2025 - 2/14/2025,Peter Quintanilla,9:00 AM - 11:05 AM,None,Sa,9:00 AM - 11:05 AM,Sa,None,None,None
+Spring 2025,HORT-1B-01,None,Basic Horticulture: Crop Prod,14,18,32,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Sarah E. Hulick,12:45 PM - 3:50 PM,None,M,12:45 PM - 3:50 PM,W,None,None,None
+Spring 2025,HORT-2-01,None,Soil Science and Mgmt,2,32,34,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Clare R. Taylor,12:55 PM - 2:15 PM,None,T/Th,9:30 AM - 12:35 PM,T,None,None,None
+Spring 2025,HORT-440A-01,None,Introductory Berry,15,10,25,0,Required Zoom Meetings Lecture,2/4/2025 - 2/27/2025,Clare R. Taylor,6:00 PM - 8:05 PM,None,T/Th,None,None,None,None,None
+Spring 2025,HORT-440B-LS01,None,Intermediate Berry,19,6,25,0,Required Zoom Meetings Lecture,3/4/2025 - 3/27/2025,Sarah E. Hulick,6:00 PM - 8:05 PM,None,T/Th,None,None,None,None,None
+Spring 2025,HORT-58-01,None,Irrigation,20,10,30,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Christopher M. Johnson,9:30 AM - 12:35 PM,None,F,12:55 PM - 4:00 PM,F,None,None,None
+Spring 2025,HORT-63-01,None,Spring Plant Materials/Design,14,16,30,0,"No Required Times Online Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Nicola J. Hughes, - ,None,,9:30 AM - 12:35 PM,W,None,None,None
+Spring 2025,HORT-66-01,None,Landscape Design,17,8,25,0,"No Required Times Online Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Shanti M. Wertz, - ,None,,9:00 AM - 12:05 PM,M,None,None,None
+Spring 2025,HS-10-01,None,Personal Health,0,43,43,4,No Required Times Online Lect,2/3/2025 - 5/31/2025,Adrienne L. Saxton, - ,None,,None,None,None,None,None
+Spring 2025,HS-12-01,None,Stress Management,0,43,43,15,No Required Times Online Lect,2/3/2025 - 5/31/2025,Gina M. Lepore, - ,None,,None,None,None,None,None
+Spring 2025,HS-131-01,None,C.H. Worker Skills,9,15,43,0,"Required Times on Campus Lect, No Required Times Online Lect",2/3/2025 - 5/31/2025,Julieanne C. Jones,9:30 AM - 11:35 AM,None,Th, - ,,None,None,None
+Spring 2025,HS-15-01,None,Human Sexuality,0,43,43,2,No Required Times Online Lect,2/3/2025 - 5/31/2025,Gina M. Lepore, - ,None,,None,None,None,None,None
+Spring 2025,HS-24-01,None,Environmntl Health,0,43,43,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Alyssa S. Steiner, - ,None,,None,None,None,None,None
+Spring 2025,HS-431-01,None,C.H. Worker Skills,19,15,43,0,"Required Times on Campus Lect, No Required Times Online Lect",2/3/2025 - 5/31/2025,Julieanne C. Jones,9:30 AM - 11:35 AM,None,Th, - ,,None,None,None
+Spring 2025,HSERV-161-01,None,AOD Treatmnt/Recov,23,17,40,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Staff,2:10 PM - 5:15 PM,None,W,None,None,None,None,None
+Spring 2025,HSERV-162-01,None,AOD Physiol/Pharmac,10,30,40,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Mark W. Stanford, - ,None,,None,None,None,None,None
+Spring 2025,HSERV-163-LS01,None,Preventn: Alc/Drugs,27,13,40,0,Required Times on Campus Lect,2/22/2025 - 2/23/2025,Staff,9:00 AM - 6:10 PM,None,Sa/Su,None,None,None,None,None
+Spring 2025,HSERV-450EP-LS01,None,FDC Exam Prep,35,5,40,0,"Hybrid Flexible Lecture, Lecture (M)",2/19/2025 - 3/22/2025,Gail H. West,11:10 AM - 12:30 PM,None,W,None,None,None,None,None
+Spring 2025,HSERV-50-01,None,Intro to Human Serv,5,35,40,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Gail H. West,6:10 PM - 9:15 PM,None,Th,None,None,None,None,None
+Spring 2025,HSERV-51-01,None,Pract in Hum Serv,17,23,40,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Staff,2:10 PM - 5:15 PM,None,T,None,None,None,None,None
+Spring 2025,HSERV-53-01,None,Group Counseling,18,22,40,0,Required Times on Campus Lect,2/5/2025 - 4/9/2025,Staff,6:15 PM - 9:20 PM,None,W,9:00 AM - 4:10 PM,Sa,None,None,None
+Spring 2025,HSERV-55A-01,None,Hmn Sv Practicum I,40,20,60,0, Arranged On Campus Lab,2/3/2025 - 5/31/2025,Gail H. West, - ,None,,None,None,None,None,None
+Spring 2025,HSERV-55B-01,None,Hmn Sv Practicum II,40,20,60,0, Arranged On Campus Lab,2/3/2025 - 5/31/2025,Gail H. West, - ,None,,None,None,None,None,None
+Spring 2025,HSERV-56A-01,None,AOD Practicum I,44,16,60,0, Arranged On Campus Lab,2/3/2025 - 5/31/2025,Gail H. West, - ,None,,None,None,None,None,None
+Spring 2025,HSERV-56B-01,None,AOD Practicum II,44,16,60,0, Arranged On Campus Lab,2/3/2025 - 5/31/2025,Gail H. West, - ,None,,None,None,None,None,None
+Spring 2025,ITAL-2-01,None,Elementary Italian II,20,10,30,0,"Required Zoom Meetings Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Cristina Polesel Livoti,1:30 PM - 3:35 PM,None,T/Th, - ,,None,None,None
+Spring 2025,JAPAN-1-01,None,Elementary Japanese I,0,30,30,6,"Required Zoom Meetings Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Miyuki Takeuchi,2:30 PM - 4:35 PM,None,T/Th, - ,,None,None,None
+Spring 2025,JAPAN-2-01,None,Elementary Japanese II,13,17,30,0,"Required Zoom Meetings Lecture, No Required Times Online Lab",2/3/2025 - 5/31/2025,Miyuki Takeuchi,6:00 PM - 8:05 PM,None,T/Th, - ,,None,None,None
+Spring 2025,JOURN-2-01,None,Special Projects,16,13,29,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Bradley M. Kava,2:30 PM - 3:50 PM,None,T/Th,None,None,None,None,None
+Spring 2025,JOURN-21-01,None,Mass Communications,6,28,34,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Alexandria Bordas,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,JOURN-23A-01,None,Reporting for the News Media,16,13,29,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Bradley M. Kava,2:30 PM - 3:50 PM,None,T/Th,None,None,None,None,None
+Spring 2025,JOURN-54A-01,None,News Production A,24,5,29,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Alexandria Bordas,12:40 PM - 2:00 PM,None,T/Th,None,None,None,None,None
+Spring 2025,JOURN-54B-01,None,News Production B,24,5,29,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Alexandria Bordas,12:40 PM - 2:00 PM,None,T/Th,None,None,None,None,None
+Spring 2025,JOURN-54C-01,None,News Production C,24,5,29,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Alexandria Bordas,12:40 PM - 2:00 PM,None,T/Th,None,None,None,None,None
+Spring 2025,KIN-10AL-01,None,Sports Med Lab I,6,4,10,0," Arranged On Campus Lab, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Michael R Cutler, - ,None,,11:00 AM - 12:05 PM,F,None,None,None
+Spring 2025,KIN-10B-01,None,Athl Training B,22,8,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Rebecca Northon,11:10 AM - 12:30 PM,None,M/W,None,None,None,None,None
+Spring 2025,KIN-10BL-01,None,Sports Med Lab II,6,4,10,0," Arranged On Campus Lab, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Michael R Cutler, - ,None,,11:00 AM - 12:05 PM,,None,None,None
+Spring 2025,KIN-10CL-01,None,Sports Med Lab III,8,2,10,0, Arranged On Campus Lab,2/3/2025 - 5/31/2025,Rebecca Northon, - ,None,,None,None,None,None,None
+Spring 2025,KIN-10DL-01,None,Sports Med Lab IV,9,1,10,0, Arranged On Campus Lab,2/3/2025 - 5/31/2025,Rebecca Northon, - ,None,,None,None,None,None,None
+Spring 2025,KIN-13-LS01,None,First Aid,0,20,20,3,"No Required Times Online Lect, Required Times on Campus Lab, Online Asynchronous Lab",2/3/2025 - 3/29/2025,Joshua P. Thomas, - ,None,,9:00 AM - 1:05 PM,Sa,None,None,None
+Spring 2025,KIN-15-LS01,None,Community CPR,6,14,20,0,Required Times on Campus Lab,2/10/2025 - 2/17/2025,Joshua P. Thomas,5:30 PM - 9:50 PM,None,M,None,None,None,None,None
+Spring 2025,KIN-2-01,None,Kinesiology Intro,0,30,30,4,No Required Times Online Lect,2/3/2025 - 5/31/2025,Kristy J. Rosinger, - ,None,,None,None,None,None,None
+Spring 2025,KIN-20L-01,None,Aerobic Fitness,462,59,2000,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,James M. Page, - ,None,,None,None,None,None,None
+Spring 2025,KIN-22L-01,None,Strength Training,407,161,2000,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,James M. Page, - ,None,,None,None,None,None,None
+Spring 2025,KIN-23A-01,None,Fitness and Conditioning I,450,77,1000,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,James M. Page, - ,None,,None,None,None,None,None
+Spring 2025,KIN-23B-01,None,Fitness and Cond II,474,38,1000,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,James M. Page, - ,None,,None,None,None,None,None
+Spring 2025,KIN-23C-01,None,Fit and Condit III,486,19,1000,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,James M. Page, - ,None,,None,None,None,None,None
+Spring 2025,KIN-23D-01,None,Fit and Condit IV,492,12,1000,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,James M. Page, - ,None,,None,None,None,None,None
+Spring 2025,KIN-24L-01,None,Lifetime Fitness,451,88,2000,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,James M. Page, - ,None,,None,None,None,None,None
+Spring 2025,KIN-27A-01,None,Beg Weight Training,12,18,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Justin D. Hansen,9:30 AM - 10:50 AM,None,M/W,None,None,None,None,None
+Spring 2025,KIN-27B-01,None,Int Weight Training,12,18,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Justin D. Hansen,9:30 AM - 10:50 AM,None,M/W,None,None,None,None,None
+Spring 2025,KIN-37A-01,None,Hatha Yoga I,0,30,30,10,No Required Times Online Lab,2/3/2025 - 5/31/2025,Stephanie A. Spencer, - ,None,,None,None,None,None,None
+Spring 2025,KIN-37B-01,None,Hatha Yoga II,0,30,30,3,No Required Times Online Lab,2/3/2025 - 5/31/2025,Stephanie A. Spencer, - ,None,,None,None,None,None,None
+Spring 2025,KIN-38A-01,None,Beg Yoga/Stress Red,1,29,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Leonard S. Norton,5:00 PM - 7:05 PM,None,W,None,None,None,None,None
+Spring 2025,KIN-38B-01,None,Int Yoga/Stress Red,1,29,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Leonard S. Norton,5:00 PM - 7:05 PM,None,W,None,None,None,None,None
+Spring 2025,KIN-39A-01,None,Gyrokinesis® Yoga I,11,19,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Stephanie A. Spencer,8:00 AM - 9:35 AM,None,T/Th,None,None,None,None,None
+Spring 2025,KIN-39B-01,None,Gyrokinesis® Yoga II,11,19,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Stephanie A. Spencer,8:00 AM - 9:35 AM,None,T/Th,None,None,None,None,None
+Spring 2025,KIN-39C-01,None,Gyrokinesis® Yoga III,11,19,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Stephanie A. Spencer,8:00 AM - 9:35 AM,None,T/Th,None,None,None,None,None
+Spring 2025,KIN-39D-01,None,Gyrokin® Yoga IV,11,19,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Stephanie A. Spencer,8:00 AM - 9:35 AM,None,T/Th,None,None,None,None,None
+Spring 2025,KIN-416-LS01,None,Advanced CPR: Healthcare Pro,17,3,20,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/24/2025 - 3/3/2025,Michael R Cutler,5:30 PM - 6:20 PM,None,M,6:30 PM - 9:45 PM,M,None,None,None
+Spring 2025,KIN-42A-01,None,Beg. Pickleball,0,24,24,1,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Anthony J. Marcopulos,11:15 AM - 12:35 PM,None,M/W,None,None,None,None,None
+Spring 2025,KIN-42B-01,None,Int. Pickleball,0,24,24,1,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Anthony J. Marcopulos,11:15 AM - 12:35 PM,None,M/W,None,None,None,None,None
+Spring 2025,KIN-42C-01,None,Adv. Pickleball,0,24,24,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Anthony J. Marcopulos,11:15 AM - 12:35 PM,None,M/W,None,None,None,None,None
+Spring 2025,KIN-4LA-01,None,Beg Pers Train Lab,13,17,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Gary P. Marcoccia,1:45 PM - 3:50 PM,None,F,None,None,None,None,None
+Spring 2025,KIN-4LB-01,None,Int Pers Train Lab,13,17,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Gary P. Marcoccia,1:45 PM - 3:50 PM,None,F,None,None,None,None,None
+Spring 2025,KIN-4LC-01,None,Adv Pers Train Lab,13,17,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Gary P. Marcoccia,1:45 PM - 3:50 PM,None,F,None,None,None,None,None
+Spring 2025,KIN-4LD-01,None,Expert Persnl Train,13,17,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Gary P. Marcoccia,1:45 PM - 3:50 PM,None,F,None,None,None,None,None
+Spring 2025,KIN-5-01,None,Theory of Coaching,13,17,30,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Paolo G. Carbone, - ,None,,None,None,None,None,None
+Spring 2025,KIN-60A-01,None,Beg Swimming,6,17,23,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Joshua P. Thomas,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,KIN-60B-01,None,Intrmd Swimming,6,17,23,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Joshua P. Thomas,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,KIN-60C-01,None,Advcd Swimming,6,17,23,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Joshua P. Thomas,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,KIN-61A-01,None,Beg. Swim Fitness,50,25,75,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Staff, - ,None,,None,None,None,None,None
+Spring 2025,KIN-61B-01,None,Int. Swim Fitness,50,25,75,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Staff, - ,None,,None,None,None,None,None
+Spring 2025,KIN-61C-01,None,Adv. Swim Fitness,50,25,75,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Staff, - ,None,,None,None,None,None,None
+Spring 2025,KIN-65A-01,None,Masters Swimming I,66,9,75,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Joshua P. Thomas, - ,None,,None,None,None,None,None
+Spring 2025,KIN-65B-01,None,Masters Swimming II,66,9,75,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Joshua P. Thomas, - ,None,,None,None,None,None,None
+Spring 2025,KIN-65C-01,None,Masters Swimming III,66,9,75,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Joshua P. Thomas, - ,None,,None,None,None,None,None
+Spring 2025,KIN-8A-01,None,Begin Weight Loss,15,15,30,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Gary P. Marcoccia,10:30 AM - 11:20 AM,None,F,11:30 AM - 1:35 PM,F,None,None,None
+Spring 2025,KIN-8B-01,None,Interm Weight Loss,15,15,30,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Gary P. Marcoccia,10:30 AM - 11:20 AM,None,F,11:30 AM - 1:35 PM,F,None,None,None
+Spring 2025,LIBR-10-CRQ01,None,Information Research,6,28,34,0,No Required Times Online Lab,2/3/2025 - 5/31/2025,Matthew W. Sargent, - ,None,,None,None,None,None,None
+Spring 2025,LS-254-LS01,None,Diagnostic Assessment,75,0,75,0,Required Times on Campus Lab,4/7/2025 - 5/31/2025,Luz A. Barrientos, - ,None,,None,None,None,None,None
+Spring 2025,MA-100-AMAP,None,MA Essentials,4,26,30,0,"Required Times on Campus Lect, Online Asynchronous Lect",2/3/2025 - 5/31/2025,Ashlyn M. James,1:00 PM - 3:05 PM,None,M, - ,,Laurie J. Colombani,None,Laurie J. Colombani
+Spring 2025,MA-101-01,None,MA Externship,10,0,10,0, Arranged On Campus Lab,2/3/2025 - 5/31/2025,Ashlyn M. James, - ,None,,None,None,None,None,None
+Spring 2025,MA-102-01,None,Phleb Externship,20,0,20,0, Arranged On Campus Lab,2/3/2025 - 5/31/2025,Kelly P. Strickling, - ,None,,None,None,None,None,None
+Spring 2025,MA-115-AMAP,None,Administrative MA,30,0,30,0,"Required Times on Campus Lect, Online Asynchronous Lect",2/3/2025 - 5/31/2025,Ashlyn M. James,9:00 AM - 11:05 AM,None,Th, - ,,Jonathan A. Sandoval,None,Jonathan A. Sandoval
+Spring 2025,MA-125-AMAP,None,Clinical MA I,4,26,30,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Laurie J. Colombani,1:00 PM - 4:05 PM,None,T,9:00 AM - 12:05 PM,W,Jonathan A. Sandoval,None,Jonathan A. Sandoval
+Spring 2025,MA-130A-02,None,Phlebotomy,0,11,20,26,Required Times on Campus Lect,2/4/2025 - 3/25/2025,Kelly P. Strickling,5:00 PM - 8:10 PM,None,T,None,None,None,None,None
+Spring 2025,MA-130AL-02,None,Phlebotomy Lab,0,11,20,0,Required Times on Campus Lab,2/5/2025 - 3/26/2025,Kelly P. Strickling,5:00 PM - 9:30 PM,None,W,5:00 PM - 9:30 PM,W,None,None,None
+Spring 2025,MA-130B-LS02,None,Phlebotomy-Advanced,4,0,20,0,Required Times on Campus Lect,4/8/2025 - 5/13/2025,Kelly P. Strickling,5:00 PM - 8:35 PM,None,T,5:00 PM - 8:35 PM,T,None,None,None
+Spring 2025,MA-135-AMAP,None,Clinical MA II,30,0,30,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Laurie J. Colombani,9:00 AM - 11:05 AM,None,M,10:15 AM - 12:20 PM,T,Ashlyn M. James,None,Ashlyn M. James
+Spring 2025,MA-170-AMAP,None,Med Term/Human Body,2,28,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Laurie J. Colombani,1:00 PM - 3:05 PM,None,W, - ,,Ashlyn M. James,None,Ashlyn M. James
+Spring 2025,MA-173A-AMAP,None,Med Law & Ethics,1,29,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Jonathan A. Sandoval,9:00 AM - 11:05 AM,None,T,None,None,None,None,None
+Spring 2025,MA-184-AMAP,None,Health Care Comm.,0,30,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Ashlyn M. James,10:00 AM - 12:05 PM,None,M,None,None,None,None,None
+Spring 2025,MA-70-01,None,Medical Terminology,0,40,40,16,No Required Times Online Lect,2/3/2025 - 5/31/2025,Laurie J. Colombani, - ,None,,None,None,None,None,None
+Spring 2025,MATH-1-CRQ01,None,College Algebra,0,30,30,1,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Alfonso Lobato,9:30 AM - 10:45 AM,None,M/T/Th,None,None,None,None,None
+Spring 2025,MATH-10-CRQ01,None,Explorations in Mathematics,0,30,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Stephanie M. Tran,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,MATH-101S-CRQ01,None,Support for College Algebra,5,30,35,0,"Required Times on Campus Lab, Online Asynchronous Lab",2/3/2025 - 5/31/2025,Alfonso Lobato,9:30 AM - 10:55 AM,None,W, - ,,None,None,None
+Spring 2025,MATH-104-PREP,None,Math Success Strategies,10,20,30,0,"Required Times on Campus Lab, Lab/Activity (M)",1/10/2025 - 1/24/2025,Emilyn R. Green,8:30 AM - 12:45 PM,None,M/T/W/Th/F,11:30 AM - 1:40 PM,F,None,None,None
+Spring 2025,MATH-104S-CRQ01,None,Support for Precalculus,5,22,40,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Laurie Ann D Shipley,9:30 AM - 11:55 AM,None,W,None,None,None,None,None
+Spring 2025,MATH-105AS-CRQ01,None,Support for Calculus I,5,30,35,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Mark A. Desmet,11:10 AM - 1:15 PM,None,T,11:10 AM - 1:15 PM,Th,None,None,None
+Spring 2025,MATH-105BS-CRQ01,None,Support for Calculus II,12,23,35,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Stephanie M. Tran,8:15 AM - 10:20 AM,None,T,8:15 AM - 10:20 AM,Th,None,None,None
+Spring 2025,MATH-110S-CRQ01,None,Support for Exp in Math,5,30,35,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Stephanie M. Tran,2:10 PM - 3:00 PM,None,M,2:10 PM - 3:15 PM,W,None,None,None
+Spring 2025,MATH-112S-CRQ01,None,Support for Statistics,15,20,35,0,"Required Times on Campus Lab, Online Asynchronous Lab",2/3/2025 - 5/31/2025,Gabriela Huezo,12:40 PM - 2:05 PM,None,W, - ,,None,None,None
+Spring 2025,MATH-118S-CRQ01,None,Support for Business Calc,5,30,35,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Eric D. Miles,12:40 PM - 3:05 PM,None,T,None,None,None,None,None
+Spring 2025,MATH-12-CRQ01,None,Elementary Statistics,10,20,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Gabriela Huezo,12:40 PM - 2:10 PM,None,M/T/Th,None,None,None,None,None
+Spring 2025,MATH-15-01,None,Number Systems,15,21,36,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Alfonso Lobato,2:30 PM - 4:35 PM,None,M,2:30 PM - 3:20 PM,W,None,None,None
+Spring 2025,MATH-18-ABP,None,Business Calculus,10,26,36,0,"Required Times on Campus Lect, Online Asynchronous Lect",2/3/2025 - 3/29/2025,Alfonso Lobato,6:00 PM - 9:05 PM,None,T,6:00 PM - 7:20 PM,Th,None,None,None
+Spring 2025,MATH-23-01,None,Discrete Mathematics,5,33,45,0,"Required Times on Campus Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Stephen J. Hodges,3:30 PM - 4:50 PM,None,M/W, - ,,None,None,None
+Spring 2025,MATH-300PLUS-ABP,None,MathPLUS: Study Skills,16,8,40,0,No Required Times Online Lect,1/13/2025 - 1/25/2025,Alfonso Lobato, - ,None,,None,None,None,None,None
+Spring 2025,MATH-301PLUS-ABP,None,"Prep for Alg, Finite, Bus Calc",11,8,30,0,"Required Times on Campus Lab, Online Asynchronous Lab",1/13/2025 - 1/25/2025,Alfonso Lobato,6:00 PM - 9:05 PM,None,T/Th, - ,,None,None,None
+Spring 2025,MATH-304PLUS-PLUS4,None,Prep for Precalc and Calc,30,6,36,0,Required Times on Campus Lab,1/21/2025 - 1/24/2025,Sara K. Decelle,9:30 AM - 1:55 PM,None,T/W/Th/F,None,None,None,None,None
+Spring 2025,MATH-312PLUS-PLUS1,None,Prep for Stats,17,19,36,0,Required Times on Campus Lab,1/21/2025 - 1/24/2025,Kevin L. McCandless,9:30 AM - 1:55 PM,None,T/W/Th/F,None,None,None,None,None
+Spring 2025,MATH-4-CRQ01,None,Precal Algebra/Trig,0,22,30,10,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Laurie Ann D Shipley,9:30 AM - 11:55 AM,None,M/T,None,None,None,None,None
+Spring 2025,MATH-502-01,None,Tutoring in Math,2491,9,2500,0,Hybrid Flexible Lab,2/3/2025 - 5/31/2025,Nathaniel R. Kotila, - ,None,,None,None,None,None,None
+Spring 2025,MATH-5A-CRQ01,None,Anl Geom and Calc I,0,30,30,4,"Required Times on Campus Lect, Online Asynchronous Lect",2/3/2025 - 5/31/2025,Mark A. Desmet,11:10 AM - 1:15 PM,None,M,11:10 AM - 1:00 PM,W,None,None,None
+Spring 2025,MATH-5B-CRQ01,None,Calc II,7,23,30,0,"Required Times on Campus Lect, Online Asynchronous Lect, Lecture (M)",2/3/2025 - 5/31/2025,Stephanie M. Tran,8:15 AM - 10:20 AM,None,M,8:15 AM - 10:05 AM,W,None,None,None
+Spring 2025,MATH-5C-SEC01,None,Calc III,12,24,36,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Bradley J. Krein,8:00 AM - 9:05 AM,None,M/T/W/Th,None,None,None,None,None
+Spring 2025,MATH-6-SEC01,None,Intro Linear Algebr,25,11,36,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Eric D. Miles,8:00 AM - 9:20 AM,None,T/Th,None,None,None,None,None
+Spring 2025,MATH-7-SEC01,None,Intro Difftl Equat,0,36,36,6,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Helene M. Payne,8:00 AM - 9:20 AM,None,M/W,None,None,None,None,None
+Spring 2025,MUS-1-01,None,Music Theory I,10,21,31,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Naoki Taniguchi,9:00 AM - 9:50 AM,None,M/W,9:05 AM - 10:10 AM,F,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-10-LS03,None,Music Appreciation,0,54,54,8,"No Required Times Online Lect, To Be Arranged Online Lab",3/3/2025 - 5/31/2025,Susan Bruckner, - ,None,, - ,,None,None,None
+Spring 2025,MUS-11A-01,None,Jazz Appreciation,0,54,54,4,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 3/29/2025,Kiefer L. Taylor, - ,None,, - ,,None,None,None
+Spring 2025,MUS-12-01,None,World Music,17,37,54,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Stephanie L. Gelman, - ,None,, - ,,None,None,None
+Spring 2025,MUS-13A-01,None,American Pop Music,0,54,54,7,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,David G. Chong, - ,None,, - ,,None,None,None
+Spring 2025,MUS-150-01,None,Music Laboratory,48,2,50,0, Arranged On Campus Lab,2/3/2025 - 5/31/2025,Susan K. Parrish, - ,None,,None,None,None,None,None
+Spring 2025,MUS-16-01,None,Applied Music,6,22,28,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Susan Bruckner,2:30 PM - 3:20 PM,None,T, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-17A-01,None,Beginning Voice,0,31,31,10,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Jordan E. Best,6:30 PM - 7:00 PM,None,M,7:00 PM - 8:20 PM,M,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-17LD-01,None,Lyric Diction,16,15,31,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Cheryl M Anderson,2:10 PM - 2:40 PM,None,F,2:40 PM - 4:00 PM,F,Sherilyn K. Hammerstrom,None,Sherilyn K. Hammerstrom
+Spring 2025,MUS-1M-01,None,Musicianship I,2,29,31,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Sherilyn K. Hammerstrom,10:00 AM - 10:50 AM,None,M/W,10:20 AM - 11:25 AM,F,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-2-01,None,Music Theory II,13,18,31,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Jeffrey E. De Seriere,9:00 AM - 9:50 AM,None,M/W,8:50 AM - 9:55 AM,F,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-23-01,None,Advanced Piano,9,15,24,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Susan Bruckner,6:30 PM - 9:35 PM,None,Th, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-23LIT-01,None,Keyboard Pedagogy,9,15,24,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Susan Bruckner,6:30 PM - 9:35 PM,None,Th, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-24A-01,None,Beg Jazz Improv.,15,16,31,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Steven R. Wilson,12:40 PM - 1:10 PM,None,T,1:10 PM - 2:00 PM,T,None,None,None
+Spring 2025,MUS-28-01,None,Popular Songwriting,0,31,31,3,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Steven R. Wilson,7:00 PM - 7:50 PM,None,T,8:00 PM - 10:05 PM,T,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-2M-01,None,Musicianship II,13,18,31,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Cheryl M Anderson,10:00 AM - 10:50 AM,None,M/W,10:05 AM - 11:10 AM,F,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-31A-01,None,Recording I,3,22,25,0,"Required Zoom Meetings Lecture, No Required Times Online Lab",4/8/2025 - 5/29/2025,Matt Blostein,3:30 PM - 4:55 PM,None,T/Th, - ,,None,None,None
+Spring 2025,MUS-31SP-01,None,Recording III,10,20,30,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 3/26/2025,Matt Blostein,3:30 PM - 5:00 PM,None,M/W,5:10 PM - 6:15 PM,M/W,None,None,None
+Spring 2025,MUS-31V-LS01,None,Audio/Music for Visual Media,0,25,25,7,"Required Times on Campus Lect, Required Times on Campus Lab",4/7/2025 - 5/28/2025,Matt Blostein,3:30 PM - 5:00 PM,None,M/W,5:10 PM - 6:15 PM,M/W,None,None,None
+Spring 2025,MUS-33A-01,None,Classical Guitar I,17,14,31,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Bradly S. Pupa,5:30 PM - 6:00 PM,None,W,6:00 PM - 7:20 PM,W,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-36-01,None,Chorale,0,50,50,4,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Cheryl M Anderson,12:40 PM - 1:55 PM,None,M/W,12:40 PM - 1:45 PM,F,None,None,None
+Spring 2025,MUS-38-01,None,Jazz Singers,34,16,50,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Mark E. Bidelman,3:30 PM - 5:35 PM,None,M/W,None,None,None,None,None
+Spring 2025,MUS-39-01,None,West Folk Gospel Choir,27,28,100,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Jussi T. Doherty,6:30 PM - 10:35 PM,None,M,None,None,None,None,None
+Spring 2025,MUS-4-01,None,Music Theory IV,16,15,31,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Naoki Taniguchi,10:00 AM - 10:50 AM,None,M,10:00 AM - 11:05 AM,W,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-40-01,None,Chamber Music Ensem,7,24,31,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Susan Bruckner,2:10 PM - 4:15 PM,None,M/W,None,None,None,None,None
+Spring 2025,MUS-431A-01,None,Recording I,0,22,25,1,"Required Zoom Meetings Lecture, No Required Times Online Lab",4/8/2025 - 5/29/2025,Matt Blostein,3:30 PM - 4:55 PM,None,T/Th, - ,,None,None,None
+Spring 2025,MUS-456M-01,None,Mariachi Banda,27,13,40,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Rodolfo Vega,5:15 PM - 9:20 PM,None,M,None,None,None,None,None
+Spring 2025,MUS-457A-01,None,Music Production I,0,25,25,5,"Required Times on Campus Lect, Required Times on Campus Lab",2/4/2025 - 3/27/2025,Matt Blostein,9:30 AM - 10:55 AM,None,T/Th,11:05 AM - 12:10 PM,T/Th,None,None,None
+Spring 2025,MUS-457B-LS01,None,Music Production II,0,25,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",4/8/2025 - 5/29/2025,Matt Blostein,9:30 AM - 10:55 AM,None,T/Th,11:05 AM - 12:10 PM,T/Th,None,None,None
+Spring 2025,MUS-46-01,None,Jazz Ensemble,6,25,31,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Kelly N. Corbin,5:30 PM - 9:35 PM,None,Th,None,None,None,None,None
+Spring 2025,MUS-47-01,None,Guitar Ensemble,8,23,31,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Bradly S. Pupa,7:35 PM - 9:40 PM,None,W, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-479-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,MUS-49-01,None,Symphonic Winds,34,26,60,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Jeffrey E. De Seriere,5:30 PM - 9:35 PM,None,T,None,None,None,None,None
+Spring 2025,MUS-4M-01,None,Musicianship IV,16,15,31,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Naoki Taniguchi,11:10 AM - 12:00 PM,None,M,11:15 AM - 12:20 PM,W,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-50-01,None,Jazz Workshop,29,11,40,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Steven R. Wilson,2:20 PM - 4:25 PM,None,Th, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-50LJ-01,None,Latin Jazz Ensemble,24,16,40,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,David G. Chong,7:00 PM - 9:05 PM,None,M, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-51A-01,None,Class Piano I,0,24,24,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Kiefer L. Taylor,12:40 PM - 2:00 PM,None,M/W, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-51B-01,None,Class Piano II,0,24,24,3,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Susan Bruckner,9:30 AM - 10:50 AM,None,T/Th, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-51C-01,None,Piano III,0,24,24,2,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Susan Bruckner,9:30 AM - 10:50 AM,None,T/Th, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-51D-01,None,Piano IV,0,24,24,2,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Susan Bruckner,9:30 AM - 10:50 AM,None,T/Th, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-536-01,None,Chorale for Older Adults,0,50,50,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Cheryl M Anderson,12:40 PM - 1:55 PM,None,M/W,12:40 PM - 1:45 PM,F,None,None,None
+Spring 2025,MUS-538-01,None,Vocal Jazz Older Adults,34,16,50,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Mark E. Bidelman,3:30 PM - 5:35 PM,None,M/W,None,None,None,None,None
+Spring 2025,MUS-539-01,None,West Folk Older Adults,45,28,100,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Jussi T. Doherty,6:30 PM - 10:35 PM,None,M,None,None,None,None,None
+Spring 2025,MUS-540-01,None,Chamb Mus Older Adults,7,24,31,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Susan Bruckner,2:10 PM - 4:15 PM,None,M/W,None,None,None,None,None
+Spring 2025,MUS-546-01,None,Jazz Ensemble Older Adults,6,25,31,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Kelly N. Corbin,5:30 PM - 9:35 PM,None,Th,None,None,None,None,None
+Spring 2025,MUS-547-01,None,Guitar Ensemble Older Adults,8,23,31,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Bradly S. Pupa,7:35 PM - 9:40 PM,None,W, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-549-01,None,Col Symph Winds Older Adults,34,26,60,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Jeffrey E. De Seriere,5:30 PM - 9:35 PM,None,T,None,None,None,None,None
+Spring 2025,MUS-550-01,None,Jazz Rep-Oldr Adult,29,11,40,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Steven R. Wilson,2:20 PM - 4:25 PM,None,Th, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-558-01,None,Symph Orch Adult,12,28,40,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Jeffrey E. De Seriere,6:30 PM - 9:35 PM,None,W,None,None,None,None,None
+Spring 2025,MUS-561-01,None,Cab Symph Chor Old Adults,52,68,120,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Cheryl M Anderson,6:00 PM - 10:05 PM,None,T,None,None,None,None,None
+Spring 2025,MUS-564-01,None,Cantiamo-Oldr Adult,90,30,120,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Cheryl M Anderson,4:00 PM - 8:05 PM,None,Th,None,None,None,None,None
+Spring 2025,MUS-568-01,None,Piano Ensemble Older Adults,7,24,31,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Susan Bruckner,2:10 PM - 4:15 PM,None,M/W,None,None,None,None,None
+Spring 2025,MUS-56M-01,None,Mariachi Banda,27,13,40,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Rodolfo Vega,5:15 PM - 9:20 PM,None,M,None,None,None,None,None
+Spring 2025,MUS-57A-01,None,Music Production I,0,25,25,5,"Required Times on Campus Lect, Required Times on Campus Lab",2/4/2025 - 3/27/2025,Matt Blostein,9:30 AM - 10:55 AM,None,T/Th,11:05 AM - 12:10 PM,T/Th,None,None,None
+Spring 2025,MUS-57B-LS01,None,Music Production II,0,25,25,6,"Required Times on Campus Lect, Required Times on Campus Lab",4/8/2025 - 5/29/2025,Matt Blostein,9:30 AM - 10:55 AM,None,T/Th,11:05 AM - 12:10 PM,T/Th,None,None,None
+Spring 2025,MUS-58-01,None,Symphonic Orchestra,12,28,40,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Jeffrey E. De Seriere,6:30 PM - 9:35 PM,None,W,None,None,None,None,None
+Spring 2025,MUS-6-01,None,Music Fundamentals,0,31,31,6,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Susan K. Parrish, - ,None,, - ,,None,None,None
+Spring 2025,MUS-61-01,None,Symphonic Chorus,52,68,120,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Cheryl M Anderson,6:00 PM - 10:05 PM,None,T,None,None,None,None,None
+Spring 2025,MUS-64-01,None,Cantiamo Cabrillo,90,30,120,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Cheryl M Anderson,4:00 PM - 8:05 PM,None,Th,None,None,None,None,None
+Spring 2025,MUS-68-01,None,Piano Ensemble,7,24,31,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Susan Bruckner,2:10 PM - 4:15 PM,None,M/W,None,None,None,None,None
+Spring 2025,MUS-68CP-01,None,The Collaborative Pianist,7,24,31,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Susan Bruckner,2:10 PM - 4:15 PM,None,M/W,None,None,None,None,None
+Spring 2025,MUS-7-01,None,Music Synthesis,0,30,30,3,Required Times on Campus Lect,2/3/2025 - 5/31/2025,James D. Stewart,6:30 PM - 9:35 PM,None,Th, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,MUS-77-01,None,Correlation of the Arts,9,26,35,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Stephanie L. Gelman, - ,None,, - ,,None,None,None
+Spring 2025,MUS-79-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,N-109A-01,None,Practice Lab I,13,19,32,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Teresa L. Kidwiler, - ,None,,None,None,None,None,None
+Spring 2025,N-109B-01,None,Practice Lab II,8,24,32,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Teresa L. Kidwiler, - ,None,,None,None,None,None,None
+Spring 2025,N-109C-01,None,Practice Lab III,13,11,24,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Teresa L. Kidwiler, - ,None,,None,None,None,None,None
+Spring 2025,N-109D-01,None,Practice Lab IV,16,8,24,0,Open Entry on Campus Lab,2/3/2025 - 5/31/2025,Teresa L. Kidwiler, - ,None,,None,None,None,None,None
+Spring 2025,N-12-01,None,Nrs Fundmntls I,3,29,32,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Kelli L. Duarte,8:00 AM - 10:05 AM,None,T,8:00 AM - 10:10 AM,F,Megan B. Alisago,None,Megan B. Alisago
+Spring 2025,N-16-01,None,Skills Lab 1,0,16,16,2,"Required Times on Campus Lect, Required Times on Campus Lab, Lab/Activity (O)",2/3/2025 - 5/31/2025,Megan B. Alisago,10:30 AM - 11:20 AM,None,T,12:30 PM - 2:35 PM,T,None,None,None
+Spring 2025,N-17-LS01,None,Pharmacology A,3,29,32,0,No Required Times Online Lect,2/18/2025 - 4/19/2025,Teresa L. Kidwiler, - ,None,,None,None,None,None,None
+Spring 2025,N-22-01,None,Nrs Fundmntls II,2,30,32,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Barbara D. Johnson,8:00 AM - 10:05 AM,None,M,8:00 AM - 10:50 AM,T,Dorothy C. Nunn,None,Dorothy C. Nunn
+Spring 2025,N-26-01,None,Skills Lab 2,1,15,16,0,"Required Times on Campus Lect, Required Times on Campus Lab, Lab/Activity (O)",2/3/2025 - 5/31/2025,Dorothy C. Nunn,10:30 AM - 11:20 AM,None,M,12:30 PM - 2:35 PM,M,None,None,None
+Spring 2025,N-27-01,None,Pharmacology B,3,29,32,1,No Required Times Online Lect,2/3/2025 - 3/29/2025,Teresa L. Kidwiler, - ,None,,None,None,None,None,None
+Spring 2025,N-32-01,None,Nrs Fundmntls III,2,22,24,0,"Required Times on Campus Lect, Required Times on Campus Lab, Lab/Activity (O)",2/3/2025 - 5/31/2025,Mirella R. Brokaw,10:00 AM - 12:25 PM,None,Th,10:00 AM - 12:25 PM,F,Teresa L. Kidwiler,None,Teresa L. Kidwiler
+Spring 2025,N-37-01,None,Pharmacology C,2,22,24,0,No Required Times Online Lect,2/3/2025 - 3/29/2025,Teresa L. Kidwiler, - ,None,,None,None,None,None,None
+Spring 2025,N-42-01,None,Nursing Fundamentals IV,1,23,24,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Sonja P. Sheppard,10:00 AM - 12:05 PM,None,F, - ,,Teresa L. Kidwiler,None,Teresa L. Kidwiler
+Spring 2025,N-47-01,None,Pharmacology D,1,23,24,0,No Required Times Online Lect,2/3/2025 - 3/29/2025,Teresa L. Kidwiler, - ,None,,None,None,None,None,None
+Spring 2025,NUTR-20-01,None,Nutrition,2,37,39,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Denise M. Russo,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,NUTR-22-01,None,Nutritional Health,0,39,39,15,No Required Times Online Lect,2/3/2025 - 5/31/2025,Denise M. Russo, - ,None,,None,None,None,None,None
+Spring 2025,OCEAN-10-01,None,Intro Oceanography,0,25,25,2,No Required Times Online Lect,2/3/2025 - 5/31/2025,Fernanda Mazzillo, - ,None,,11:10 AM - 2:15 PM,M,Lauren E. Hanneman,None,Lauren E. Hanneman
+Spring 2025,OCEAN-110S-CRQ01,None,Oceanography Skills,38,12,50,0,Required Times on Campus Lect,2/19/2025 - 5/14/2025,Emilyn R. Green,11:10 AM - 12:25 PM,None,W,None,None,None,None,None
+Spring 2025,OCEAN-30-LS01,None,Monterey Bay and Canyon,0,30,30,7,"Required Times on Campus Lect, Required Times on Campus Lab",3/8/2025 - 3/8/2025,Lisa A. Gilbert,9:00 AM - 1:50 PM,None,Sa,9:00 AM - 4:10 PM,Sa,None,None,None
+Spring 2025,PHILO-10-01,None,Ethics,37,28,65,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Claudia R. Close,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,PHILO-12-01,None,Symbolic Logic,17,33,50,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Rebecca A. Smith, - ,None,,None,None,None,None,None
+Spring 2025,PHILO-4-01,None,Intro to Philosophy,37,28,65,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Claudia R. Close,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,PHILO-49-01,None,Intro Crit Thinking,15,15,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Rebecca A. Smith,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,PHILO-8-01,None,Philosophy/Religion,0,45,45,9,No Required Times Online Lect,2/3/2025 - 5/31/2025,Michael B. Jordan, - ,None,,None,None,None,None,None
+Spring 2025,PHILO-9-01,None,Philosophy of Mind,30,20,50,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Rebecca A. Smith,11:10 AM - 12:30 PM,None,M/W,None,None,None,None,None
+Spring 2025,PHYS-10-01,None,Conceptual Physics,0,24,24,0,None,2/3/2025 - 5/31/2025,None,8:00 AM - 9:20 AM,None,T/Th,None,None,None,None,None
+Spring 2025,PHYS-10L-01,None,Conceptual Phys Lab,4,20,24,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Sue E Broadston,3:00 PM - 6:05 PM,None,Th,None,None,None,None,None
+Spring 2025,PHYS-11-01,None,Intro Phys Sci/Eng,0,24,24,1,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Carlos E. Figueroa,12:40 PM - 2:00 PM,None,M/W,12:40 PM - 2:00 PM,T/Th,None,None,None
+Spring 2025,PHYS-2B-01,None,Phys Life Scienc 2,4,20,24,0,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Carlos E. Figueroa,8:00 AM - 9:20 AM,None,T/Th,9:30 AM - 10:50 AM,T/Th,None,None,None
+Spring 2025,PHYS-4A-01,None,Phys Scients/Engnrs I,0,24,24,2,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Joseph F. McCullough,11:10 AM - 12:25 PM,None,M/T/Th,11:10 AM - 2:15 PM,W,None,None,None
+Spring 2025,PHYS-4C-01,None,Phys Scients/Engnrs III,0,24,24,5,"Required Times on Campus Lect, Required Times on Campus Lab, To Be Arranged on Campus Lab",2/3/2025 - 5/31/2025,Marcus D. Watson,11:10 AM - 12:25 PM,None,T/W/Th,11:10 AM - 2:15 PM,M,None,None,None
+Spring 2025,PS-1-01,None,Intro to Government,30,19,49,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Nicholas A. Rowell,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,PS-2-01,None,Comparative Government,14,35,49,0,"Required Times on Campus Lect, Lecture (O)",2/3/2025 - 5/31/2025,Nicholas A. Rowell,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,PS-5-01,None,Amer Poli Thought,28,21,49,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Rory O'Brien,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,PSYCH-1-01,None,General Psychology,29,36,65,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Steven R. MacRamalla,6:00 PM - 9:05 PM,None,W,None,None,None,None,None
+Spring 2025,PSYCH-12-01,None,Intro to Cognitive Psych,19,21,40,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Cassidy P. Sterling,11:10 AM - 12:30 PM,None,M/W,None,None,None,None,None
+Spring 2025,PSYCH-2A-01,None,Statistics for Behavioral Sci,0,33,33,10,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Cassidy P. Sterling,9:30 AM - 10:50 AM,None,M/W,None,None,None,None,None
+Spring 2025,PSYCH-2B-01,None,Research Methods in Psychology,0,26,26,10,"No Required Times Online Lect, Required Times on Campus Lab, Lab/Activity (O)",2/3/2025 - 5/31/2025,Cassidy P. Sterling, - ,None,,11:10 AM - 12:30 PM,T/Th,None,None,None
+Spring 2025,PSYCH-31-01,None,Intro Abnormal Psyc,4,40,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Mark W. Stanford,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,PSYCH-35-01,None,Death and Dying,14,26,40,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Mark W. Stanford,2:10 PM - 5:15 PM,None,T,None,None,None,None,None
+Spring 2025,PSYCH-4-01,None,Intro Bio Psychology,19,25,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Sarah M. Reinhard,9:30 AM - 10:50 AM,None,M/W,None,None,None,None,None
+Spring 2025,PSYCH-6-01,None,Intro Social Psych,0,44,44,11,No Required Times Online Lect,2/3/2025 - 5/31/2025,Steven R. MacRamalla, - ,None,,None,None,None,None,None
+Spring 2025,PSYCH-8-01,None,Intro to Develop Psych,34,10,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Jennifer S. Lee,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,RT-185-01,None,Principles of Mammography,12,0,12,0,"No Required Times Online Lect, Lab/Activity (O)",2/3/2025 - 5/31/2025,Staff,5:45 PM - 7:50 PM,None,T,None,None,None,None,None
+Spring 2025,RT-185C-01,None,Mammo Clinic,12,0,12,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,David A. Nist, - ,None,,None,None,None,None,None
+Spring 2025,RT-185L-01,None,Prin of Mammo Lab,12,0,12,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Staff,5:45 PM - 8:55 PM,None,Th,None,None,None,None,None
+Spring 2025,RT-53BL-01,None,Rad T Lab/Clin II,3,13,16,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,David A. Nist,8:00 AM - 5:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,RT-60-01,None,Prin of Rad Imaging,4,12,16,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,David A. Nist,12:00 PM - 2:05 PM,None,W,None,None,None,None,None
+Spring 2025,RT-60L-01,None,Prin of Rad Lab,0,8,8,1,Required Times on Campus Lab,2/3/2025 - 5/31/2025,David A. Nist,2:30 PM - 3:50 PM,None,W,None,None,None,None,None
+Spring 2025,RT-61-01,None,Rad Positioning II,3,13,16,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Anya M. Salden,11:30 AM - 1:35 PM,None,M,None,None,None,None,None
+Spring 2025,RT-61L-01,None,Rad Position Lab II,0,8,8,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Anya M. Salden,2:00 PM - 5:05 PM,None,M,None,None,None,None,None
+Spring 2025,RT-62-01,None,Prin of Rad Protect,3,13,16,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,David A. Nist,9:00 AM - 11:05 AM,None,M,None,None,None,None,None
+Spring 2025,RT-63BL-01,None,Adv Pos Lab/Clinc V,1,15,16,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,David A. Nist,8:00 AM - 5:00 PM,None,M/W/F,None,None,None,None,None
+Spring 2025,RT-72-01,None,Adv Diag Imag/Resrc,1,15,16,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Anya M. Salden,10:00 AM - 12:05 PM,None,Th,None,None,None,None,None
+Spring 2025,RT-82-01,None,Adv Diag Imaging,1,15,16,0,Required Times on Campus Lect,2/6/2025 - 3/27/2025,Anya M. Salden,12:30 PM - 2:35 PM,None,Th,None,None,None,None,None
+Spring 2025,RT-83-01,None,Transition to Prof,1,15,16,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,David A. Nist,10:00 AM - 12:05 PM,None,T,None,None,None,None,None
+Spring 2025,SOC-1-02,None,Understand Society,26,23,49,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Jacquelynne B. Logg,11:10 AM - 12:30 PM,None,T/Th,None,None,None,None,None
+Spring 2025,SOC-10-01,None,Popular Culture,10,39,49,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Maria-Teresa B. Macedo, - ,None,,None,None,None,None,None
+Spring 2025,SOC-11-01,None,Families & Society,0,49,49,1,No Required Times Online Lect,2/3/2025 - 5/31/2025,Jacquelynne B. Logg, - ,None,,None,None,None,None,None
+Spring 2025,SOC-12-01,None,Crime and Society,0,49,49,2,No Required Times Online Lect,2/3/2025 - 5/31/2025,Liz N. Roberts, - ,None,,None,None,None,None,None
+Spring 2025,SOC-2-01,None,Contemp Social Problems,32,17,49,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Maria-Teresa B. Macedo,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,SOC-3-01,None,"Race, Ethnicity, and Society",0,51,49,4,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Sadie D. Reynolds,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,SOC-48-01,None,Gender and Science,36,8,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Kristin J. Wilson,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
+Spring 2025,SOC-5-01,None,Gender Society,29,20,49,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Jacquelynne B. Logg,12:40 PM - 2:00 PM,None,T/Th,None,None,None,None,None
+Spring 2025,SOC-8-01,None,Intro to Latino/a Studies,34,10,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Alicia Bencomo Garcia,9:30 AM - 10:50 AM,None,T/Th,None,None,None,None,None
+Spring 2025,SPAN-1-01,None,Elem Spanish I,0,30,30,9,"Required Zoom Meetings Lecture, Online Asynchronous Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Alejandra Campos Albarran,9:30 AM - 10:50 AM,None,M/W, - ,,None,None,None
+Spring 2025,SPAN-10A-01,None,Intermed Spanish Conversation,11,19,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Staff,6:00 PM - 9:05 PM,None,T,None,None,None,None,None
+Spring 2025,SPAN-16-01,None,Elem Sp/Sp Speakers,0,30,30,4,Required Zoom Meetings Lecture,2/3/2025 - 5/31/2025,Carmen Ramos-Castro,5:30 PM - 7:35 PM,None,M/W,None,None,None,None,None
+Spring 2025,SPAN-17-01,None,Elem Sp/Sp Spkrs II,24,6,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Victor M. Prieto,6:00 PM - 8:05 PM,None,T/Th,None,None,None,None,None
+Spring 2025,SPAN-2-01,None,Elementary Spanish II,9,21,30,0,"Required Zoom Meetings Lecture, Online Asynchronous Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Alejandra Campos Albarran,11:10 AM - 12:30 PM,None,M/W, - ,,None,None,None
+Spring 2025,SPAN-3-01,None,Interm Spanish I,10,20,30,0,"Required Times on Campus Lect, Online Asynchronous Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Francisco J. Iniguez,9:30 AM - 10:50 AM,None,M/W, - ,,None,None,None
+Spring 2025,SPAN-4-01,None,Interm Spanish II,21,9,30,0,"Required Zoom Meetings Lecture, Online Asynchronous Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Victor M. Prieto,11:10 AM - 12:30 PM,None,M/W, - ,,None,None,None
+Spring 2025,SPAN-6B-01,None,Spanish Thru Film,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Francisco J. Iniguez,11:10 AM - 12:30 PM,None,M/W,None,None,None,None,None
+Spring 2025,SPED-210-01,None,Adaptive Speech - Lang Skills,10,5,15,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Brandy Dickinson,9:40 AM - 11:00 AM,None,M,None,None,None,None,None
+Spring 2025,SPED-215-LS01,None,Orientation to SDLC,39,1,40,0,Open Entry on Campus Lab,2/13/2025 - 5/29/2025,Courtney R. Domitrovic, - ,None,,None,None,None,None,None
+Spring 2025,SPED-216-01,None,Exploring Abilities,0,18,18,1,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Courtney R. Domitrovic,11:10 AM - 12:30 PM,None,T,None,None,None,None,None
+Spring 2025,TA-10A-01,None,Basic Act Technique,4,26,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Donald G. Williams,9:30 AM - 10:50 AM,None,M/W, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,TA-10B-01,None,Intermediate Acting,4,26,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Donald G. Williams,9:30 AM - 10:50 AM,None,M/W, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,TA-10C-01,None,Advanced Acting,4,26,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Donald G. Williams,9:30 AM - 10:50 AM,None,M/W, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,TA-13A-01,None,Beginning Improvisation,11,15,26,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Robin Aronson,12:40 PM - 2:00 PM,None,T/Th, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,TA-13B-01,None,Intermediate Improvisation,11,15,26,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Robin Aronson,12:40 PM - 2:00 PM,None,T/Th, - ,,Susan K. Parrish,None,Susan K. Parrish
+Spring 2025,TA-21-01,None,Acting for the Camera,11,19,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Sarah J Albertson,6:00 PM - 9:05 PM,None,M,None,None,None,None,None
+Spring 2025,TA-27-01,None,Theatre Production Workshop,25,5,30,0,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Skip Epperson,1:00 PM - 4:05 PM,None,W,None,None,None,None,None
+Spring 2025,TA-28-01,None,Backstage Theatre,3,27,30,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Skip Epperson,2:30 PM - 4:35 PM,None,T,2:30 PM - 4:35 PM,Th,None,None,None
+Spring 2025,TA-29-LS01,None,Rehearsal/Performan,28,2,30,0,Required Times on Campus Lab,2/11/2025 - 5/30/2025,Robin Aronson,7:00 PM - 8:30 PM,None,T/W,None,None,None,None,None
+Spring 2025,TA-479-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,TA-527-01,None,Th Prod-Oldr Adult,26,4,30,0, Arranged On Campus Lab,2/3/2025 - 5/31/2025,Skip Epperson, - ,None,,None,None,None,None,None
+Spring 2025,TA-529-LS01,None,Rehrs Perf-Oldr Adlt,28,2,30,0,Required Times on Campus Lab,2/11/2025 - 5/30/2025,Robin Aronson,7:00 PM - 8:30 PM,None,T/W,None,None,None,None,None
+Spring 2025,TA-73-01,None,Voice and the Musical Stage,0,30,30,1,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Jordan E. Best,6:30 PM - 9:35 PM,None,W,None,None,None,None,None
+Spring 2025,TA-79-01,None,Creative Careers,14,16,30,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Leslie Murray,6:00 PM - 9:05 PM,None,M, - ,,Gabriel J. Medina,None,Gabriel J. Medina
+Spring 2025,TA-9-01,None,Apprec Theatre Arts,10,25,35,0,"No Required Times Online Lect, No Required Times Online Lab",2/3/2025 - 5/31/2025,Robin Aronson, - ,None,, - ,,None,None,None
+Spring 2025,W-150-01,None,Arc Welding,0,25,25,2,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Gerald S. Brown,6:00 PM - 6:50 PM,None,W,7:00 PM - 10:05 PM,W,None,None,None
+Spring 2025,W-151-01,None,TIG Welding,0,25,25,0,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Binh K. Cheung,1:00 PM - 1:50 PM,None,T,2:00 PM - 5:05 PM,T,None,None,None
+Spring 2025,W-152-01,None,Advanced Welding,0,6,6,16,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Binh K. Cheung,6:00 PM - 6:50 PM,None,M,7:00 PM - 10:05 PM,M,None,None,None
+Spring 2025,W-152A-01,None,Adv Arc Weld,0,3,3,4,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Binh K. Cheung,7:00 PM - 10:05 PM,None,M,None,None,None,None,None
+Spring 2025,W-152B-01,None,Adv MIG Weld,0,3,3,4,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Binh K. Cheung,7:00 PM - 10:05 PM,None,M,None,None,None,None,None
+Spring 2025,W-152C-01,None,Adv TIG Weld,0,3,3,4,Required Times on Campus Lab,2/3/2025 - 5/31/2025,Binh K. Cheung,7:00 PM - 10:05 PM,None,M,None,None,None,None,None
+Spring 2025,W-154-01,None,Pipe Welding,0,10,10,7,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,David R. Osland,8:00 AM - 8:50 AM,None,Sa,9:00 AM - 12:05 PM,Sa,None,None,None
+Spring 2025,W-155-01,None,Ornamental Ironwork,0,10,10,8,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,David R. Osland,9:00 AM - 12:05 PM,None,Sa,12:15 PM - 1:05 PM,Sa,None,None,None
+Spring 2025,W-156-01,None,Intro Sheet Metl Fb,0,5,5,10,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Binh K. Cheung,12:00 PM - 12:50 PM,None,M,1:00 PM - 4:05 PM,M,None,None,None
+Spring 2025,W-158-01,None,Welding Fabrication,0,6,6,7,"Required Times on Campus Lect, Required Times on Campus Lab",2/3/2025 - 5/31/2025,Binh K. Cheung,5:00 PM - 5:50 PM,None,M,7:00 PM - 10:05 PM,M,None,None,None
+Spring 2025,WS-1-01,None,Intro Women's Studies,16,33,49,0,No Required Times Online Lect,2/3/2025 - 5/31/2025,Sadie D. Reynolds, - ,None,,None,None,None,None,None
+Spring 2025,WS-48-01,None,Gender and Science,36,8,44,0,Required Times on Campus Lect,2/3/2025 - 5/31/2025,Kristin J. Wilson,12:40 PM - 2:00 PM,None,M/W,None,None,None,None,None
