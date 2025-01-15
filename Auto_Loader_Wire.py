@@ -7,7 +7,10 @@ from selenium.webdriver.support import expected_conditions as EC
 from seleniumwire.utils import decode as decode_sw
 from selenium.webdriver.common.by import By
 import time
-import json 
+import json
+import csv
+import datetime
+import pandas as pd 
 
 # Function parses the json file into a string with necessary information.
 def parser(json_dict, a_file):
@@ -70,13 +73,36 @@ def parser(json_dict, a_file):
     sect_mod2_loc = 'None'
     if (sect_mod2_day != 'None'):
         sect_mod2_loc = json_dict["SectionsRetrieved"]["TermsAndSections"][0]["Sections"][0]["Section"]["LocationDisplay"]
-    final_string = sect_term + ',' + sect_name + ',' + sect_requisites + ',' + \
-        sect_desc + ',' + str(sect_avlb) + ',' + str(sect_enrl) + \
-        ',' + str(sect_cap) + ',' + str(sect_wait) + \
-        ',' + sect_mods + ',' + sect_mod1_sch + ',' + sect_mod1_inst + ',' + sect_mod1_times + ',' + sect_mod1_loc + ',' + \
-        sect_mod1_day + ',' + sect_mod2_times + ',' + sect_mod2_day + ',' + \
-        sect_mod2_inst + ',' + sect_mod2_loc + ',' + sect_mod2_inst + '\n'
-    a_file.write(final_string)
+
+    # final_string = sect_term + ',' + sect_name + ',' + sect_requisites + ',' + \
+    #     sect_desc + ',' + str(sect_avlb) + ',' + str(sect_enrl) + \
+    #     ',' + str(sect_cap) + ',' + str(sect_wait) + \
+    #     ',' + sect_mods + ',' + sect_mod1_sch + ',' + sect_mod1_inst + ',' + sect_mod1_times + ',' + sect_mod1_loc + ',' + \
+    #     sect_mod1_day + ',' + sect_mod2_times + ',' + sect_mod2_day + ',' + \
+    #     sect_mod2_inst + ',' + sect_mod2_loc + ',' + sect_mod2_inst + ',' + time.ctime() + '\n'
+    class_data = pd.DataFrame({
+            'Section Term': [sect_term], 
+            'Section Name': [sect_name] , 
+            'Sections Requisites': [sect_requisites], 
+            'Desctription': [sect_desc], 
+            'Available Seats': [sect_avlb], 
+            'Enrollments': [sect_enrl], 
+            'Capacity': [sect_cap], 
+            'Wait List': [sect_wait], 
+            'Modalities': [sect_mods], 
+            'Dates': [sect_mod1_sch], 
+            'Falculty Name': [sect_mod1_inst], 
+            'Class Times': [sect_mod1_times], 
+            'Class Location': [sect_mod1_loc],
+            'Days of week': [sect_mod1_day], 
+            'Modality 2 Class Time': [sect_mod2_times], 
+            'Modality 2 Days of Week': [sect_mod2_day], 
+            'Mod 2 Instructor': [sect_mod2_inst], 
+            'Mod 2 Class Location': [sect_mod2_loc], 
+            'Day of scrape': [time.ctime()]
+            })
+    
+    class_data.to_csv(a_file, mode= 'a', header = True, index = False)
     return
 
 
@@ -115,14 +141,13 @@ def main():
             next_page.click()
         else:
             pass
-        
         time.sleep(2)
 
     # Wait for response to load.
     count = 0
     # Loop parses through each request in our driver, and finds the section requests.
     time.sleep(3)
-    test_file = open("Test.txt", "a")
+    test_file = open("Test.csv", "a")
     for request in driver.requests: 
         if request.url == ('https://stuserv.hartnell.edu/Student/Courses/Sections') and request.headers['Content-Type'] == 'application/json, charset=UTF-8':
             try:
@@ -137,6 +162,8 @@ def main():
                 pass
     time.sleep(2)
     driver.quit()
+
+
 
 if __name__ == '__main__':
     main()
