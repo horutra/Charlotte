@@ -1,0 +1,9 @@
+[Unit]
+Description=Run both Charlotte scripts every day at a fixed time
+
+[Timer]
+OnCalendar=*-*-* 08:00:00
+Unit=CharlotteHartnellCabrillo.service
+
+[Install]
+WantedBy=timers.target

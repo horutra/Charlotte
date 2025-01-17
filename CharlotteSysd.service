@@ -1,0 +1,11 @@
+[Unit]
+Description=Run Webscraper for Hartnell and Cabrillo at specified times
+
+[Service]
+ExecStart=/bin/bash -c '/usr/bin/python3 /home/flavortown/Desktop/MPC/PyWebscraper/HartnellWebscraper.py && /usr/bin/python3 /home/flavortown/Desktop/MPC/PyWebscraper/CabrilloWebscraper.py'
+WorkingDirectory=/home/flavortown/Desktop/MPC/PyWebscraper
+Environment=PYTHONUNBUFFERED=1
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
