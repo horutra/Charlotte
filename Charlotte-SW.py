@@ -130,11 +130,8 @@ def parser(json_dict, a_file):
 
 
 def main():
-    # Options:
-    options = Options()
-    options.add_argument("--headless")
-    # Setup Drivers.
-    driver = webdriver.Firefox(options=options)
+       # Setup Drivers.
+    driver = webdriver.Firefox(seleniumwire_options={"disable_encoding": True})
     driver.get('https://stuserv.hartnell.edu/Student/Courses/')
     # Access elements and drop downs.
     filter = driver.find_element('id', 'submit-search-form')
@@ -146,7 +143,6 @@ def main():
     time.sleep(3)
     # Find the maximum number of pages.
     max_pages = driver.find_element('id', 'course-results-total-pages').text
-    responses = []
     test_file = open('test.csv', 'a')
     for i in range(int(max_pages)):
         selection = driver.find_elements(
@@ -159,7 +155,6 @@ def main():
         next_page.click()
         # Wait for response to load.
         time.sleep(3)
-    count = 0
     # Setup headers for output csv.
     class_data = pd.DataFrame([
         'Section Term',
@@ -184,18 +179,18 @@ def main():
     ])
     class_data.to_csv(test_file, mode='a', header=True, index=False)
     # Loop parses through each request in our driver, and finds the section requests.
-    for request in driver.requests:
+        for request in driver.requests:
         if request.url == 'https://stuserv.hartnell.edu/Student/Courses/Sections' and request.headers['Content-Type'] == 'application/json, charset=utf-8':
-            data = decode_sw(request.response.body, request.response.headers.get(
-                'Content-Encoding', 'identity'))
-            response = json.loads(data.decode('utf-8'))
-            responses.append(response)
-            parser(response, test_file)
+            try:
+                data = decode_sw(request.response.body, request.response.headers.get(
+                    'Content-Encoding', 'identity'))
+                response = json.loads(data.decode('utf-8'))
+                parser(response, test_file)
+            except:
+                pass
 
     # Wait, then shut down driver.
     time.sleep(5)
     driver.quit()
-
-
 if __name__ == '__main__':
     main()
