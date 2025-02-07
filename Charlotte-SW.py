@@ -179,15 +179,15 @@ def main():
     ])
     class_data.to_csv(test_file, mode='a', header=True, index=False)
     # Loop parses through each request in our driver, and finds the section requests.
-        for request in driver.requests:
-            if request.url == 'https://stuserv.hartnell.edu/Student/Courses/Sections' and request.headers['Content-Type'] == 'application/json, charset=utf-8':
-                try:
-                    data = decode_sw(request.response.body, request.response.headers.get(
-                    'Content-Encoding', 'identity'))
-                    response = json.loads(data.decode('utf-8'))
-                    parser(response, test_file)
-                except:
-                    pass
+    for request in driver.requests:
+        if request.url == 'https://stuserv.hartnell.edu/Student/Courses/Sections' and request.headers['Content-Type'] == 'application/json, charset=utf-8':
+            try:
+                data = decode_sw(request.response.body, request.response.headers.get(
+                'Content-Encoding', 'identity'))
+                response = json.loads(data.decode('utf-8'))
+                parser(response, test_file)
+            except:
+                pass
 
     # Wait, then shut down driver.
     time.sleep(5)
